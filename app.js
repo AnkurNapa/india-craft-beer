@@ -75,7 +75,7 @@ function renderBeer(entry) {
   const cityName = state.city === 'all' ? '' : state.city;
 
   return el('li', { className: 'beer' },
-    el('p', { className: 'score', textContent: entry.mean.toFixed(2) }, el('small', { textContent: `${entry.n} rating${entry.n === 1 ? '' : 's'}` })),
+    el('p', { className: 'score', textContent: entry.score.toFixed(2), title: 'Ranking score: the average, pulled towards 3.5 until a beer has enough ratings' }, el('small', { textContent: `avg ${entry.mean.toFixed(2)} from ${entry.n} rating${entry.n === 1 ? '' : 's'}` })),
     el('h2', { textContent: beer.name }),
     el('p', { className: 'meta' }, el('span', { className: 'chip', textContent: beer.style }), where),
     el('p', { className: 'pair' }, el('b', { textContent: 'Eat with: ' }), PAIRINGS[beer.style] ?? 'Anything you like.'),
