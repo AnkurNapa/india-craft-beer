@@ -1,0 +1,35 @@
+name: Rate a beer
+description: Add your rating to the Tap List India rankings
+title: "Rating: "
+labels: [rating]
+body:
+  - type: input
+    id: beer
+    attributes:
+      label: Beer
+      description: Filled in for you when you click "Rate it" on the site
+    validations:
+      required: true
+  - type: dropdown
+    id: score
+    attributes:
+      label: Score out of 5
+      options: ["5", "4.5", "4", "3.5", "3", "2.5", "2", "1.5", "1"]
+    validations:
+      required: true
+  - type: input
+    id: city
+    attributes:
+      label: City where you drank it
+  - type: input
+    id: date
+    attributes:
+      label: Date you drank it
+      placeholder: YYYY-MM-DD
+    validations:
+      required: true
+  - type: textarea
+    id: food
+    attributes:
+      label: What did you eat with it?
+      description: Optional. Good pairings end up on the site.
