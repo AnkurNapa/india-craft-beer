@@ -1,16 +1,13 @@
 [
-  { "id": "toit", "name": "Toit Brewpub", "city": "Bengaluru", "area": "Indiranagar", "lat": 12.9790, "lng": 77.6408 },
-  { "id": "byg", "name": "Byg Brewski Brewing Co", "city": "Bengaluru", "area": "Hennur", "lat": 13.0368, "lng": 77.6417 },
-  { "id": "windmills", "name": "Windmills Craftworks", "city": "Bengaluru", "area": "Whitefield", "lat": 12.9838, "lng": 77.7271 },
-  { "id": "doolally-kp", "name": "Doolally Taproom", "city": "Pune", "area": "Koregaon Park", "lat": 18.5362, "lng": 73.8940 },
-  { "id": "independence", "name": "Independence Brewing Company", "city": "Pune", "area": "Koregaon Park", "lat": 18.5402, "lng": 73.9003 },
-  { "id": "barking-deer", "name": "The Barking Deer", "city": "Mumbai", "area": "Lower Parel", "lat": 18.9985, "lng": 72.8260 },
-  { "id": "doolally-andheri", "name": "Doolally Taproom", "city": "Mumbai", "area": "Andheri West", "lat": 19.1355, "lng": 72.8310 },
-  { "id": "prankster", "name": "Prankster", "city": "Gurugram", "area": "Sector 29", "lat": 28.4695, "lng": 77.0633 },
-  { "id": "soi7", "name": "Soi 7 Pub & Brewery", "city": "Gurugram", "area": "Cyber Hub", "lat": 28.4953, "lng": 77.0885 },
-  { "id": "prost", "name": "Prost Brew Pub", "city": "Hyderabad", "area": "Jubilee Hills", "lat": 17.4297, "lng": 78.4086 },
-  { "id": "zero40", "name": "Zero40 Brewing", "city": "Hyderabad", "area": "Jubilee Hills", "lat": 17.4275, "lng": 78.4124 },
-  { "id": "bira", "name": "Bira 91", "kind": "packaged", "cities": ["Bengaluru", "Pune", "Mumbai", "Gurugram", "Hyderabad"] },
-  { "id": "simba", "name": "Simba", "kind": "packaged", "cities": ["Bengaluru", "Pune", "Mumbai", "Gurugram", "Hyderabad"] },
-  { "id": "white-rhino", "name": "White Rhino", "kind": "packaged", "cities": ["Pune", "Mumbai", "Gurugram"] }
+  {"id": "toit", "name": "Toit Brewpub", "city": "Bengaluru", "area": "Indiranagar", "lat": 12.979, "lng": 77.6408},
+  {"id": "byg", "name": "Byg Brewski Brewing Co", "city": "Bengaluru", "area": "Hennur", "lat": 13.0368, "lng": 77.6417},
+  {"id": "windmills", "name": "Windmills Craftworks", "city": "Bengaluru", "area": "Whitefield", "lat": 12.9838, "lng": 77.7271},
+  {"id": "doolally-kp", "name": "Doolally Taproom", "city": "Pune", "area": "Koregaon Park", "lat": 18.5362, "lng": 73.894},
+  {"id": "independence", "name": "Independence Brewing Company", "city": "Pune", "area": "Kalyani Nagar", "lat": 18.5485, "lng": 73.9034},
+  {"id": "soi7", "name": "Soi 7 Pub & Brewery", "city": "Gurugram", "area": "Cyber Hub", "lat": 28.4953, "lng": 77.0885},
+  {"id": "prost", "name": "Prost Brew Pub", "city": "Hyderabad", "area": "Jubilee Hills", "lat": 17.4297, "lng": 78.4086},
+  {"id": "zero40", "name": "Zero40 Brewing", "city": "Hyderabad", "area": "Jubilee Hills", "lat": 17.4275, "lng": 78.4124},
+  {"id": "bira", "name": "Bira 91", "kind": "packaged", "cities": ["Bengaluru", "Pune", "Mumbai", "Gurugram", "Hyderabad"]},
+  {"id": "simba", "name": "Simba", "kind": "packaged", "cities": ["Bengaluru", "Pune", "Mumbai", "Gurugram", "Hyderabad"]},
+  {"id": "white-rhino", "name": "White Rhino", "kind": "packaged", "cities": ["Pune", "Mumbai", "Gurugram"]}
 ]
