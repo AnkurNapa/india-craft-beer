@@ -13,7 +13,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 KINDS = {"brewpub", "microbrewery", "taproom", "packaged"}
 STYLES = {"Belgian Wit", "Hefeweizen", "Blonde Ale", "Lager", "Strong Lager", "Kölsch", "Pale Ale",
-          "IPA", "Saison", "Porter", "Stout", "Sour", "Belgian Ale"}
+          "IPA", "Saison", "Porter", "Stout", "Sour", "Belgian Ale", "Non-alcoholic"}
 NOT_BEER = re.compile(r"\b(cider|mead|kombucha|hard seltzer)\b", re.I)
 INDIA_BOX = (6.0, 37.5, 68.0, 97.5)  # lat min, lat max, lng min, lng max
 # Towns people search under a bigger name: the town becomes the area.

@@ -24,17 +24,21 @@ export const PAIRINGS = {
   'Stout': 'Nihari, gulab jamun, anything chocolate. Roast works both savoury and sweet.',
   'Sour': 'Pani puri, sev puri, raw mango chaat. Tart beer, tangy food.',
   'Belgian Ale': 'Rogan josh, Kolhapuri mutton. Fruity, strong malt stands up to deep spice.',
+  'Non-alcoholic': 'Pav bhaji, masala dosa, a weekday thali. Everything a crisp lager goes with, and you can still drive home.',
 };
+export const isZero = beer => beer.style === 'Non-alcoholic';
 
 // Typical colour of each style: its usual SRM, through the standard SRM-to-RGB table.
 export const STYLE_COLOUR = {
   'Belgian Wit': '#FFCA5A', 'Hefeweizen': '#FFBF42', 'Kölsch': '#FFBF42', 'Lager': '#FFBF42',
   'Blonde Ale': '#FBB123', 'Saison': '#FBB123', 'Sour': '#FFBF42', 'Pale Ale': '#EA8F00',
   'Strong Lager': '#EA8F00', 'IPA': '#E58500', 'Belgian Ale': '#BB5100', 'Porter': '#5E0B00', 'Stout': '#36080A',
+  'Non-alcoholic': '#FFCA5A',
 };
 export const colourOf = style => STYLE_COLOUR[style] ?? '#EA8F00';
 
 export const COLLECTIONS = [
+  { title: 'Zero proof', blurb: 'Non-alcoholic, for drivers too', styles: ['Non-alcoholic'] },
   { title: 'Wheat and wit', blurb: 'Made for spicy food', styles: ['Belgian Wit', 'Hefeweizen'] },
   { title: 'Hop forward', blurb: 'IPAs and pale ales', styles: ['IPA', 'Pale Ale'] },
   { title: 'Crisp and cold', blurb: 'Lagers, Kölsch, blondes', styles: ['Lager', 'Kölsch', 'Blonde Ale'] },
@@ -119,7 +123,8 @@ export const rerender = () => renderFn();
 
 /* ---------- derived helpers ---------- */
 
-export const inCity = v => state.city === 'all' || citiesOf(v).includes(state.city);
+// A brand sold nationally ("All India") shows up in every city.
+export const inCity = v => state.city === 'all' || citiesOf(v).includes(state.city) || citiesOf(v).includes('All India');
 export const venueKm = v => state.pos && v.lat != null ? distanceKm(state.pos, v) : null;
 export const byDistance = (a, b) => (venueKm(a) ?? Infinity) - (venueKm(b) ?? Infinity);
 export const venuesOf = beer => beer.venues.map(id => venueById.get(id)).filter(Boolean);

@@ -1,7 +1,7 @@
 // The Home feed, the Beers grid and the History timeline.
 import {
   state, venues, beers, beersAt, ratings, beerById, COLLECTIONS, SORTS, WINDOW_LABEL, PAIRINGS,
-  colourOf, venueVisible, beerVisible, beerAvailable, byDistance, venueRating, scoresIn, rankVisible, nearestVenue,
+  colourOf, isZero, venueVisible, beerVisible, beerAvailable, byDistance, venueRating, scoresIn, rankVisible, nearestVenue,
   place, kmLabel, toggleTried, rerender, loadJson,
 } from './ctx.js';
 import { el, button, icon, glassFor, ratingBadge, cover } from './ui.js';
@@ -36,7 +36,7 @@ export function venueCard(v, scores) {
 
 export function beerTile(beer, entry) {
   const v = nearestVenue(beer);
-  const art = el('span', { className: 'tile-art' }, glassFor(beer), ratingBadge(entry));
+  const art = el('span', { className: 'tile-art' }, glassFor(beer), ratingBadge(entry), isZero(beer) ? el('span', { className: 'zero', textContent: '0.0%' }) : null);
   art.style.setProperty('--tint', colourOf(beer.style));
   return el('li', { className: 'tile' },
     el('button', { type: 'button', className: 'tile-hit', onclick: () => openBeer(beer) },
@@ -80,6 +80,8 @@ function renderChips() {
     chip('Brewpubs', state.kind === 'brewpub', () => { state.kind = state.kind === 'brewpub' ? null : 'brewpub'; rerender(); }),
     chip('Bottles and cans', state.kind === 'packaged', () => { state.kind = state.kind === 'packaged' ? null : 'packaged'; rerender(); }),
     chip('Has tap list', state.tapListOnly, () => { state.tapListOnly = !state.tapListOnly; rerender(); }),
+    chip('0.0 only', state.styles.length === 1 && state.styles[0] === 'Non-alcoholic', () => {
+      state.styles = state.styles[0] === 'Non-alcoholic' ? [] : ['Non-alcoholic']; rerender(); }),
     state.styles.length ? chip(`Clear ${state.styles.length > 1 ? 'collection' : state.styles[0]}`, true, () => { state.styles = []; rerender(); }, 'close') : null,
   ].filter(Boolean)); // replaceChildren would print a null as the text "null"
   $('chips').scrollLeft = scroll;
