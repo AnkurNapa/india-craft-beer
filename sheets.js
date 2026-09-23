@@ -5,6 +5,7 @@ import {
   mapsUrl, siteSearch, buyUrl, rateUrl, reportUrl, rerender,
 } from './ctx.js';
 import { nearestCity } from './geo.js';
+import { STYLE_INFO, VITAL_SCALES, srmHex } from './styles.js';
 import { el, link, button, icon, glassFor, ratingBadge, cover } from './ui.js';
 import { triedButton, beerTile } from './views.js';
 
@@ -92,11 +93,46 @@ function hostOf(url) {
   try { return new URL(url).hostname.replace('www.', ''); } catch { return 'source'; }
 }
 
-/* ---------- beer page ---------- */
+/* ---------- beer page: style profile, food, serving, where to drink ---------- */
+
+function vitalRow(key, range) {
+  const scale = VITAL_SCALES[key];
+  const pct = v => Math.max(0, Math.min(100, (v - scale.min) / (scale.max - scale.min) * 100));
+  const fill = el('span', { className: 'vbar-fill' });
+  fill.style.left = `${pct(range[0])}%`;
+  fill.style.width = `${Math.max(3, pct(range[1]) - pct(range[0]))}%`;
+  if (key === 'srm') fill.style.background = `linear-gradient(90deg, ${srmHex(range[0])}, ${srmHex(range[1])})`;
+  return el('div', { className: 'vital' },
+    el('span', { className: 'vital-k', textContent: scale.label }),
+    el('span', { className: 'vbar' }, fill),
+    el('span', { className: 'vital-v', textContent: `${scale.fmt(range[0])} to ${scale.fmt(range[1])}` }));
+}
+
+function foodCard(food) {
+  const rows = [['North Indian', food.north], ['South Indian', food.south], ['Street food', food.street], ['Dessert', food.sweet]];
+  return el('div', { className: 'pair-card' },
+    el('dl', { className: 'food' }, ...rows.flatMap(([k, v]) => [el('dt', { textContent: k }), el('dd', { textContent: v })])),
+    el('p', { className: 'why', textContent: food.why }));
+}
+
+function styleProfile(style) {
+  const info = STYLE_INFO[style];
+  if (!info?.bjcp) {
+    return el('div', { className: 'card-block' },
+      el('p', { className: 'muted', textContent: 'No BJCP category: this is a non-alcoholic beer, under 0.5% ABV.' }));
+  }
+  const b = info.bjcp;
+  return el('div', { className: 'card-block' },
+    el('p', { className: 'bjcp-name' }, 'Closest BJCP 2021 style: ', link(b.url, `${b.code} ${b.name}`, 'plain')),
+    el('blockquote', { className: 'impression', textContent: b.impression }),
+    el('div', { className: 'vitals' }, ...['og', 'fg', 'abv', 'ibu', 'srm'].map(k => vitalRow(k, b[k]))),
+    el('p', { className: 'fine', textContent: 'Ranges for the style, from the BJCP guidelines, not a measurement of this beer.' }));
+}
 
 export function openBeer(beer) {
   openSheet(() => {
     const entry = scoresIn(state.window).get(beer.id);
+    const info = STYLE_INFO[beer.style];
     const places = venuesOf(beer).sort((a, b) => inCity(b) - inCity(a) || byDistance(a, b));
     const hero = el('div', { className: 'beer-hero' }, glassFor(beer, 'glass hero-glass'));
     hero.style.setProperty('--tint', colourOf(beer.style));
@@ -105,13 +141,19 @@ export function openBeer(beer) {
       el('div', { className: 'sheet-pad' },
         el('div', { className: 'title-row' }, el('h2', { id: 'sheet-title', textContent: beer.name }), ratingBadge(entry)),
         el('p', { className: 'muted' }, el('span', { className: 'chip', textContent: beer.style }),
-          entry ? ` ${entry.n} rating${entry.n === 1 ? '' : 's'} ${WINDOW_LABEL[state.window]}` : ` No ratings ${WINDOW_LABEL[state.window]} yet`),
-        el('div', { className: 'pair-card' }, el('strong', { textContent: 'Eat with' }), el('p', { textContent: PAIRINGS[beer.style] ?? 'Whatever you are in the mood for.' })),
+          ` ${places[0]?.name ?? ''}`, entry ? ` · ${entry.n} rating${entry.n === 1 ? '' : 's'} ${WINDOW_LABEL[state.window]}` : ''),
         el('div', { className: 'action-row' },
           triedButton(beer, 'btn tried-big'),
           link(rateUrl(beer), [icon('star'), 'Rate it']),
           link(`https://untappd.com/search?q=${encodeURIComponent(beer.name)}`, 'Untappd'),
           share(beer.name)),
+        el('h3', { className: 'menu-h', textContent: 'Eat with' }),
+        info ? foodCard(info.food) : el('p', { textContent: PAIRINGS[beer.style] ?? '' }),
+        info ? el('div', { className: 'serve' },
+          el('span', {}, icon('glass-outline'), el('span', {}, el('small', { textContent: 'Glass' }), el('strong', { textContent: info.serve.glass }))),
+          el('span', {}, icon('thermo'), el('span', {}, el('small', { textContent: 'Serve at' }), el('strong', { textContent: `${info.serve.temp[0]} to ${info.serve.temp[1]} °C` })))) : null,
+        el('h3', { className: 'menu-h', textContent: 'Style profile' }),
+        styleProfile(beer.style),
         el('h3', { className: 'menu-h', textContent: 'Where to drink it' }),
         el('ul', { className: 'rows' }, ...places.map(v => el('li', { className: 'row' },
           button([el('strong', { textContent: v.name }), el('span', { className: 'muted', textContent: [place(v), kmLabel(v)].filter(Boolean).join(' · ') })], () => openVenue(v), 'row-hit'),
