@@ -212,7 +212,7 @@ function openVenue(v) {
     el('h3', { textContent: onTap.length ? 'On tap' : 'Tap list not published yet' }),
     el('ul', { className: 'rows' }, ...onTap.map(b => el('li', { className: 'row' },
       el('button', { type: 'button', className: 'row-title', onclick: () => openBeer(b) }, el('span', { textContent: b.name }), el('span', { className: 'meta', textContent: ` ${b.style}` })),
-      el('span', { className: 'meta', textContent: scores.has(b.id) ? scores.get(b.id).mean.toFixed(2) : 'unrated' })))),
+      el('span', { className: 'meta', textContent: scores.has(b.id) ? scores.get(b.id).mean.toFixed(2) : '' })))),
     el('div', { className: 'link-grid' },
       v.kind !== 'packaged' ? link(siteSearch('zomato.com', `${v.name} ${v.city}`), 'Zomato') : null,
       v.kind !== 'packaged' ? link(siteSearch('swiggy.com', `${v.name} ${v.city}`), 'Swiggy Dineout') : null,

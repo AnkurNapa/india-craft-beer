@@ -30,7 +30,7 @@ select { min-width: 0; flex: 0 1 auto; min-height: var(--tap); max-width: 44vw; 
 .btn.primary { background: var(--stout); border-color: var(--stout); color: var(--paper); }
 .btn.tick[aria-pressed="true"] { background: var(--chip); border-color: var(--amber); }
 .btn svg { width: 18px; height: 18px; }
-@media (max-width: 380px) { .near span { display: none; } .near { padding: 0 10px; } }
+@media (max-width: 420px) { .near span { display: none; } .near { padding: 0 10px; } }
 @media (max-width: 350px) { .brand { font-size: 1.1rem; } .topbar { gap: 6px; } }
 
 .filters { display: grid; gap: 8px; padding-bottom: 10px; }
