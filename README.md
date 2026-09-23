@@ -31,7 +31,7 @@ python3 scripts/test_merge.py
 
 The merge only lets through open venues with a source, beers with a known style, and pins inside India.
 
-**Ratings** come from drinkers. Every beer has a **Rate it** link that opens a prefilled GitHub issue; a maintainer adds approved ratings to `data/ratings.json`. The file currently holds **sample ratings** from `scripts/sample_ratings.py`, flagged on the page, until enough real ones arrive.
+**Ratings** come from drinkers. Every beer has a **Rate it** link that opens a prefilled GitHub issue; a maintainer adds approved ratings to `data/ratings.json`. The site launched with no ratings, so the rankings start with the first real ones.
 
 Zomato, Swiggy, Untappd and RateBeer are not scraped. None of them has an open API, and scraping breaks their terms. The site links out to them instead.
 
