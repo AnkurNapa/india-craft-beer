@@ -377,6 +377,16 @@ $('window').addEventListener('change', e => { state.window = e.target.value; ren
 $('search').addEventListener('input', e => { state.query = e.target.value.trim().toLowerCase(); render(); });
 document.querySelectorAll('.tabbar button').forEach(b => b.addEventListener('click', () => setTab(b.dataset.tab)));
 
+// Links like the brand's #tab=top change only the hash, so apply it without a reload.
+window.addEventListener('hashchange', () => {
+  const h = new URLSearchParams(location.hash.slice(1));
+  if (TABS.includes(h.get('tab'))) state.tab = h.get('tab');
+  if (h.has('city')) state.city = cities.includes(h.get('city')) ? h.get('city') : 'all';
+  if (h.get('window') in WINDOWS) state.window = h.get('window');
+  if (h.has('style')) state.style = h.get('style');
+  render();
+});
+
 $('near-me').addEventListener('click', () => {
   if (!navigator.geolocation) return say('This browser cannot share your location. Pick a city instead.');
   say('Finding you...');
