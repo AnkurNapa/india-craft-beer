@@ -2,103 +2,98 @@
 <html lang="en-IN">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Tap List India</title>
-<meta name="description" content="The best Indian craft beers this week, month, year and five years, what to eat with them, and where to drink them.">
+<meta name="description" content="Find the best craft beer near you in India: top beers this week, month, year and five years, what to eat with them, every brewery on a map, and the story of Indian craft beer.">
+<meta name="theme-color" content="#f7f1e6" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#17110d" media="(prefers-color-scheme: dark)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Public+Sans:wght@400;600&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" integrity="sha384-c6Rcwz4e4CITMbu/NBmnNS8yN2sC3cUElMEMfP3vqqKFp7GOYaaBBCqmaWBjmkjb" crossorigin="anonymous">
-<style>
-  :root {
-    --paper: #f7f1e6; --ink: #231a14; --muted: #6d5d50; --line: #e3d6c3;
-    --card: #fffaf2; --amber: #c7771c; --stout: #3b1f14; --chip: #f1e2c8;
-    --display: 'Fraunces', Georgia, serif; --body: 'Public Sans', system-ui, sans-serif;
-    --radius: 14px; --ease: cubic-bezier(0.16, 1, 0.3, 1);
-  }
-  @media (prefers-color-scheme: dark) {
-    :root { --paper: #17110d; --ink: #f3e9da; --muted: #b7a591; --line: #33271e; --card: #211812; --amber: #e8a043; --stout: #f3e9da; --chip: #3a2a1d; }
-  }
-  * { box-sizing: border-box; }
-  body { margin: 0; background: var(--paper); color: var(--ink); font: 16px/1.5 var(--body); }
-  a { color: inherit; }
-  :focus-visible { outline: 3px solid var(--amber); outline-offset: 2px; }
-
-  header { padding: clamp(24px, 5vw, 56px) 16px 20px; max-width: 1240px; margin: 0 auto; }
-  h1 { font: 800 clamp(2.6rem, 1rem + 6vw, 5.5rem)/0.95 var(--display); margin: 0; letter-spacing: -0.02em; color: var(--stout); }
-  h1 span { color: var(--amber); }
-  .lede { color: var(--muted); max-width: 52ch; margin: 12px 0 0; }
-  .sample { display: inline-block; margin-top: 14px; padding: 4px 10px; border-radius: 999px; background: var(--chip); font-size: 0.85rem; }
-
-  .controls { position: sticky; top: 0; z-index: 1000; background: var(--paper); border-block: 1px solid var(--line); }
-  .controls-inner { max-width: 1240px; margin: 0 auto; padding: 12px 16px; display: flex; gap: 16px; flex-wrap: wrap; align-items: center; }
-  select { font: 600 1rem var(--body); padding: 8px 12px; border-radius: 10px; border: 1px solid var(--line); background: var(--card); color: var(--ink); }
-  fieldset { border: 0; padding: 0; margin: 0; display: flex; background: var(--card); border: 1px solid var(--line); border-radius: 999px; padding: 3px; }
-  fieldset label { cursor: pointer; }
-  fieldset input { position: absolute; opacity: 0; }
-  fieldset span { display: block; padding: 6px 14px; border-radius: 999px; font-weight: 600; font-size: 0.92rem; transition: background var(--duration, 200ms) var(--ease); }
-  fieldset input:checked + span { background: var(--stout); color: var(--paper); }
-  fieldset input:focus-visible + span { outline: 3px solid var(--amber); }
-
-  main { max-width: 1240px; margin: 0 auto; padding: 24px 16px 64px; display: grid; grid-template-columns: minmax(0, 1.15fr) minmax(0, 1fr); gap: 32px; align-items: start; }
-  #map { height: calc(100vh - 120px); position: sticky; top: 84px; border-radius: var(--radius); border: 1px solid var(--line); }
-  @media (max-width: 860px) { main { grid-template-columns: 1fr; } #map { position: relative; top: 0; height: 55vh; order: -1; } }
-
-  ol { list-style: none; margin: 0; padding: 0; counter-reset: rank; }
-  li.beer { counter-increment: rank; position: relative; background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 18px 18px 16px 76px; margin-bottom: 12px; transition: transform 200ms var(--ease), box-shadow 200ms var(--ease); }
-  li.beer:hover { transform: translateY(-2px); box-shadow: 0 10px 24px -14px rgb(0 0 0 / 0.35); }
-  li.beer::before { content: counter(rank); position: absolute; left: 18px; top: 10px; font: 800 2.6rem/1 var(--display); color: var(--amber); }
-  li.beer:first-child { padding-block: 26px 22px; border-color: var(--amber); }
-  li.beer:first-child::before { font-size: 3.4rem; }
-  li.beer:first-child h2 { font-size: 1.7rem; }
-  h2 { font: 600 1.3rem/1.2 var(--display); margin: 0; }
-  .meta { color: var(--muted); font-size: 0.92rem; margin: 2px 0 8px; }
-  .chip { display: inline-block; background: var(--chip); border-radius: 6px; padding: 1px 8px; font-size: 0.8rem; font-weight: 600; margin-right: 6px; }
-  .score { float: right; margin: 0 0 6px 12px; text-align: right; font: 800 1.4rem/1 var(--display); }
-  .score small { display: block; font: 400 0.75rem var(--body); color: var(--muted); margin-top: 4px; }
-  .pair { margin: 8px 0 10px; font-size: 0.95rem; }
-  .pair b { color: var(--amber); }
-  .links { display: flex; flex-wrap: wrap; gap: 6px 14px; font-size: 0.88rem; }
-  .links a { text-decoration-color: var(--amber); text-underline-offset: 3px; }
-  .empty { color: var(--muted); padding: 24px 0; }
-  footer { max-width: 1240px; margin: 0 auto; padding: 0 16px 48px; color: var(--muted); font-size: 0.85rem; }
-  @media (prefers-reduced-motion: reduce) { * { transition: none !important; } }
-</style>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" integrity="sha384-pmjIAcz2bAn0xukfxADbZIb3t8oRT9Sv0rvO+BR5Csr6Dhqq+nZs59P0pPKQJkEV" crossorigin="anonymous">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" integrity="sha384-wgw+aLYNQ7dlhK47ZPK7FRACiq7ROZwgFNg0m04avm4CaXS+Z9Y7nMu8yNjBKYC+" crossorigin="anonymous">
+<link rel="stylesheet" href="style.css">
 </head>
-<body>
-<header>
-  <h1>Tap List <span>India</span></h1>
-  <p class="lede">The best craft beers in your city this week, this month, this year and across five years, what to eat with each one, and where to drink it.</p>
-  <p class="sample" id="sample" hidden>Sample ratings for now. Real rankings grow as you rate.</p>
-</header>
+<body data-tab="top">
+<div class="chrome">
+  <header class="topbar">
+    <a class="brand" href="#tab=top">Tap List <span>India</span></a>
+    <label class="city"><span class="visually-hidden">City</span><select id="city"></select></label>
+    <button type="button" class="btn near" id="near-me" aria-label="Near me">
+      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="7"/><circle cx="12" cy="12" r="2"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>
+      <span>Near me</span>
+    </button>
+  </header>
 
-<nav class="controls" aria-label="Filters">
-  <div class="controls-inner">
-    <label>City <select id="city"></select></label>
-    <fieldset id="window">
-      <legend class="visually-hidden" hidden>Time window</legend>
+  <div class="filters">
+    <div class="window" id="window" role="radiogroup" aria-label="Time window">
       <label><input type="radio" name="window" value="week"><span>Week</span></label>
       <label><input type="radio" name="window" value="month"><span>Month</span></label>
       <label><input type="radio" name="window" value="year"><span>Year</span></label>
       <label><input type="radio" name="window" value="5y"><span>5 years</span></label>
-    </fieldset>
+    </div>
+    <label class="search"><span class="visually-hidden">Search beers and breweries</span>
+      <input id="search" type="search" placeholder="Search a beer, brewery or area" autocomplete="off" enterkeyhint="search">
+    </label>
+    <div class="chips" id="styles" role="group" aria-label="Beer style"></div>
   </div>
-</nav>
+  <p class="status" id="status" role="status"></p>
+
+  <nav class="tabbar" aria-label="Sections">
+    <button type="button" data-tab="top"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/></svg>Top beers</button>
+    <button type="button" data-tab="breweries"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12l-1.5 17a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1z"/><path d="M6.5 8h11"/></svg>Breweries</button>
+    <button type="button" data-tab="map" class="map-tab"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Map</button>
+    <button type="button" data-tab="tried"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M8 12.5l2.5 2.5L16 9.5"/></svg>Tried</button>
+    <button type="button" data-tab="history"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>History</button>
+  </nav>
+</div>
 
 <main>
-  <section aria-labelledby="top-heading">
-    <h2 id="top-heading" hidden>Top beers</h2>
-    <ol id="list" aria-live="polite"></ol>
+  <section class="view" id="view-top" aria-labelledby="top-h">
+    <h1 id="top-h" class="view-title">Best craft beer <span id="top-where">in India</span></h1>
+    <p class="sample" id="sample" hidden>Sample ratings for now. Real rankings grow as you rate.</p>
+    <ol class="cards" id="top-list"></ol>
   </section>
-  <div id="map" role="region" aria-label="Map of breweries and taprooms"></div>
+
+  <section class="view" id="view-breweries" aria-labelledby="brew-h">
+    <h1 id="brew-h" class="view-title">Where to drink</h1>
+    <p class="lede" id="brewery-count"></p>
+    <ol class="cards" id="brewery-list"></ol>
+  </section>
+
+  <section class="view" id="view-tried" aria-labelledby="tried-h">
+    <h1 id="tried-h" class="view-title">Your beer journey</h1>
+    <p class="big-count"><strong id="tried-count">0</strong> <span id="tried-of"></span></p>
+    <h2 class="section-h">Try next</h2>
+    <ol class="cards" id="try-next"></ol>
+    <h2 class="section-h">Beers you've tried</h2>
+    <ol class="cards" id="tried-list"></ol>
+    <p class="fine">Your list stays on this phone. Nothing is sent anywhere.</p>
+  </section>
+
+  <section class="view" id="view-history" aria-labelledby="hist-h">
+    <h1 id="hist-h" class="view-title">How India learned to brew small</h1>
+    <p class="lede">From a colonial brewery in the hills to hundreds of brewpubs pouring fresh beer across the country. Every milestone links to its source.</p>
+    <ol class="timeline" id="timeline"></ol>
+  </section>
+
+  <div class="map-wrap" id="map-wrap"><div id="map" role="region" aria-label="Map of breweries and taprooms"></div></div>
+
+  <footer class="fine">
+    Drink responsibly. The legal drinking age differs by state, from 18 to 25.
+    Venues and beers last checked September 2026. Taps rotate, so check before you go.
+    <a href="https://github.com/AnkurNapa/india-craft-beer">Add or correct a brewery</a>.
+  </footer>
 </main>
 
-<footer>
-  Drink responsibly. The legal drinking age differs by state, from 18 to 25. Map pins are approximate, so use the Google Maps link for directions.
-  Venues and beers last checked September 2026. Brewpub taps rotate and Bira 91 stock is still patchy after its 2024 to 2025 supply break, so check before you go.
-</footer>
+<dialog id="sheet" aria-labelledby="sheet-title">
+  <div class="sheet-head"><span class="grab" aria-hidden="true"></span><button type="button" class="btn" id="sheet-close">Close</button></div>
+  <div class="sheet-body" id="sheet-body"></div>
+</dialog>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js" integrity="sha384-NElt3Op+9NBMCYaef5HxeJmU4Xeard/Lku8ek6hoPTvYkQPh3zLIrJP7KiRocsxO" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/leaflet.markercluster.js" integrity="sha384-eXVCORTRlv4FUUgS/xmOyr66XBVraen8ATNLMESp92FKXLAMiKkerixTiBvXriZr" crossorigin="anonymous"></script>
 <script type="module" src="app.js"></script>
 </body>
 </html>

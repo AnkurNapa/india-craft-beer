@@ -1,0 +1,270 @@
+{
+  "region": "east-national",
+  "venues": [
+    {
+      "id": "kolkata-the-grid-topsia",
+      "name": "The GRID",
+      "kind": "brewpub",
+      "city": "Kolkata",
+      "area": "Topsia",
+      "address": "86A Topsia Road South, Haute Street Corporate Park, Kolkata 700046",
+      "lat": 22.5329995, "lng": 88.3964191,
+      "status": "open",
+      "sources": ["https://www.jointhegrid.in/", "https://www.jointhegrid.in/brewery/", "https://www.zomato.com/kolkata/the-grid-topsia"]
+    },
+    {
+      "id": "kolkata-beer-republic-kankurgachi",
+      "name": "Beer Republic",
+      "kind": "brewpub",
+      "city": "Kolkata",
+      "area": "Kankurgachi (Phool Bagan)",
+      "address": "Inox Building, Kankurgachi, Kolkata, West Bengal",
+      "lat": 22.5801644, "lng": 88.3901424,
+      "status": "open",
+      "sources": ["https://magicpin.in/Kolkata/Phool-Bagan/Restaurant/Beer-Republic/store/1a00c9/", "https://www.zomato.com/kolkata/beer-republic-beliaghata", "https://www.eazydiner.com/food-trends/kolkatas-booming-craft-beer-culture-6-microbreweries-you-cant-miss"]
+    },
+    {
+      "id": "kolkata-double-down-brewpub-sarat-bose-road",
+      "name": "Double Down Brewpub and Cafe",
+      "kind": "brewpub",
+      "city": "Kolkata",
+      "area": "Bhawanipore",
+      "address": "Ground Floor, 111, Ideal Plaza, Sarat Bose Road, Sreepally Bhawanipore, Kolkata, West Bengal 700020",
+      "lat": 22.5152239, "lng": 88.3528061,
+      "status": "open",
+      "sources": ["https://www.tripadvisor.com/Restaurant_Review-g304558-d27661355-Reviews-Double_Down_Brewpub_Cafe-Kolkata_Calcutta_Kolkata_District_West_Bengal.html", "https://www.eazydiner.com/kolkata/double-down-sarat-bose-road-kolkata-672135/menu", "https://www.zomato.com/kolkata/double-down-elgin"]
+    },
+    {
+      "id": "kolkata-motorworks-brewing-company-sector-v",
+      "name": "Motorworks & Brewing Company",
+      "kind": "brewpub",
+      "city": "Kolkata",
+      "area": "Sector V, Salt Lake",
+      "address": "Sector V, Salt Lake, Kolkata, West Bengal",
+      "lat": 22.5754543, "lng": 88.4322569,
+      "status": "open",
+      "sources": ["https://www.zomato.com/kolkata/motor-works-brewing-company-sector-5-salt-lake", "https://lbb.in/kolkata/motor-works-brewing-co-new-bar/", "https://www.justdial.com/Kolkata/Motor-Works-Brewing-Company-Near-Webel-More-Salt-Lake-City-Sector-5/033PXX33-XX33-180518110522-R9G9_BZDET"]
+    },
+    {
+      "id": "kolkata-the-brewhive-sector-v",
+      "name": "The Brewhive",
+      "kind": "brewpub",
+      "city": "Kolkata",
+      "area": "Sector V, Bidhannagar",
+      "address": "PS Srijan Corporate Park, Tower 1, Retail 3, Street Number 25, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+      "lat": 22.5692687, "lng": 88.4341711,
+      "status": "open",
+      "sources": ["https://magicpin.in/Kolkata/Sector-5,-Salt-Lake/Restaurant/The-Brewhive/store/312050/menu/", "https://www.zomato.com/kolkata/the-brewhive-sector-5-salt-lake"]
+    },
+    {
+      "id": "kolkata-country-roads-new-town",
+      "name": "Country Roads Micro Brewery and Restaurant",
+      "kind": "brewpub",
+      "city": "Kolkata",
+      "area": "New Town, Rajarhat",
+      "address": "2nd Floor, The Galleria, BG Block, Action Area I, New Town, Rajarhat, Kolkata, West Bengal 700163",
+      "lat": 22.6034, "lng": 88.4708,
+      "geo": "approximate",
+      "status": "open",
+      "sources": ["https://www.zomato.com/kolkata/country-roads-new-town", "https://www.justdial.com/Kolkata/Country-Roads-Microbrewery-Restaurant-Near-Home-Town-New-Town/033PXX33-XX33-160304071558-T2K4_BZDET", "https://www.tripadvisor.in/Restaurant_Review-g304558-d10034906-Reviews-Country_Roads-Kolkata_Calcutta_Kolkata_District_West_Bengal.html"]
+    },
+    {
+      "id": "bhubaneswar-madmule-the-brew-club",
+      "name": "MadMule, The Brew Club",
+      "kind": "brewpub",
+      "city": "Bhubaneswar",
+      "area": "Kharvela Nagar",
+      "address": "One Janpath, 2nd Floor, Kharvela Nagar, Bhubaneswar, Odisha",
+      "geo": "missing",
+      "status": "open",
+      "sources": ["https://www.facebook.com/MadMuleBrewClub/", "https://www.tripadvisor.in/Restaurant_Review-g297661-d15560953-Reviews-MadMule_The_Brew_Club-Bhubaneswar_Khurda_District_Odisha.html", "https://www.eazydiner.com/bhubaneswar/madmule-the-brew-club-kharvela-nagar-bhubaneswar-700534"]
+    },
+    {
+      "id": "bhubaneswar-kegs-and-barrels-brewing-co-patia",
+      "name": "Kegs and Barrels Brewing Co. (KGB)",
+      "kind": "brewpub",
+      "city": "Bhubaneswar",
+      "area": "Patia",
+      "address": "Plot No 435/2170, Prakriti Tower, Bajrang Vihar, Patia, Bhubaneswar, Odisha 751024",
+      "lat": 20.3519625, "lng": 85.8255643,
+      "status": "open",
+      "sources": ["https://magicpin.in/Bhubaneswar/Patia/Restaurant/Kegs-And-Barrels-Brewing-Co./store/1551993", "https://www.zomato.com/bhubaneswar/kegs-and-barrels-brewing-co-1-patia-bhubaneshwar", "https://yappe.in/odisha/bhubaneswar/kegs-and-barrels-brewing-co-kgb/812401"]
+    },
+    {
+      "id": "guwahati-freemasons-brewworks-ganeshguri",
+      "name": "Freemason's Brew Works",
+      "kind": "brewpub",
+      "city": "Guwahati",
+      "area": "Ganeshguri",
+      "address": "5th Floor, City Centre, GS Road, Ganeshguri, Guwahati, Assam 781005",
+      "lat": 26.1458219, "lng": 91.7894301,
+      "status": "open",
+      "sources": ["https://magicpin.in/Guwahati/Ganeshguri/Restaurant/FreemasonS-Brewworks/store/3a2008/photos/?img=Store-Images", "https://www.eazydiner.com/guwahati/freemasons-brewworks-ganeshguri-guwahati-709483", "https://untappd.com/FreemasonsBrewworks"]
+    },
+    {
+      "id": "shillong-the-yeastern-civilization-laitumkhrah",
+      "name": "The Yeastern Civilization",
+      "kind": "brewpub",
+      "city": "Shillong",
+      "area": "Laitumkhrah",
+      "address": "TYC Building, Laitumkhrah, Nongkynrih, Shillong, Meghalaya 793003",
+      "lat": 25.5701975, "lng": 91.8982857,
+      "status": "open",
+      "sources": ["https://eastmojo.com/news/2024/02/10/yeastern-civilisation-shillong-gets-its-first-microbrewery/", "https://tycindia.com/", "https://untappd.com/w/the-yeastern-civilization/562936"]
+    },
+    {
+      "id": "gangtok-241-brewhouse-reshitang",
+      "name": "241 Brewhouse",
+      "kind": "brewpub",
+      "city": "Gangtok",
+      "area": "Reshitang",
+      "address": "Reshitang, Gangtok, Sikkim",
+      "lat": 27.3290460, "lng": 88.6122673,
+      "geo": "approximate",
+      "status": "open",
+      "sources": ["https://www.instagram.com/241brewhouse/", "https://www.thestreetfoodguy.com/the-square-restaurant-and-bar-gangtok/"]
+    },
+    {
+      "id": "packaged-simba",
+      "name": "Simba",
+      "kind": "packaged",
+      "cities": ["Delhi", "Haryana", "Chandigarh", "Himachal Pradesh", "Punjab", "Uttarakhand", "Assam", "Arunachal Pradesh", "Tripura", "Meghalaya", "Jharkhand", "Chhattisgarh", "Maharashtra", "Karnataka", "Goa"],
+      "status": "open",
+      "sources": ["https://simbabeer.com/our-beers/", "https://www.brewer-world.com/simba-celebrates-seven-roaring-years-of-brewing-finely-crafted-beer-in-india/", "https://madiraprices.com/simba-beer-price/"]
+    },
+    {
+      "id": "packaged-bira91",
+      "name": "Bira 91",
+      "kind": "packaged",
+      "cities": ["Delhi", "Uttar Pradesh"],
+      "status": "open",
+      "note": "Production halted at Bira's largest plants in 2024-2025 (name-change relicensing crisis, Andhra Pradesh plant shut March 2025); retailers in NCR and Mumbai reported zero stock for up to six months. Relaunched in Delhi and Uttar Pradesh in late 2025 after fresh label approvals; national availability remains patchy and unconfirmed elsewhere as of this research.",
+      "sources": ["https://inc42.com/features/inside-the-bitter-collapse-of-bira-91/", "https://www.businesstoday.in/latest/corporate/story/bira-91-makers-move-to-sell-an-asset-as-it-fails-to-clear-salary-pf-dues-report-501165-2025-11-07", "https://agamalaw.in/2025/11/24/bira-91-case-study/"]
+    },
+    {
+      "id": "packaged-white-rhino",
+      "name": "White Rhino",
+      "kind": "packaged",
+      "cities": ["Delhi"],
+      "status": "open",
+      "sources": ["https://untappd.com/WhiteRhinoBrewingCo", "https://tracxn.com/d/companies/whiterhinobrewing/__ncyXYTmNbV5pW57QXSZQK-cqHfo9tBGrdTIBMyIUxNo"]
+    },
+    {
+      "id": "packaged-kati-patang",
+      "name": "Kati Patang",
+      "kind": "packaged",
+      "cities": ["Delhi", "Mumbai", "Kolkata", "Bengaluru"],
+      "status": "open",
+      "sources": ["https://katipatang.com/", "https://brewsnspirits.in/kati-patang-beer-available-in-bengaluru-and-delhi"]
+    },
+    {
+      "id": "packaged-goa-brewing-co",
+      "name": "Goa Brewing Co",
+      "kind": "packaged",
+      "cities": ["Goa", "Bengaluru"],
+      "status": "open",
+      "sources": ["https://goabrewing.co/", "https://bottlestoreblr.com/products/goa-brewing-co-lager-beer"]
+    },
+    {
+      "id": "packaged-great-state-aleworks",
+      "name": "Great State Aleworks",
+      "kind": "packaged",
+      "cities": ["Pune", "Mumbai", "Goa"],
+      "status": "open",
+      "note": "Primarily a draught/on-tap production brewery supplying 60+ bars and restaurants; no named packaged/canned retail SKUs confirmed by sources checked.",
+      "sources": ["https://www.greatstatealeworks.com/", "https://iforexplore.com/a-sneak-peek-into-great-state-aleworks-brewery/"]
+    },
+    {
+      "id": "packaged-arbor-brewing-company",
+      "name": "Arbor Brewing Company",
+      "kind": "packaged",
+      "cities": ["Bengaluru", "Goa", "Karnataka"],
+      "status": "open",
+      "sources": ["https://www.arborbrewing.in/", "https://lbb.in/bangalore/arbor-brewing-company-bangalore/"]
+    },
+    {
+      "id": "packaged-medusa",
+      "name": "Medusa",
+      "kind": "packaged",
+      "cities": ["Delhi", "Punjab", "Chandigarh", "Uttar Pradesh", "Himachal Pradesh", "Uttarakhand", "Chhattisgarh", "Goa"],
+      "status": "open",
+      "sources": ["https://medusabeer.com/", "https://www.mediainfoline.com/foodies/medusa-available-delhi-punjab-chadigarh-up-chattisgarh", "https://brewsnspirits.in/medusa-air-hits-delhi-market"]
+    },
+    {
+      "id": "packaged-witlinger",
+      "name": "Witlinger",
+      "kind": "packaged",
+      "cities": ["Delhi", "Mumbai"],
+      "status": "open",
+      "sources": ["https://www.witlinger.com/", "https://indianfoodfreak.com/2016/04/22/wilinger-beer-launch-india/"]
+    },
+    {
+      "id": "packaged-maka-di",
+      "name": "Maka di (Latambarcem Brewers)",
+      "kind": "packaged",
+      "cities": ["Goa", "Bengaluru"],
+      "status": "open",
+      "sources": ["https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm", "https://yourstory.com/2020/11/goa-startup-bharat-craft-beer-startup-maka-di"]
+    },
+    {
+      "id": "packaged-bombay-duck-brewing",
+      "name": "Bombay Duck Brewing",
+      "kind": "packaged",
+      "cities": ["Mumbai", "Pune"],
+      "status": "open",
+      "sources": ["https://homegrown.co.in/homegrown-explore/try-bombay-duck-brewings-handcrafted-artisanal-ale", "https://untappd.com/BombayDuckBrewing"]
+    }
+  ],
+  "beers": [
+    { "id": "the-grid-estuary", "name": "Estuary", "style": "Hefeweizen", "venues": ["kolkata-the-grid-topsia"], "source": "https://www.jointhegrid.in/brewery/" },
+    { "id": "the-grid-piedmont", "name": "Piedmont", "style": "Porter", "venues": ["kolkata-the-grid-topsia"], "source": "https://www.jointhegrid.in/brewery/" },
+    { "id": "the-grid-caldera", "name": "Caldera", "style": "IPA", "venues": ["kolkata-the-grid-topsia"], "source": "https://www.jointhegrid.in/brewery/" },
+    { "id": "the-grid-tombolo", "name": "Tombolo", "style": "Blonde Ale", "venues": ["kolkata-the-grid-topsia"], "source": "https://www.jointhegrid.in/brewery/" },
+    { "id": "yeastern-civilization-balthazar", "name": "Balthazar", "style": "Belgian Ale", "venues": ["shillong-the-yeastern-civilization-laitumkhrah"], "source": "https://untappd.com/w/the-yeastern-civilization/562936/beer" },
+    { "id": "yeastern-civilization-tripel", "name": "Tripel", "style": "Belgian Ale", "venues": ["shillong-the-yeastern-civilization-laitumkhrah"], "source": "https://untappd.com/w/the-yeastern-civilization/562936/beer" },
+    { "id": "241-brewhouse-witbier", "name": "Witbier", "style": "Belgian Wit", "venues": ["gangtok-241-brewhouse-reshitang"], "source": "https://www.instagram.com/241brewhouse/" },
+    { "id": "241-brewhouse-mango-hefeweizen", "name": "Mango Hefeweizen", "style": "Hefeweizen", "venues": ["gangtok-241-brewhouse-reshitang"], "source": "https://www.instagram.com/241brewhouse/" },
+    { "id": "241-brewhouse-himalayan-black-beer", "name": "Himalayan Black Beer", "style": "Stout", "venues": ["gangtok-241-brewhouse-reshitang"], "source": "https://www.instagram.com/241brewhouse/" },
+    { "id": "freemasons-cappuccino-stout", "name": "Cappuccino Stout", "style": "Stout", "venues": ["guwahati-freemasons-brewworks-ganeshguri"], "source": "https://untappd.com/FreemasonsBrewworks/beer" },
+    { "id": "freemasons-international-lager", "name": "International Lager", "style": "Lager", "venues": ["guwahati-freemasons-brewworks-ganeshguri"], "source": "https://untappd.com/FreemasonsBrewworks/beer" },
+    { "id": "freemasons-ragi-beer", "name": "Ragi Beer", "style": "Strong Lager", "venues": ["guwahati-freemasons-brewworks-ganeshguri"], "source": "https://untappd.com/FreemasonsBrewworks/beer" },
+
+    { "id": "simba-wit", "name": "Simba Wit", "style": "Belgian Wit", "venues": ["packaged-simba"], "source": "https://simbabeer.com/our-beers/" },
+    { "id": "simba-stout", "name": "Simba Stout", "style": "Stout", "venues": ["packaged-simba"], "source": "https://simbabeer.com/our-beers/" },
+    { "id": "simba-lager", "name": "Simba Lager", "style": "Lager", "venues": ["packaged-simba"], "source": "https://simbabeer.com/our-beers/" },
+    { "id": "simba-strong", "name": "Simba Strong", "style": "Strong Lager", "venues": ["packaged-simba"], "source": "https://simbabeer.com/our-beers/strong/" },
+
+    { "id": "bira91-white", "name": "Bira 91 White", "style": "Belgian Wit", "venues": ["packaged-bira91"], "source": "https://www.occassionaldrinker.com/bira-91" },
+    { "id": "bira91-blonde", "name": "Bira 91 Blonde", "style": "Lager", "venues": ["packaged-bira91"], "source": "https://www.occassionaldrinker.com/bira-91/blonde" },
+    { "id": "bira91-ipa", "name": "Bira 91 IPA", "style": "IPA", "venues": ["packaged-bira91"], "source": "https://www.occassionaldrinker.com/bira-91" },
+    { "id": "bira91-strong", "name": "Bira 91 Strong", "style": "Strong Lager", "venues": ["packaged-bira91"], "source": "https://www.occassionaldrinker.com/bira-91" },
+
+    { "id": "white-rhino-lager", "name": "White Rhino Lager", "style": "Lager", "venues": ["packaged-white-rhino"], "source": "https://untappd.com/b/white-rhino-brewing-co-lager/1806567" },
+    { "id": "white-rhino-ipa", "name": "White Rhino IPA", "style": "IPA", "venues": ["packaged-white-rhino"], "source": "https://untappd.com/b/white-rhino-brewing-co-ipa/1989326" },
+    { "id": "white-rhino-pale-ale", "name": "White Rhino Pale Ale", "style": "Pale Ale", "venues": ["packaged-white-rhino"], "source": "https://www.eebriatrade.com/products/beer/white-rhino-brewing-co/61185-white-rhino-pale-ale" },
+
+    { "id": "kati-patang-snappy-wheat", "name": "Snappy Wheat", "style": "Hefeweizen", "venues": ["packaged-kati-patang"], "source": "https://katipatang.com/" },
+    { "id": "kati-patang-zesty-amber-ale", "name": "Zesty Amber Ale", "style": "Pale Ale", "venues": ["packaged-kati-patang"], "source": "https://katipatang.com/" },
+
+    { "id": "goa-brewing-co-lager", "name": "Goa Brewing Co. Lager", "style": "Lager", "venues": ["packaged-goa-brewing-co"], "source": "https://bottlestoreblr.com/products/goa-brewing-co-lager-beer" },
+
+    { "id": "arbor-bollywood-blonde", "name": "Bollywood Blonde", "style": "Blonde Ale", "venues": ["packaged-arbor-brewing-company"], "source": "https://www.arborbrewing.in/" },
+    { "id": "arbor-raging-elephant-ipa", "name": "Raging Elephant IPA", "style": "IPA", "venues": ["packaged-arbor-brewing-company"], "source": "https://www.arborbrewing.in/" },
+
+    { "id": "medusa-premium-strong", "name": "Medusa Premium Strong Beer", "style": "Strong Lager", "venues": ["packaged-medusa"], "source": "https://medusabeer.com/" },
+    { "id": "medusa-air", "name": "Medusa Air", "style": "Lager", "venues": ["packaged-medusa"], "source": "https://brewsnspirits.in/medusa-air-hits-delhi-market" },
+
+    { "id": "witlinger-wheat-ale", "name": "Witlinger Wheat Ale", "style": "Belgian Wit", "venues": ["packaged-witlinger"], "source": "https://www.witlinger.com/" },
+    { "id": "witlinger-premium-lager", "name": "Witlinger Premium Lager", "style": "Lager", "venues": ["packaged-witlinger"], "source": "https://www.witlinger.com/" },
+
+    { "id": "maka-di-belgian-blanche", "name": "Maka di Belgian Blanche", "style": "Belgian Wit", "venues": ["packaged-maka-di"], "source": "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm" },
+    { "id": "maka-di-american-lager", "name": "Maka di American Lager", "style": "Lager", "venues": ["packaged-maka-di"], "source": "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm" },
+    { "id": "maka-di-belgian-triple", "name": "Maka di Belgian Triple", "style": "Belgian Ale", "venues": ["packaged-maka-di"], "source": "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm" },
+    { "id": "maka-di-honey-ale", "name": "Maka di Honey Ale", "style": "Belgian Ale", "venues": ["packaged-maka-di"], "source": "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm" },
+    { "id": "maka-di-bavarian-keller", "name": "Maka di Bavarian Keller", "style": "Lager", "venues": ["packaged-maka-di"], "source": "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm" },
+
+    { "id": "bombay-duck-bombae", "name": "Bombae", "style": "Lager", "venues": ["packaged-bombay-duck-brewing"], "source": "https://homegrown.co.in/homegrown-explore/try-bombay-duck-brewings-handcrafted-artisanal-ale" },
+    { "id": "bombay-duck-rice-and-shine", "name": "Rice & Shine", "style": "Saison", "venues": ["packaged-bombay-duck-brewing"], "source": "https://homegrown.co.in/homegrown-explore/try-bombay-duck-brewings-handcrafted-artisanal-ale" }
+  ],
+  "closed": []
+}

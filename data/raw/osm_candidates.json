@@ -1,0 +1,1218 @@
+[
+ {
+  "name": "The Founders Brewery",
+  "lat": 13.027204,
+  "lng": 77.57712,
+  "city": "",
+  "osm": "node/660345492",
+  "verified": false
+ },
+ {
+  "name": "Toit brewery and Resturant",
+  "lat": 18.5540074,
+  "lng": 73.9051438,
+  "city": "Kalyani Nagar",
+  "osm": "node/831251526",
+  "verified": false
+ },
+ {
+  "name": "Alapenos",
+  "lat": 11.01649,
+  "lng": 76.9736427,
+  "city": "",
+  "osm": "node/1466917416",
+  "verified": false
+ },
+ {
+  "name": "The Biere Club",
+  "lat": 12.9709587,
+  "lng": 77.5975559,
+  "city": "Bangalore",
+  "osm": "node/1835304318",
+  "verified": false
+ },
+ {
+  "name": "Hops 'N' Brew",
+  "lat": 28.4682424,
+  "lng": 77.0628965,
+  "city": "",
+  "osm": "node/1835582844",
+  "verified": false
+ },
+ {
+  "name": "Toit",
+  "lat": 12.9794113,
+  "lng": 77.6406278,
+  "city": "Bengaluru",
+  "osm": "node/1923665125",
+  "verified": false
+ },
+ {
+  "name": "The BrewMaster",
+  "lat": 30.8859418,
+  "lng": 75.7880187,
+  "city": "",
+  "osm": "node/1985888923",
+  "verified": false
+ },
+ {
+  "name": "Sicilia Italian Restaurant & Lounge",
+  "lat": 18.539333,
+  "lng": 73.87508,
+  "city": "Pune",
+  "osm": "node/2031346073",
+  "verified": false
+ },
+ {
+  "name": "Tropika Brewing Co",
+  "lat": 12.9421287,
+  "lng": 77.6977454,
+  "city": "",
+  "osm": "node/2098484831",
+  "verified": false
+ },
+ {
+  "name": "Independence Brewing Company",
+  "lat": 19.1289427,
+  "lng": 72.8190702,
+  "city": "",
+  "osm": "node/2370232807",
+  "verified": false
+ },
+ {
+  "name": "Arbor Brewing Company",
+  "lat": 12.9703092,
+  "lng": 77.6109836,
+  "city": "Bangalore",
+  "osm": "node/2641818345",
+  "verified": false
+ },
+ {
+  "name": "The Biere Street",
+  "lat": 12.9626309,
+  "lng": 77.7507675,
+  "city": "Bangalore",
+  "osm": "node/2696072363",
+  "verified": false
+ },
+ {
+  "name": "District 6",
+  "lat": 13.0124022,
+  "lng": 77.55478,
+  "city": "",
+  "osm": "node/3286300926",
+  "verified": false
+ },
+ {
+  "name": "Bangalore Brew Works",
+  "lat": 12.9680185,
+  "lng": 77.6019458,
+  "city": "Bengaluru",
+  "osm": "node/3458335906",
+  "verified": false
+ },
+ {
+  "name": "Vapour",
+  "lat": 12.9694282,
+  "lng": 77.6411133,
+  "city": "Bangalore",
+  "osm": "node/3725719353",
+  "verified": false
+ },
+ {
+  "name": "Ichin Restaurant",
+  "lat": 12.937762,
+  "lng": 77.6271125,
+  "city": "",
+  "osm": "node/3801706348",
+  "verified": false
+ },
+ {
+  "name": "Ashu Da Dhaba Family Restaurant",
+  "lat": 21.3516412,
+  "lng": 79.2372436,
+  "city": "",
+  "osm": "node/3993331260",
+  "verified": false
+ },
+ {
+  "name": "She Brews, Electronic City",
+  "lat": 12.83987,
+  "lng": 77.6531025,
+  "city": "Bangalore",
+  "osm": "node/4446008709",
+  "verified": false
+ },
+ {
+  "name": "Hindustan cocola beverages pvt. ltd",
+  "lat": 16.4146468,
+  "lng": 80.5945545,
+  "city": "Guntur",
+  "osm": "node/4487926979",
+  "verified": false
+ },
+ {
+  "name": "Brew Bot",
+  "lat": 19.1412727,
+  "lng": 72.8332274,
+  "city": "",
+  "osm": "node/4924405452",
+  "verified": false
+ },
+ {
+  "name": "The Druid Garden",
+  "lat": 13.0636119,
+  "lng": 77.5913837,
+  "city": "",
+  "osm": "node/5036644470",
+  "verified": false
+ },
+ {
+  "name": "The Weekly - Brewhouse & Kitchen",
+  "lat": 12.9350324,
+  "lng": 77.6089973,
+  "city": "",
+  "osm": "node/5915195078",
+  "verified": false
+ },
+ {
+  "name": "Brooks and Bonds Brewery",
+  "lat": 12.9342194,
+  "lng": 77.623433,
+  "city": "",
+  "osm": "node/5915230914",
+  "verified": false
+ },
+ {
+  "name": "Happy Brew",
+  "lat": 12.9339697,
+  "lng": 77.6154797,
+  "city": "",
+  "osm": "node/5915247703",
+  "verified": false
+ },
+ {
+  "name": "Krishna Restaurant",
+  "lat": 22.8183481,
+  "lng": 75.9274068,
+  "city": "",
+  "osm": "node/5951153021",
+  "verified": false
+ },
+ {
+  "name": "Yellow Submarine",
+  "lat": 12.8976051,
+  "lng": 77.5997,
+  "city": "",
+  "osm": "node/5995081003",
+  "verified": false
+ },
+ {
+  "name": "Xoox Brewmill",
+  "lat": 12.9354619,
+  "lng": 77.6150961,
+  "city": "",
+  "osm": "node/6067927667",
+  "verified": false
+ },
+ {
+  "name": "BierGarten Brewery & Kitchen",
+  "lat": 12.9824221,
+  "lng": 77.7086483,
+  "city": "Bengaluru",
+  "osm": "node/6216304209",
+  "verified": false
+ },
+ {
+  "name": "Wanderers",
+  "lat": 13.0230217,
+  "lng": 77.6431387,
+  "city": "",
+  "osm": "node/6419197058",
+  "verified": false
+ },
+ {
+  "name": "Geist Brewing Taproom",
+  "lat": 13.0115956,
+  "lng": 77.5553917,
+  "city": "Bangalore",
+  "osm": "node/6542893148",
+  "verified": false
+ },
+ {
+  "name": "STARBOY'S ARENA",
+  "lat": 17.4849276,
+  "lng": 78.3177261,
+  "city": "HYDERABAD",
+  "osm": "node/6760293559",
+  "verified": false
+ },
+ {
+  "name": "Brew Kings",
+  "lat": 12.9264213,
+  "lng": 77.500273,
+  "city": "Bengaluru",
+  "osm": "node/6815596343",
+  "verified": false
+ },
+ {
+  "name": "The Hoppery",
+  "lat": 17.4300591,
+  "lng": 78.3911379,
+  "city": "",
+  "osm": "node/6997870508",
+  "verified": false
+ },
+ {
+  "name": "Broadway brewery",
+  "lat": 17.4289066,
+  "lng": 78.4034864,
+  "city": "",
+  "osm": "node/7019068696",
+  "verified": false
+ },
+ {
+  "name": "Aurum Brew Works",
+  "lat": 12.9107458,
+  "lng": 77.6856277,
+  "city": "",
+  "osm": "node/7085477838",
+  "verified": false
+ },
+ {
+  "name": "Brew Bros",
+  "lat": 30.6768335,
+  "lng": 76.7225341,
+  "city": "",
+  "osm": "node/7106461845",
+  "verified": false
+ },
+ {
+  "name": "Boathouse",
+  "lat": 30.704614,
+  "lng": 76.8020645,
+  "city": "",
+  "osm": "node/7130950452",
+  "verified": false
+ },
+ {
+  "name": "Float Brewery",
+  "lat": 13.0225688,
+  "lng": 77.6435164,
+  "city": "Bangalore",
+  "osm": "node/7206004849",
+  "verified": false
+ },
+ {
+  "name": "Billy's BrewStris",
+  "lat": 18.5566688,
+  "lng": 73.8088812,
+  "city": "",
+  "osm": "node/7207627093",
+  "verified": false
+ },
+ {
+  "name": "Mc.dowels",
+  "lat": 9.6921958,
+  "lng": 76.3619125,
+  "city": "",
+  "osm": "node/7379117914",
+  "verified": false
+ },
+ {
+  "name": "Kannapuzha Toddy Shop",
+  "lat": 9.9591514,
+  "lng": 76.6212756,
+  "city": "Avoly",
+  "osm": "node/7479597792",
+  "verified": false
+ },
+ {
+  "name": "Brenco Breweries",
+  "lat": 19.0761513,
+  "lng": 72.8272545,
+  "city": "Khar Danda Koliwada",
+  "osm": "node/8347805191",
+  "verified": false
+ },
+ {
+  "name": "Vault Brewery",
+  "lat": 16.5010615,
+  "lng": 80.6567799,
+  "city": "Vijayawada",
+  "osm": "node/8441962506",
+  "verified": false
+ },
+ {
+  "name": "Black Mambaa",
+  "lat": 28.4691501,
+  "lng": 77.0636443,
+  "city": "Gurugram",
+  "osm": "node/8499424058",
+  "verified": false
+ },
+ {
+  "name": "BLR Brewing Company",
+  "lat": 12.8680803,
+  "lng": 77.5431197,
+  "city": "",
+  "osm": "node/9178327801",
+  "verified": false
+ },
+ {
+  "name": "Coracle",
+  "lat": 12.9666459,
+  "lng": 77.6352847,
+  "city": "",
+  "osm": "node/9296060500",
+  "verified": false
+ },
+ {
+  "name": "Independence Brewing Co.",
+  "lat": 18.5711254,
+  "lng": 73.775001,
+  "city": "Pune",
+  "osm": "node/9348358178",
+  "verified": false
+ },
+ {
+  "name": "Communiti",
+  "lat": 12.9724329,
+  "lng": 77.6082882,
+  "city": "Bangalore",
+  "osm": "node/9540035553",
+  "verified": false
+ },
+ {
+  "name": "The Great Bear Kitchen & Microbrewery",
+  "lat": 30.7261219,
+  "lng": 76.8048535,
+  "city": "",
+  "osm": "node/9943965617",
+  "verified": false
+ },
+ {
+  "name": "Sol the brew house",
+  "lat": 31.1020798,
+  "lng": 77.177218,
+  "city": "Shimla",
+  "osm": "node/9969228474",
+  "verified": false
+ },
+ {
+  "name": "The Merak Brewhouse",
+  "lat": 12.9721424,
+  "lng": 77.5951388,
+  "city": "",
+  "osm": "node/10051816948",
+  "verified": false
+ },
+ {
+  "name": "Pune Beer Farm - growler station",
+  "lat": 18.5387873,
+  "lng": 73.9002953,
+  "city": "",
+  "osm": "node/10054111635",
+  "verified": false
+ },
+ {
+  "name": "The Bier Library",
+  "lat": 12.9391229,
+  "lng": 77.6262498,
+  "city": "Ejipura",
+  "osm": "node/10114201658",
+  "verified": false
+ },
+ {
+  "name": "Byg Brewski",
+  "lat": 13.0247023,
+  "lng": 77.5487874,
+  "city": "",
+  "osm": "node/10216203915",
+  "verified": false
+ },
+ {
+  "name": "Peepai Kitchen & Brewery",
+  "lat": 13.0554338,
+  "lng": 77.5930008,
+  "city": "",
+  "osm": "node/10219023839",
+  "verified": false
+ },
+ {
+  "name": "La Casa Brew + Kitchen",
+  "lat": 13.0372716,
+  "lng": 77.5659201,
+  "city": "",
+  "osm": "node/10233456233",
+  "verified": false
+ },
+ {
+  "name": "Doolally Taproom - Andheri",
+  "lat": 19.1360688,
+  "lng": 72.8331996,
+  "city": "",
+  "osm": "node/10242685248",
+  "verified": false
+ },
+ {
+  "name": "Vapour",
+  "lat": 12.914469,
+  "lng": 77.6775091,
+  "city": "",
+  "osm": "node/10248454959",
+  "verified": false
+ },
+ {
+  "name": "Alchemy",
+  "lat": 12.9658984,
+  "lng": 77.5985652,
+  "city": "",
+  "osm": "node/10279727350",
+  "verified": false
+ },
+ {
+  "name": "7 Rivers Brewing Company",
+  "lat": 12.9733385,
+  "lng": 77.6197399,
+  "city": "",
+  "osm": "node/10280759751",
+  "verified": false
+ },
+ {
+  "name": "Shakesbierre",
+  "lat": 12.9709992,
+  "lng": 77.6073508,
+  "city": "Bangalore",
+  "osm": "node/10280759756",
+  "verified": false
+ },
+ {
+  "name": "We: Neighbourhood",
+  "lat": 12.9722311,
+  "lng": 77.6083737,
+  "city": "Bangalore",
+  "osm": "node/10280759757",
+  "verified": false
+ },
+ {
+  "name": "Mac's Brewhouse",
+  "lat": 12.9802975,
+  "lng": 77.6405874,
+  "city": "",
+  "osm": "node/10280775106",
+  "verified": false
+ },
+ {
+  "name": "Murphy’s Brewhouse",
+  "lat": 12.9538209,
+  "lng": 77.6396728,
+  "city": "",
+  "osm": "node/10280775107",
+  "verified": false
+ },
+ {
+  "name": "Jamming Goat 3.0",
+  "lat": 12.9061131,
+  "lng": 77.5897944,
+  "city": "",
+  "osm": "node/10280790808",
+  "verified": false
+ },
+ {
+  "name": "Big Barrel Brewpub",
+  "lat": 12.9040849,
+  "lng": 77.5078741,
+  "city": "",
+  "osm": "node/10280801513",
+  "verified": false
+ },
+ {
+  "name": "Candles Brewhouse",
+  "lat": 13.0553896,
+  "lng": 77.5943314,
+  "city": "Bangalore",
+  "osm": "node/10695273909",
+  "verified": false
+ },
+ {
+  "name": "Gateway Taproom",
+  "lat": 19.0592716,
+  "lng": 72.8651694,
+  "city": "",
+  "osm": "node/10779234900",
+  "verified": false
+ },
+ {
+  "name": "Biergarten Brewery & Kitchen",
+  "lat": 12.933443,
+  "lng": 77.6141153,
+  "city": "",
+  "osm": "node/11096397020",
+  "verified": false
+ },
+ {
+  "name": "We:Neighbourhood",
+  "lat": 13.0008022,
+  "lng": 77.6325501,
+  "city": "",
+  "osm": "node/11126837817",
+  "verified": false
+ },
+ {
+  "name": "Indian Biere House",
+  "lat": 12.9060628,
+  "lng": 77.5895222,
+  "city": "",
+  "osm": "node/11183618458",
+  "verified": false
+ },
+ {
+  "name": "Brahma Brews",
+  "lat": 12.8932346,
+  "lng": 77.5864718,
+  "city": "",
+  "osm": "node/11305178269",
+  "verified": false
+ },
+ {
+  "name": "CU2 Brewhouse",
+  "lat": 17.4010839,
+  "lng": 78.3383916,
+  "city": "",
+  "osm": "node/11447318967",
+  "verified": false
+ },
+ {
+  "name": "Zero40 Financial District",
+  "lat": 17.4199667,
+  "lng": 78.3286906,
+  "city": "",
+  "osm": "node/11448994810",
+  "verified": false
+ },
+ {
+  "name": "Biergarten Brewery & Kitchen",
+  "lat": 13.0417334,
+  "lng": 77.6196407,
+  "city": "",
+  "osm": "node/11475302430",
+  "verified": false
+ },
+ {
+  "name": "Kling Brewery",
+  "lat": 12.9749375,
+  "lng": 77.6045006,
+  "city": "Bengaluru",
+  "osm": "node/11476074406",
+  "verified": false
+ },
+ {
+  "name": "The Weekly Brewhouse and Kitchen",
+  "lat": 12.9351187,
+  "lng": 77.6088557,
+  "city": "",
+  "osm": "node/11503032066",
+  "verified": false
+ },
+ {
+  "name": "Red Rhino",
+  "lat": 17.4331064,
+  "lng": 78.3784357,
+  "city": "Hyderabad",
+  "osm": "node/11534656916",
+  "verified": false
+ },
+ {
+  "name": "Orah Brew Garden",
+  "lat": 13.0983166,
+  "lng": 77.5735045,
+  "city": "",
+  "osm": "node/11534777959",
+  "verified": false
+ },
+ {
+  "name": "Mannheim Craft Brewery",
+  "lat": 12.9201536,
+  "lng": 77.6850584,
+  "city": "",
+  "osm": "node/11553915195",
+  "verified": false
+ },
+ {
+  "name": "BLR Brewing Co",
+  "lat": 12.982224,
+  "lng": 77.7087599,
+  "city": "",
+  "osm": "node/11575590417",
+  "verified": false
+ },
+ {
+  "name": "brew merchant",
+  "lat": 18.5572502,
+  "lng": 73.7705692,
+  "city": "PUNE",
+  "osm": "node/11581434774",
+  "verified": false
+ },
+ {
+  "name": "Kegs & Barrels Brewing Co",
+  "lat": 20.3519625,
+  "lng": 85.8255643,
+  "city": "",
+  "osm": "node/11619350869",
+  "verified": false
+ },
+ {
+  "name": "Geist Brewing Co. Hennur",
+  "lat": 13.0837057,
+  "lng": 77.6442201,
+  "city": "Bengaluru",
+  "osm": "node/11640334690",
+  "verified": false
+ },
+ {
+  "name": "Effingut Koregaon Park",
+  "lat": 18.5340315,
+  "lng": 73.8985036,
+  "city": "",
+  "osm": "node/11744761288",
+  "verified": false
+ },
+ {
+  "name": "PrimeGolf Brewing and Golfing",
+  "lat": 13.0287398,
+  "lng": 77.7606203,
+  "city": "",
+  "osm": "node/11802298325",
+  "verified": false
+ },
+ {
+  "name": "Biergarten Brewery & Kitchen",
+  "lat": 12.9298982,
+  "lng": 77.6854473,
+  "city": "",
+  "osm": "node/11811087974",
+  "verified": false
+ },
+ {
+  "name": "Janta Hotel",
+  "lat": 28.5957076,
+  "lng": 77.1230774,
+  "city": "",
+  "osm": "node/11876083322",
+  "verified": false
+ },
+ {
+  "name": "Seven Rivers Brewing",
+  "lat": 15.5017422,
+  "lng": 73.770642,
+  "city": "",
+  "osm": "node/11913333969",
+  "verified": false
+ },
+ {
+  "name": "We Neighborhood Banaswadi",
+  "lat": 13.0016791,
+  "lng": 77.6327085,
+  "city": "Bangalore",
+  "osm": "node/11953259366",
+  "verified": false
+ },
+ {
+  "name": "Toro Brew House & Kitchen Zozo",
+  "lat": 13.0315097,
+  "lng": 77.577408,
+  "city": "Bengaluru",
+  "osm": "node/12064153963",
+  "verified": false
+ },
+ {
+  "name": "The Palms Brew & Kitchen",
+  "lat": 12.8963113,
+  "lng": 77.5810732,
+  "city": "",
+  "osm": "node/12102864716",
+  "verified": false
+ },
+ {
+  "name": "Tipsy Bull Brewhouse And Kitchen",
+  "lat": 12.9886154,
+  "lng": 77.7103409,
+  "city": "",
+  "osm": "node/12129019645",
+  "verified": false
+ },
+ {
+  "name": "Botany Brew and Kitchen",
+  "lat": 12.9746519,
+  "lng": 77.5970726,
+  "city": "Bengaluru",
+  "osm": "node/12129019647",
+  "verified": false
+ },
+ {
+  "name": "Chin Lung Brewery",
+  "lat": 12.9692698,
+  "lng": 77.6416694,
+  "city": "",
+  "osm": "node/12145301149",
+  "verified": false
+ },
+ {
+  "name": "The Bier Library",
+  "lat": 12.9084624,
+  "lng": 77.6885618,
+  "city": "",
+  "osm": "node/12168564053",
+  "verified": false
+ },
+ {
+  "name": "Toit ORR East",
+  "lat": 12.9808974,
+  "lng": 77.6967931,
+  "city": "Bengaluru",
+  "osm": "node/12181461728",
+  "verified": false
+ },
+ {
+  "name": "floks",
+  "lat": 28.3925343,
+  "lng": 77.0591629,
+  "city": "",
+  "osm": "node/12270870728",
+  "verified": false
+ },
+ {
+  "name": "Roe- SIA",
+  "lat": 28.3920329,
+  "lng": 77.0595181,
+  "city": "",
+  "osm": "node/12270870764",
+  "verified": false
+ },
+ {
+  "name": "Iron Hill Bengaluru",
+  "lat": 12.8873851,
+  "lng": 77.5620496,
+  "city": "",
+  "osm": "node/12395928080",
+  "verified": false
+ },
+ {
+  "name": "OI Brewhouse",
+  "lat": 18.5526491,
+  "lng": 73.8997102,
+  "city": "",
+  "osm": "node/12500831136",
+  "verified": false
+ },
+ {
+  "name": "Bier Loft Brewing Company",
+  "lat": 12.8415292,
+  "lng": 77.6446134,
+  "city": "",
+  "osm": "node/12512224850",
+  "verified": false
+ },
+ {
+  "name": "Hangover Brewery",
+  "lat": 16.498889,
+  "lng": 80.6522394,
+  "city": "",
+  "osm": "node/12607610890",
+  "verified": false
+ },
+ {
+  "name": "High Brew",
+  "lat": 12.8995808,
+  "lng": 77.5944346,
+  "city": "",
+  "osm": "node/12632035872",
+  "verified": false
+ },
+ {
+  "name": "Retreat",
+  "lat": 26.9154952,
+  "lng": 75.8064548,
+  "city": "Jaipur",
+  "osm": "node/12734119470",
+  "verified": false
+ },
+ {
+  "name": "Brew Meister",
+  "lat": 12.9264814,
+  "lng": 77.5846675,
+  "city": "",
+  "osm": "node/12800674481",
+  "verified": false
+ },
+ {
+  "name": "Shimla Brewing Company",
+  "lat": 31.1009761,
+  "lng": 77.1765256,
+  "city": "",
+  "osm": "node/12857643032",
+  "verified": false
+ },
+ {
+  "name": "Brew Buzz",
+  "lat": 16.5022746,
+  "lng": 80.6575064,
+  "city": "",
+  "osm": "node/12875433907",
+  "verified": false
+ },
+ {
+  "name": "Old Mill Brewing Co.",
+  "lat": 12.9245224,
+  "lng": 77.7370823,
+  "city": "",
+  "osm": "node/12883826130",
+  "verified": false
+ },
+ {
+  "name": "BLR Brewing Co.",
+  "lat": 12.9443543,
+  "lng": 77.6945749,
+  "city": "",
+  "osm": "node/12890296302",
+  "verified": false
+ },
+ {
+  "name": "Effingut",
+  "lat": 19.0521025,
+  "lng": 72.9000346,
+  "city": "",
+  "osm": "node/12944607163",
+  "verified": false
+ },
+ {
+  "name": "Broadway Brewery",
+  "lat": 17.4572909,
+  "lng": 78.3725866,
+  "city": "",
+  "osm": "node/12972335847",
+  "verified": false
+ },
+ {
+  "name": "Kanjirappuzha Shap",
+  "lat": 10.994912,
+  "lng": 76.536786,
+  "city": "",
+  "osm": "node/13004320695",
+  "verified": false
+ },
+ {
+  "name": "The Brew Factory",
+  "lat": 13.0792013,
+  "lng": 77.5920139,
+  "city": "",
+  "osm": "node/13013978924",
+  "verified": false
+ },
+ {
+  "name": "Mannheim Craft Brewery",
+  "lat": 12.9907341,
+  "lng": 77.7079521,
+  "city": "",
+  "osm": "node/13062303501",
+  "verified": false
+ },
+ {
+  "name": "Arena Brewhouse",
+  "lat": 12.9767881,
+  "lng": 77.6412263,
+  "city": "",
+  "osm": "node/13104002194",
+  "verified": false
+ },
+ {
+  "name": "Seven Barrel Brew Pub",
+  "lat": 28.4763023,
+  "lng": 77.0931823,
+  "city": "Gurgaon",
+  "osm": "node/13175452494",
+  "verified": false
+ },
+ {
+  "name": "Oasis Brewery",
+  "lat": 12.9973786,
+  "lng": 77.6910719,
+  "city": "",
+  "osm": "node/13207038885",
+  "verified": false
+ },
+ {
+  "name": "The Berliner Bar",
+  "lat": 19.130256,
+  "lng": 72.822479,
+  "city": "",
+  "osm": "node/13240703523",
+  "verified": false
+ },
+ {
+  "name": "Breaking Brew",
+  "lat": 28.5028947,
+  "lng": 77.0970544,
+  "city": "",
+  "osm": "node/13296605614",
+  "verified": false
+ },
+ {
+  "name": "33&Brew",
+  "lat": 12.9732982,
+  "lng": 77.7098888,
+  "city": "",
+  "osm": "node/13354793122",
+  "verified": false
+ },
+ {
+  "name": "Gold Rush Brews",
+  "lat": 13.0195923,
+  "lng": 77.707355,
+  "city": "",
+  "osm": "node/13374011223",
+  "verified": false
+ },
+ {
+  "name": "Conaught Clubhouse",
+  "lat": 28.6270502,
+  "lng": 77.2203957,
+  "city": "",
+  "osm": "node/13479994401",
+  "verified": false
+ },
+ {
+  "name": "Bira 91 Taproom",
+  "lat": 19.0029382,
+  "lng": 72.8289139,
+  "city": "",
+  "osm": "node/13673721189",
+  "verified": false
+ },
+ {
+  "name": "Nāvu",
+  "lat": 12.9731359,
+  "lng": 77.6144747,
+  "city": "",
+  "osm": "node/13688604741",
+  "verified": false
+ },
+ {
+  "name": "The Brew Estate",
+  "lat": 30.727117,
+  "lng": 76.8037942,
+  "city": "",
+  "osm": "node/13701348301",
+  "verified": false
+ },
+ {
+  "name": "The Brew Street Microbrewery and Restaurant",
+  "lat": 30.6282561,
+  "lng": 76.8245484,
+  "city": "",
+  "osm": "node/13703171301",
+  "verified": false
+ },
+ {
+  "name": "Brahma Brews",
+  "lat": 12.9497928,
+  "lng": 77.7466232,
+  "city": "",
+  "osm": "node/13881397282",
+  "verified": false
+ },
+ {
+  "name": "Three Monkeys Brewpub",
+  "lat": 12.9926448,
+  "lng": 77.6612314,
+  "city": "",
+  "osm": "node/13923530030",
+  "verified": false
+ },
+ {
+  "name": "Maharaja Family Restaurant",
+  "lat": 19.009755,
+  "lng": 73.031701,
+  "city": "",
+  "osm": "node/13970271887",
+  "verified": false
+ },
+ {
+  "name": "Independence Brewing Company",
+  "lat": 19.1162038,
+  "lng": 72.9090668,
+  "city": "Mumbai",
+  "osm": "node/14039200098",
+  "verified": false
+ },
+ {
+  "name": "Bread & Brew - Continental",
+  "lat": 12.830917,
+  "lng": 80.0456602,
+  "city": "",
+  "osm": "node/14040637569",
+  "verified": false
+ },
+ {
+  "name": "Ganbeii Microbrewery",
+  "lat": 12.9329789,
+  "lng": 77.6147807,
+  "city": "",
+  "osm": "node/14075972901",
+  "verified": false
+ },
+ {
+  "name": "Iron Hill Bengaluru",
+  "lat": 12.9849512,
+  "lng": 77.7501118,
+  "city": "",
+  "osm": "node/14141324822",
+  "verified": false
+ },
+ {
+  "name": "Effingut Brewpub",
+  "lat": 28.4628818,
+  "lng": 77.0964245,
+  "city": "",
+  "osm": "node/14173153335",
+  "verified": false
+ },
+ {
+  "name": "Long Boat Brewing Co.",
+  "lat": 12.9517972,
+  "lng": 77.7007287,
+  "city": "Bangalore",
+  "osm": "way/346740473",
+  "verified": false
+ },
+ {
+  "name": "Big Pitcher",
+  "lat": 12.9602378,
+  "lng": 77.6468937,
+  "city": "",
+  "osm": "way/346745629",
+  "verified": false
+ },
+ {
+  "name": "Deck of Brews",
+  "lat": 12.9326524,
+  "lng": 77.6967852,
+  "city": "",
+  "osm": "way/347475288",
+  "verified": false
+ },
+ {
+  "name": "Bumblebee Brauhaus",
+  "lat": 12.969238,
+  "lng": 77.6416349,
+  "city": "Indira Nagar, Bangalore",
+  "osm": "way/368763184",
+  "verified": false
+ },
+ {
+  "name": "United Spirits Ltd",
+  "lat": 10.7977683,
+  "lng": 76.7761556,
+  "city": "",
+  "osm": "way/580729188",
+  "verified": false
+ },
+ {
+  "name": "Tiger Tiger Brewhouse",
+  "lat": 12.9111113,
+  "lng": 77.6850549,
+  "city": "Bengaluru",
+  "osm": "way/609243779",
+  "verified": false
+ },
+ {
+  "name": "Toddy shop",
+  "lat": 12.214942,
+  "lng": 75.15481,
+  "city": "",
+  "osm": "way/954845109",
+  "verified": false
+ },
+ {
+  "name": "La Casa",
+  "lat": 12.9042849,
+  "lng": 77.675782,
+  "city": "",
+  "osm": "way/1065395456",
+  "verified": false
+ },
+ {
+  "name": "Backstreet",
+  "lat": 12.9209546,
+  "lng": 77.6964246,
+  "city": "",
+  "osm": "way/1070483715",
+  "verified": false
+ },
+ {
+  "name": "Iron Hill Bengaluru",
+  "lat": 12.9508855,
+  "lng": 77.6986716,
+  "city": "",
+  "osm": "way/1072948584",
+  "verified": false
+ },
+ {
+  "name": "Sidhapura",
+  "lat": 22.0921811,
+  "lng": 69.2708795,
+  "city": "",
+  "osm": "way/1252945574",
+  "verified": false
+ },
+ {
+  "name": "Geist Brewing Co. OMR",
+  "lat": 13.0531239,
+  "lng": 77.7593644,
+  "city": "",
+  "osm": "way/1343502849",
+  "verified": false
+ },
+ {
+  "name": "ICB Indian Craft Brewery",
+  "lat": 13.0425437,
+  "lng": 77.6162011,
+  "city": "Bengaluru",
+  "osm": "way/1343677903",
+  "verified": false
+ },
+ {
+  "name": "Susegado Microbrewery",
+  "lat": 15.7311122,
+  "lng": 73.8689158,
+  "city": "",
+  "osm": "way/1377344353",
+  "verified": false
+ },
+ {
+  "name": "Budweiser Brew District",
+  "lat": 15.7311293,
+  "lng": 73.8686326,
+  "city": "",
+  "osm": "way/1377344355",
+  "verified": false
+ },
+ {
+  "name": "ABV - Artisanal Bier Village",
+  "lat": 12.991468,
+  "lng": 77.7196678,
+  "city": "",
+  "osm": "way/1430477819",
+  "verified": false
+ },
+ {
+  "name": "The Golden Circle Brewery",
+  "lat": 12.9082834,
+  "lng": 77.6901606,
+  "city": "",
+  "osm": "way/1458657503",
+  "verified": false
+ }
+]
