@@ -15,9 +15,52 @@
    "sources": [
     "https://www.google.com/maps/place/Brewtherhood+Craft+Works/@19.8927954,75.3728196,17z"
    ]
+  },
+  {
+   "id": "packaged-brewantee",
+   "name": "Brewantee",
+   "kind": "packaged",
+   "cities": [
+    "Maharashtra"
+   ],
+   "note": "Contract brewery listed in Pune on Untappd; brewed in Chhatrapati Sambhajinagar (Aurangabad) and sold across Maharashtra, per a local brewer.",
+   "status": "open",
+   "checked": "2026-09-23",
+   "sources": [
+    "https://untappd.com/w/brewantee/519610/beer",
+    "https://www.brewantee.com/"
+   ]
   }
  ],
- "beers": [],
+ "beers": [
+  {
+   "id": "brewantee-upright-farmhouse-ale",
+   "name": "Upright Farmhouse Ale",
+   "style": "Saison",
+   "venues": [
+    "packaged-brewantee"
+   ],
+   "source": "https://untappd.com/w/brewantee/519610/beer"
+  },
+  {
+   "id": "brewantee-javeline",
+   "name": "Javeline",
+   "style": "Lager",
+   "venues": [
+    "packaged-brewantee"
+   ],
+   "source": "https://untappd.com/w/brewantee/519610/beer"
+  },
+  {
+   "id": "brewantee-black-lager",
+   "name": "Black Lager",
+   "style": "Lager",
+   "venues": [
+    "packaged-brewantee"
+   ],
+   "source": "https://untappd.com/w/brewantee/519610/beer"
+  }
+ ],
  "closed": [
   {
    "id": "pune-great-state-dive-koregaon-park",

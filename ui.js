@@ -28,7 +28,10 @@ export function icon(name, className = 'ic', colour) {
   return svg;
 }
 
-export const glassFor = (beer, className = 'glass') => icon('glass', className, colourOf(beer.style));
+// The style sets the colour, except when the beer's own name says it is dark (a black lager is not golden).
+const DARK_NAME = /\b(black|dark|schwarz|dunkel)/i;
+export const beerColour = beer => DARK_NAME.test(beer.name) ? '#5E0B00' : colourOf(beer.style);
+export const glassFor = (beer, className = 'glass') => icon('glass', className, beerColour(beer));
 
 export function ratingBadge(entry) {
   if (!entry) return null;
