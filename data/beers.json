@@ -345,5 +345,12 @@
   {"id": "153-biere-street-club-special", "name": "Club Special", "style": "Strong Lager", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/"},
   {"id": "153-biere-street-ipa", "name": "IPA", "style": "IPA", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/"},
   {"id": "153-biere-street-specialty", "name": "Specialty", "style": "Belgian Ale", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/"},
-  {"id": "153-biere-street-nitro-stout", "name": "Nitro Stout", "style": "Stout", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/"}
+  {"id": "153-biere-street-nitro-stout", "name": "Nitro Stout", "style": "Stout", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/"},
+  {"id": "coolberg-malt", "name": "Coolberg Malt", "style": "Non-alcoholic", "venues": ["packaged-coolberg"], "source": "https://www.coolberg.com/"},
+  {"id": "coolberg-cranberry", "name": "Coolberg Cranberry", "style": "Non-alcoholic", "venues": ["packaged-coolberg"], "source": "https://www.coolberg.com/"},
+  {"id": "coolberg-ginger", "name": "Coolberg Ginger", "style": "Non-alcoholic", "venues": ["packaged-coolberg"], "source": "https://www.coolberg.com/"},
+  {"id": "coolberg-mint", "name": "Coolberg Mint", "style": "Non-alcoholic", "venues": ["packaged-coolberg"], "source": "https://www.coolberg.com/"},
+  {"id": "coolberg-peach", "name": "Coolberg Peach", "style": "Non-alcoholic", "venues": ["packaged-coolberg"], "source": "https://www.coolberg.com/"},
+  {"id": "coolberg-strawberry", "name": "Coolberg Strawberry", "style": "Non-alcoholic", "venues": ["packaged-coolberg"], "source": "https://www.coolberg.com/"},
+  {"id": "coolberg-apple", "name": "Coolberg Apple", "style": "Non-alcoholic", "venues": ["packaged-coolberg"], "source": "https://www.coolberg.com/"}
 ]

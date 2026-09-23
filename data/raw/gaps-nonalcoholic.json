@@ -1,0 +1,92 @@
+{
+ "region": "gaps-nonalcoholic",
+ "venues": [
+  {
+   "id": "packaged-coolberg",
+   "name": "Coolberg",
+   "kind": "packaged",
+   "cities": [
+    "All India"
+   ],
+   "status": "open",
+   "note": "Non-alcoholic; Indian brand, malt-based 0.0% ABV beer sold nationally via quick-commerce and e-commerce",
+   "sources": [
+    "https://www.coolberg.com/"
+   ]
+  }
+ ],
+ "beers": [
+  {
+   "id": "coolberg-malt",
+   "name": "Coolberg Malt",
+   "style": "Non-alcoholic",
+   "venues": [
+    "packaged-coolberg"
+   ],
+   "source": "https://www.coolberg.com/"
+  },
+  {
+   "id": "coolberg-cranberry",
+   "name": "Coolberg Cranberry",
+   "style": "Non-alcoholic",
+   "venues": [
+    "packaged-coolberg"
+   ],
+   "source": "https://www.coolberg.com/"
+  },
+  {
+   "id": "coolberg-ginger",
+   "name": "Coolberg Ginger",
+   "style": "Non-alcoholic",
+   "venues": [
+    "packaged-coolberg"
+   ],
+   "source": "https://www.coolberg.com/"
+  },
+  {
+   "id": "coolberg-mint",
+   "name": "Coolberg Mint",
+   "style": "Non-alcoholic",
+   "venues": [
+    "packaged-coolberg"
+   ],
+   "source": "https://www.coolberg.com/"
+  },
+  {
+   "id": "coolberg-peach",
+   "name": "Coolberg Peach",
+   "style": "Non-alcoholic",
+   "venues": [
+    "packaged-coolberg"
+   ],
+   "source": "https://www.coolberg.com/"
+  },
+  {
+   "id": "coolberg-strawberry",
+   "name": "Coolberg Strawberry",
+   "style": "Non-alcoholic",
+   "venues": [
+    "packaged-coolberg"
+   ],
+   "source": "https://www.coolberg.com/"
+  },
+  {
+   "id": "coolberg-apple",
+   "name": "Coolberg Apple",
+   "style": "Non-alcoholic",
+   "venues": [
+    "packaged-coolberg"
+   ],
+   "source": "https://www.coolberg.com/"
+  }
+ ],
+ "closed": [],
+ "excluded": [
+  {
+   "name": "Ramanujan",
+   "venue": "bengaluru-icb-indian-craft-brewery-nagawara",
+   "reason": "Source says both \"low on booze\" and \"non-alcoholic beverage\", no ABV and not called a beer; not listed as 0.0 until confirmed.",
+   "source": "https://icb.beer/drink/"
+  }
+ ]
+}
