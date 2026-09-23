@@ -20,7 +20,7 @@ INDIA_BOX = (6.0, 37.5, 68.0, 97.5)  # lat min, lat max, lng min, lng max
 CITY_ALIAS = {"bangalore": "Bengaluru", "gurgaon": "Gurugram", "thane": "Mumbai", "navimumbai": "Mumbai",
               "calangute": "Goa", "candolim": "Goa", "mopa": "Goa", "panaji": "Goa", "panjim": "Goa",
               "anjuna": "Goa", "vagator": "Goa", "margao": "Goa", "baga": "Goa", "newdelhi": "Delhi",
-              "secunderabad": "Hyderabad", "mohali": "Chandigarh", "panchkula": "Chandigarh"}
+              "secunderabad": "Hyderabad", "aurangabad": "Chhatrapati Sambhajinagar", "mohali": "Chandigarh", "panchkula": "Chandigarh"}
 VENUE_KEYS = ["id", "name", "kind", "city", "area", "address", "lat", "lng", "cities", "sources", "note", "checked"]
 
 

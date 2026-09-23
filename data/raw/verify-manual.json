@@ -1,0 +1,37 @@
+{
+ "region": "manual-checks",
+ "venues": [
+  {
+   "id": "chhatrapati-sambhajinagar-brewtherhood-craft-works-midc",
+   "name": "Brewtherhood Craft Works",
+   "kind": "microbrewery",
+   "city": "Chhatrapati Sambhajinagar",
+   "area": "Chikhalthana MIDC",
+   "address": "W-75, Chikhalthana, MIDC, Chhatrapati Sambhajinagar, Maharashtra 431008",
+   "lat": 19.8927954,
+   "lng": 75.3728196,
+   "status": "open",
+   "checked": "2026-09-23",
+   "sources": [
+    "https://www.google.com/maps/place/Brewtherhood+Craft+Works/@19.8927954,75.3728196,17z"
+   ]
+  }
+ ],
+ "beers": [],
+ "closed": [
+  {
+   "id": "pune-great-state-dive-koregaon-park",
+   "name": "Great State Aleworks",
+   "city": "Pune",
+   "note": "Google Maps: permanently closed; review says closed as of Aug 2024",
+   "source": "https://www.google.com/maps/place/Great+State+Aleworks/@18.534295,73.8992493,17z"
+  },
+  {
+   "id": "packaged-great-state-aleworks",
+   "name": "Great State Aleworks",
+   "city": "Pune",
+   "note": "Google Maps: permanently closed; review says closed as of Aug 2024",
+   "source": "https://www.google.com/maps/place/Great+State+Aleworks/@18.534295,73.8992493,17z"
+  }
+ ]
+}

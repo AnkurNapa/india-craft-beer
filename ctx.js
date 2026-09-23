@@ -123,8 +123,20 @@ export const rerender = () => renderFn();
 
 /* ---------- derived helpers ---------- */
 
-// A brand sold nationally ("All India") shows up in every city.
-export const inCity = v => state.city === 'all' || citiesOf(v).includes(state.city) || citiesOf(v).includes('All India');
+// Brands record where they sell as cities or states, so a city also matches its state.
+const STATE_OF = {
+  Bengaluru: 'Karnataka', Mysuru: 'Karnataka', Mangaluru: 'Karnataka',
+  Pune: 'Maharashtra', Mumbai: 'Maharashtra', Nashik: 'Maharashtra', Nagpur: 'Maharashtra', 'Chhatrapati Sambhajinagar': 'Maharashtra',
+  Hyderabad: 'Telangana', Vijayawada: 'Andhra Pradesh', Visakhapatnam: 'Andhra Pradesh', Puducherry: 'Puducherry',
+  Gurugram: 'Haryana', Faridabad: 'Haryana', Chandigarh: 'Chandigarh', Delhi: 'Delhi', Noida: 'Uttar Pradesh', Lucknow: 'Uttar Pradesh',
+  Jaipur: 'Rajasthan', Udaipur: 'Rajasthan', Amritsar: 'Punjab', Ludhiana: 'Punjab', Shimla: 'Himachal Pradesh', Dehradun: 'Uttarakhand',
+  Kolkata: 'West Bengal', Bhubaneswar: 'Odisha', Guwahati: 'Assam', Shillong: 'Meghalaya', Gangtok: 'Sikkim', Goa: 'Goa',
+};
+export const inCity = v => {
+  if (state.city === 'all') return true;
+  const where = citiesOf(v);
+  return where.includes(state.city) || where.includes(STATE_OF[state.city]) || where.includes('All India');
+};
 export const venueKm = v => state.pos && v.lat != null ? distanceKm(state.pos, v) : null;
 export const byDistance = (a, b) => (venueKm(a) ?? Infinity) - (venueKm(b) ?? Infinity);
 export const venuesOf = beer => beer.venues.map(id => venueById.get(id)).filter(Boolean);
