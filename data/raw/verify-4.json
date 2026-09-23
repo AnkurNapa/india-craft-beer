@@ -1,0 +1,624 @@
+{
+  "venues": [
+    {
+      "id": "chandigarh-great-bear-kitchen-microbrewery",
+      "name": "The Great Bear Kitchen & Microbrewery",
+      "kind": "brewpub",
+      "city": "Chandigarh",
+      "area": "Sector 26",
+      "address": "32, Madhya Marg, Sector 26, Chandigarh, 160026",
+      "lat": 30.726122, "lng": 76.804853,
+      "status": "open",
+      "sources": ["https://chdlife.com/best-microbreweries-in-chandigarh/"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "panchkula-twisted-barrel",
+      "name": "Twisted Barrel",
+      "kind": "brewpub",
+      "city": "Chandigarh",
+      "area": "Sector 9",
+      "address": "SCO No. 328, First & Second Floor, Sector 9, Panchkula, Haryana 134109",
+      "lat": 30.6946814, "lng": 76.8454891,
+      "status": "open",
+      "sources": ["https://chdlife.com/microbrewery-in-panchkula/"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "dehradun-brew-estate",
+      "name": "The Brew Estate",
+      "kind": "brewpub",
+      "city": "Dehradun",
+      "area": "Rajpur Road",
+      "address": "4th floor, 158 Euphoria shopping complex, Rajpur Road, Jakhan, Dehradun, Uttarakhand",
+      "lat": 30.358035, "lng": 78.066592,
+      "status": "open",
+      "sources": ["https://www.brewestate.in/the-brew-estate-dehradun.php"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "delhi-beeyoung-brewgarden-malviya-nagar",
+      "name": "BeeYoung Brewgarden",
+      "kind": "brewpub",
+      "city": "Delhi",
+      "area": "Malviya Nagar",
+      "address": "61/7, Block C, Malviya Nagar, New Delhi (near Panchsheel Park)",
+      "lat": 28.5314, "lng": 77.2093,
+      "status": "open",
+      "sources": ["https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "delhi-dublin-square-rohini",
+      "name": "Dublin Square",
+      "kind": "brewpub",
+      "city": "Delhi",
+      "area": "Rohini",
+      "address": "Mangalam Paradise Mall, Rohini, New Delhi",
+      "lat": 28.706308, "lng": 77.108789,
+      "status": "open",
+      "sources": ["https://www.treebo.com/blog/breweries-in-delhi/"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "delhi-effingut-saket",
+      "name": "Effingut",
+      "kind": "brewpub",
+      "city": "Delhi",
+      "area": "Saket",
+      "address": "2nd Floor, MGF Metropolitan Mall, Saket, New Delhi",
+      "lat": 28.52349, "lng": 77.209631,
+      "status": "open",
+      "sources": ["https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "delhi-flow-brew-dine-saket",
+      "name": "Flow Brew & Dine",
+      "kind": "brewpub",
+      "city": "Delhi",
+      "area": "Saket",
+      "address": "Commons, DLF Avenue, 312 B & C, 2nd Floor, A4, Saket, New Delhi 110017",
+      "lat": 28.52349, "lng": 77.209631,
+      "status": "open",
+      "sources": ["https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "delhi-fort-city-brewing-hauz-khas",
+      "name": "Fort City Brewing",
+      "kind": "brewpub",
+      "city": "Delhi",
+      "area": "Hauz Khas",
+      "address": "E-17, Market Lane, Hauz Khas Market, Block E, Hauz Khas, New Delhi",
+      "lat": 28.547597, "lng": 77.201345,
+      "status": "open",
+      "sources": [
+        "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280",
+        "https://www.tripadvisor.in/Restaurant_Review-g304551-d27136542-Reviews-Fort_City_Brewing-New_Delhi_National_Capital_Territory_of_Delhi.html"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "delhi-ministry-of-beer-connaught-place",
+      "name": "Ministry of Beer",
+      "kind": "brewpub",
+      "city": "Delhi",
+      "area": "Connaught Place",
+      "address": "M-43, Outer Circle, Connaught Place, New Delhi 110001",
+      "lat": 28.630001, "lng": 77.218825,
+      "status": "open",
+      "sources": ["https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "faridabad-brew-and-barrel-sector-12",
+      "name": "Brew & Barrel",
+      "kind": "brewpub",
+      "city": "Faridabad",
+      "area": "Sector 12",
+      "address": "SF 1, Level 2, Parsavnath City Mall, Sector 12, Faridabad, Haryana",
+      "lat": 28.385548, "lng": 77.323236,
+      "status": "open",
+      "sources": ["https://www.treebo.com/blog/breweries-in-delhi/"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gangtok-241-brewhouse-reshitang",
+      "name": "241 Brewhouse",
+      "kind": "brewpub",
+      "city": "Gangtok",
+      "area": "Reshitang",
+      "address": "Reshitang, Gangtok, Sikkim",
+      "lat": 27.329046, "lng": 88.6122673,
+      "status": "open",
+      "sources": [
+        "https://www.thestreetfoodguy.com/the-square-restaurant-and-bar-gangtok/",
+        "https://www.instagram.com/241brewhouse/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "goa-seven-rivers-brewing-candolim",
+      "name": "Seven Rivers Brewing Co.",
+      "kind": "brewpub",
+      "city": "Goa",
+      "area": "Candolim",
+      "address": "Taj Holiday Village Resort & Spa, Candolim (Sinquerim), Goa",
+      "lat": 15.5017422, "lng": 73.770642,
+      "status": "open",
+      "sources": [
+        "https://www.tajhotels.com/en-in/hotels/taj-holiday-village-goa/restaurants/seven-rivers-brewing-co-goa",
+        "https://lbb.in/goa/seven-rivers-brewing-co-goa/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "goa-susegado-mopa-airport",
+      "name": "Susegado (Mopa Airport)",
+      "kind": "taproom",
+      "city": "Goa",
+      "area": "Manohar International Airport",
+      "address": "Manohar International Airport, Mopa, Goa",
+      "lat": 15.7311122, "lng": 73.8689158,
+      "status": "open",
+      "sources": ["https://www.gomantaktimes.com/news/goa/susegado-indias-first-microbrewery-lands-at-goas-mopa-airport"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "goa-susegado-calangute",
+      "name": "Susegado Microbrewery",
+      "kind": "microbrewery",
+      "city": "Goa",
+      "area": "Calangute",
+      "address": "181B, Casa Leao, Khobra Vaddo, Calangute, Goa 403519",
+      "lat": 15.5507641, "lng": 73.7586665,
+      "status": "open",
+      "sources": ["https://lbb.in/goa/goa-first-microbrewery/"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gurugram-seven-barrel-brew-pub",
+      "name": "7 Barrel Brew Pub",
+      "kind": "brewpub",
+      "city": "Gurugram",
+      "area": "DLF Phase 1, Golf Course Road",
+      "address": "UG 38, DT Mega Mall, DLF Phase 1, Golf Course Road, Gurugram, Haryana",
+      "lat": 28.476302, "lng": 77.093182,
+      "status": "open",
+      "sources": ["https://www.treebo.com/blog/breweries-in-delhi/"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gurugram-7-degrees-brauhaus",
+      "name": "7 Degrees Brauhaus",
+      "kind": "brewpub",
+      "city": "Gurugram",
+      "area": "Golf Course Road, Sector 53",
+      "address": "3rd Floor, DLF South Point Mall, Golf Course Road, Sector 53, Gurugram, Haryana",
+      "lat": 28.447802, "lng": 77.099216,
+      "status": "open",
+      "sources": [
+        "https://www.treebo.com/blog/breweries-in-delhi/",
+        "https://magicpin.in/Gurgaon/Dlf-South-Point-Mall/Restaurant/7-Degrees-Brauhaus/store/5c2/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gurugram-adda-by-striker-sector-29",
+      "name": "Adda by Striker",
+      "kind": "brewpub",
+      "city": "Gurugram",
+      "area": "Sector 29",
+      "address": "SCO 24, 1st Floor, Sector 29, Gurugram, Haryana",
+      "lat": 28.46692, "lng": 77.067131,
+      "status": "open",
+      "sources": ["https://www.treebo.com/blog/breweries-in-delhi/"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gurugram-batli-29-sector-29",
+      "name": "Batli 29",
+      "kind": "brewpub",
+      "city": "Gurugram",
+      "area": "Sector 29",
+      "address": "SCO 25, Sector 29, Gurugram, Haryana",
+      "lat": 28.46692, "lng": 77.067131,
+      "status": "open",
+      "sources": [
+        "https://www.treebo.com/blog/breweries-in-delhi/",
+        "https://wearegurgaon.com/beer-lovers-guide-gurgaons-best-microbreweries/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gurugram-big-pitcher-sector-29",
+      "name": "Big Pitcher",
+      "kind": "brewpub",
+      "city": "Gurugram",
+      "area": "Sector 29",
+      "address": "Trilium Avenue - MLCP, Sector 29, Gurugram, Haryana 122009",
+      "lat": 28.46692, "lng": 77.067131,
+      "status": "open",
+      "sources": [
+        "https://www.bigpitcher.co.in/gurugram/index.html",
+        "https://www.eazydiner.com/delhi-ncr/big-pitcher-sector-29-gurgaon-673512"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gurugram-bottles-and-barrels-sector-30",
+      "name": "Bottles and Barrels",
+      "kind": "brewpub",
+      "city": "Gurugram",
+      "area": "Sector 30",
+      "address": "2nd Floor, Star Tower, Exit 8 NH-8, Sector 30, Gurugram, Haryana",
+      "lat": 28.461872, "lng": 77.05688,
+      "status": "open",
+      "sources": ["https://www.treebo.com/blog/breweries-in-delhi/"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gurugram-brewdog-golf-course-road",
+      "name": "BrewDog",
+      "kind": "taproom",
+      "city": "Gurugram",
+      "area": "Golf Course Road",
+      "address": "One Horizon Center, Golf Course Road, Gurugram, Haryana",
+      "lat": 28.446769, "lng": 77.100394,
+      "status": "open",
+      "sources": [
+        "https://brewdog.com/pages/bars/gurugram",
+        "https://drink.brewdog.com/eu_en/gurugram"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gurugram-brewer-street-sohna-road",
+      "name": "Brewer Street",
+      "kind": "brewpub",
+      "city": "Gurugram",
+      "area": "Sohna Road, Sector 47",
+      "address": "2nd Floor, ILD Trade Centre, Sector 47, Sohna Road, Gurugram, Haryana",
+      "lat": 28.425157, "lng": 77.047513,
+      "status": "open",
+      "sources": ["https://www.treebo.com/blog/breweries-in-delhi/"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gurugram-bronx-brew-bar",
+      "name": "Bronx: The Brew Bar",
+      "kind": "brewpub",
+      "city": "Gurugram",
+      "area": "Sector 29",
+      "address": "SCO 38, Sector 29, Gurugram, Haryana",
+      "lat": 28.46692, "lng": 77.067131,
+      "status": "open",
+      "sources": ["https://www.treebo.com/blog/breweries-in-delhi/"],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "gurugram-downtown-diner-sector-29",
+      "name": "Downtown Diner and Fresh Beer Cafe",
+      "kind": "brewpub",
+      "city": "Gurugram",
+      "area": "Sector 29",
+      "address": "34, Leisure Valley Road, Sector 29, Gurugram, Haryana 122022",
+      "lat": 28.472271, "lng": 77.065471,
+      "status": "open",
+      "sources": [
+        "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280",
+        "https://www.kupi.com/en/explore/india/gurugram/downtown-diner-and-fresh-beer-cafe"
+      ],
+      "checked": "2026-09-23"
+    }
+  ],
+  "beers": [
+    {
+      "id": "flow-octopus-prime",
+      "name": "Octopus Prime",
+      "style": "Belgian Wit",
+      "venues": ["delhi-flow-brew-dine-saket"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "flow-neipa",
+      "name": "NEIPA",
+      "style": "IPA",
+      "venues": ["delhi-flow-brew-dine-saket"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "flow-knight-rider",
+      "name": "Knight Rider",
+      "style": "Stout",
+      "venues": ["delhi-flow-brew-dine-saket"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "fortcity-mridya",
+      "name": "Mridya",
+      "style": "Belgian Ale",
+      "venues": ["delhi-fort-city-brewing-hauz-khas"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "fortcity-dhumri",
+      "name": "Dhumri",
+      "style": "Stout",
+      "venues": ["delhi-fort-city-brewing-hauz-khas"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "fortcity-rakshas",
+      "name": "Rakshas",
+      "style": "Saison",
+      "venues": ["delhi-fort-city-brewing-hauz-khas"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "fortcity-moonface",
+      "name": "Moonface",
+      "style": "IPA",
+      "venues": ["delhi-fort-city-brewing-hauz-khas"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "beeyoung-belgian-wheat",
+      "name": "Belgian Wheat Beer",
+      "style": "Belgian Wit",
+      "venues": ["delhi-beeyoung-brewgarden-malviya-nagar"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "beeyoung-german-wheat",
+      "name": "German Wheat Beer",
+      "style": "Hefeweizen",
+      "venues": ["delhi-beeyoung-brewgarden-malviya-nagar"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "beeyoung-american-wit",
+      "name": "American Wit",
+      "style": "Belgian Wit",
+      "venues": ["delhi-beeyoung-brewgarden-malviya-nagar"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "effingut-bavarian-wheat",
+      "name": "Bavarian Wheat Beer",
+      "style": "Hefeweizen",
+      "venues": ["delhi-effingut-saket"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "effingut-strong-boozy-lager",
+      "name": "Strong Boozy Lager",
+      "style": "Strong Lager",
+      "venues": ["delhi-effingut-saket"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "7barrel-wheat",
+      "name": "Wheat",
+      "style": "Hefeweizen",
+      "venues": ["gurugram-seven-barrel-brew-pub"],
+      "source": "https://www.eazydiner.com/delhi-ncr/7-barrel-brew-pub-dlfphase1-121199"
+    },
+    {
+      "id": "7barrel-red-amber",
+      "name": "Red Amber",
+      "style": "Pale Ale",
+      "venues": ["gurugram-seven-barrel-brew-pub"],
+      "source": "https://www.eazydiner.com/delhi-ncr/7-barrel-brew-pub-dlfphase1-121199"
+    },
+    {
+      "id": "7degrees-wheat-ale",
+      "name": "Wheat Ale",
+      "style": "Hefeweizen",
+      "venues": ["gurugram-7-degrees-brauhaus"],
+      "source": "https://magicpin.in/Gurgaon/Dlf-South-Point-Mall/Restaurant/7-Degrees-Brauhaus/store/5c2/"
+    },
+    {
+      "id": "7degrees-premium-lager",
+      "name": "Premium Lager",
+      "style": "Lager",
+      "venues": ["gurugram-7-degrees-brauhaus"],
+      "source": "https://magicpin.in/Gurgaon/Dlf-South-Point-Mall/Restaurant/7-Degrees-Brauhaus/store/5c2/"
+    },
+    {
+      "id": "batli29-pilsner",
+      "name": "Pilsner",
+      "style": "Lager",
+      "venues": ["gurugram-batli-29-sector-29"],
+      "source": "https://wearegurgaon.com/beer-lovers-guide-gurgaons-best-microbreweries/"
+    },
+    {
+      "id": "batli29-witbier",
+      "name": "Witbier",
+      "style": "Belgian Wit",
+      "venues": ["gurugram-batli-29-sector-29"],
+      "source": "https://wearegurgaon.com/beer-lovers-guide-gurgaons-best-microbreweries/"
+    },
+    {
+      "id": "big-pitcher-schwarzweizen",
+      "name": "Schwarzweizen",
+      "style": "Hefeweizen",
+      "venues": ["gurugram-big-pitcher-sector-29"],
+      "source": "https://www.eazydiner.com/delhi-ncr/big-pitcher-sector-29-gurgaon-673512"
+    },
+    {
+      "id": "big-pitcher-kingslayer",
+      "name": "Kingslayer",
+      "style": "Porter",
+      "venues": ["gurugram-big-pitcher-sector-29"],
+      "source": "https://www.eazydiner.com/delhi-ncr/big-pitcher-sector-29-gurgaon-673512"
+    },
+    {
+      "id": "brewdog-punk-ipa",
+      "name": "Punk IPA",
+      "style": "IPA",
+      "venues": ["gurugram-brewdog-golf-course-road"],
+      "source": "https://brewdog.com/pages/bars/gurugram"
+    },
+    {
+      "id": "brewdog-hazy-jane",
+      "name": "Hazy Jane",
+      "style": "IPA",
+      "venues": ["gurugram-brewdog-golf-course-road"],
+      "source": "https://brewdog.com/pages/bars/gurugram"
+    },
+    {
+      "id": "brewdog-lost-lager",
+      "name": "Lost Lager",
+      "style": "Lager",
+      "venues": ["gurugram-brewdog-golf-course-road"],
+      "source": "https://brewdog.com/pages/bars/gurugram"
+    },
+    {
+      "id": "brewdog-dead-pony-club",
+      "name": "Dead Pony Club",
+      "style": "Pale Ale",
+      "venues": ["gurugram-brewdog-golf-course-road"],
+      "source": "https://brewdog.com/pages/bars/gurugram"
+    },
+    {
+      "id": "downtown-diner-belgian-wheat",
+      "name": "Belgian Wheat Beer",
+      "style": "Belgian Wit",
+      "venues": ["gurugram-downtown-diner-sector-29"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "downtown-diner-german-wheat",
+      "name": "German Wheat Beer",
+      "style": "Hefeweizen",
+      "venues": ["gurugram-downtown-diner-sector-29"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "downtown-diner-premium-lager",
+      "name": "Premium Lager",
+      "style": "Lager",
+      "venues": ["gurugram-downtown-diner-sector-29"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "downtown-diner-dark-beer",
+      "name": "Dark Beer",
+      "style": "Porter",
+      "venues": ["gurugram-downtown-diner-sector-29"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "downtown-diner-guava-ale",
+      "name": "Downtown Guava Ale",
+      "style": "Pale Ale",
+      "venues": ["gurugram-downtown-diner-sector-29"],
+      "source": "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+    },
+    {
+      "id": "dehradun-brew-estate-rum-lager",
+      "name": "Rum Lager",
+      "style": "Strong Lager",
+      "venues": ["dehradun-brew-estate"],
+      "source": "https://www.brewestate.in/the-brew-estate-dehradun.php"
+    },
+    {
+      "id": "241-brewhouse-witbier",
+      "name": "Witbier",
+      "style": "Belgian Wit",
+      "venues": ["gangtok-241-brewhouse-reshitang"],
+      "source": "https://www.thestreetfoodguy.com/the-square-restaurant-and-bar-gangtok/"
+    },
+    {
+      "id": "241-brewhouse-mango-hefeweizen",
+      "name": "Mango Hefeweizen",
+      "style": "Hefeweizen",
+      "venues": ["gangtok-241-brewhouse-reshitang"],
+      "source": "https://www.thestreetfoodguy.com/the-square-restaurant-and-bar-gangtok/"
+    },
+    {
+      "id": "241-brewhouse-himalayan-black-beer",
+      "name": "Himalayan Black Beer",
+      "style": "Stout",
+      "venues": ["gangtok-241-brewhouse-reshitang"],
+      "source": "https://www.thestreetfoodguy.com/the-square-restaurant-and-bar-gangtok/"
+    },
+    {
+      "id": "seven-rivers-belgian-wit",
+      "name": "Orange Witbier",
+      "style": "Belgian Wit",
+      "venues": ["goa-seven-rivers-brewing-candolim"],
+      "source": "https://lbb.in/goa/seven-rivers-brewing-co-goa/"
+    },
+    {
+      "id": "seven-rivers-poi-lager",
+      "name": "Poi Lager",
+      "style": "Lager",
+      "venues": ["goa-seven-rivers-brewing-candolim"],
+      "source": "https://lbb.in/goa/seven-rivers-brewing-co-goa/"
+    },
+    {
+      "id": "seven-rivers-kokum-gose",
+      "name": "Kokum Gose",
+      "style": "Sour",
+      "venues": ["goa-seven-rivers-brewing-candolim"],
+      "source": "https://lbb.in/goa/seven-rivers-brewing-co-goa/"
+    },
+    {
+      "id": "seven-rivers-imperial-coconut-porter",
+      "name": "Imperial Coconut Porter",
+      "style": "Porter",
+      "venues": ["goa-seven-rivers-brewing-candolim"],
+      "source": "https://lbb.in/goa/seven-rivers-brewing-co-goa/"
+    },
+    {
+      "id": "seven-rivers-scotch-ale",
+      "name": "Scotch Ale",
+      "style": "Belgian Ale",
+      "venues": ["goa-seven-rivers-brewing-candolim"],
+      "source": "https://lbb.in/goa/seven-rivers-brewing-co-goa/"
+    },
+    {
+      "id": "susegado-kokum-gose",
+      "name": "Kokum Gose",
+      "style": "Sour",
+      "venues": ["goa-susegado-mopa-airport"],
+      "source": "https://www.gomantaktimes.com/news/goa/susegado-indias-first-microbrewery-lands-at-goas-mopa-airport"
+    },
+    {
+      "id": "susegado-poders-pilsner",
+      "name": "Poder's Pilsner",
+      "style": "Lager",
+      "venues": ["goa-susegado-mopa-airport"],
+      "source": "https://www.gomantaktimes.com/news/goa/susegado-indias-first-microbrewery-lands-at-goas-mopa-airport"
+    },
+    {
+      "id": "susegado-calangute-dorado",
+      "name": "Dorado",
+      "style": "IPA",
+      "venues": ["goa-susegado-calangute"],
+      "source": "https://lbb.in/goa/goa-first-microbrewery/"
+    },
+    {
+      "id": "susegado-calangute-trigo-mango-wheat",
+      "name": "Trigo Mango Wheat",
+      "style": "Hefeweizen",
+      "venues": ["goa-susegado-calangute"],
+      "source": "https://lbb.in/goa/goa-first-microbrewery/"
+    },
+    {
+      "id": "susegado-calangute-dortmund-lager",
+      "name": "Dortmund Lager",
+      "style": "Lager",
+      "venues": ["goa-susegado-calangute"],
+      "source": "https://lbb.in/goa/goa-first-microbrewery/"
+    }
+  ],
+  "closed": [],
+  "unverifiable": [
+    { "id": "dehradun-beertales", "reason": "No exact address or 2025/2026 evidence of trading found; official site is a 2018 design-portfolio page, Facebook and search fetches failed." },
+    { "id": "dehradun-doon-valley-brewery", "reason": "Untappd source (403 Forbidden) and dineout/zomato fetches all failed; no fresh 2025/2026 confirmation of status or address." }
+  ]
+}

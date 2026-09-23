@@ -1,0 +1,206 @@
+{
+  "region": "karnataka",
+  "venues": [
+    {
+      "id": "bengaluru-wanderers-craft-brewery",
+      "name": "Wanderers Craft Brewery",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Kalyan Nagar",
+      "address": "417, 7th Main Rd, HRBR Layout 2nd Block, Kalyan Nagar, Bengaluru, Karnataka 560043",
+      "lat": 13.0230217, "lng": 77.6431387,
+      "status": "open",
+      "sources": ["https://wanderers.beer/", "https://wanderers.beer/beer/", "https://www.google.com/maps/search/Wanderers+Craft+Brewery+Bangalore"]
+    },
+    {
+      "id": "bengaluru-the-founders-brewery",
+      "name": "The Founders Brewery",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Armane Nagar",
+      "address": "1, 80 Feet Rd, RMV 2nd Stage, Ashwath Nagar, Armane Nagar, Bengaluru, Karnataka 560094",
+      "lat": 13.027204, "lng": 77.57712,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/The+Founders+Brewery+Bangalore+Yelahanka+address"]
+    },
+    {
+      "id": "bengaluru-we-neighbourhood-residency-road",
+      "name": "We:Neighbourhood",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Residency Road",
+      "address": "Residency Road, Bengaluru, Karnataka",
+      "lat": 12.9722311, "lng": 77.6083737,
+      "status": "open",
+      "sources": ["https://weneighborhood.in", "https://www.google.com/maps/search/We+Neighbourhood+Banaswadi+Bangalore"]
+    },
+    {
+      "id": "bengaluru-we-neighbourhood-banaswadi",
+      "name": "We Neighborhood",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Banaswadi",
+      "address": "Do. No. 201 to 220, Orion Avenue Mall, Dodda Banaswadi Main Rd, Jaibharath Nagar, Bengaluru, Karnataka 560033",
+      "lat": 13.0016791, "lng": 77.6327085,
+      "status": "open",
+      "sources": ["https://weneighborhood.in", "https://www.google.com/maps/search/We+Neighbourhood+Banaswadi+Bangalore"]
+    },
+    {
+      "id": "bengaluru-ganbeii-microbrewery",
+      "name": "Ganbeii Microbrewery",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Koramangala",
+      "address": "No. 91, near Jyoti Nivas College Road, 5th Block, Koramangala, Bengaluru, Karnataka 560095",
+      "lat": 12.9329789, "lng": 77.6147807,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/Ganbeii+Microbrewery+Bangalore"]
+    },
+    {
+      "id": "bengaluru-the-golden-circle-brewery",
+      "name": "The Golden Circle Brewery",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Carmelram / Sarjapur Road",
+      "address": "Sy. No. 41/9, Doddakanneli, Sarjapur Main Rd, Carmelram, Bengaluru, Karnataka 560035",
+      "lat": 12.9082834, "lng": 77.6901606,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/Golden+Circle+Brewery+Bangalore"]
+    },
+    {
+      "id": "bengaluru-oasis-brewery",
+      "name": "Oasis Brewery",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Whitefield / Devasandra",
+      "address": "Sy No. 26, Plot No 1A & 2B, Whitefield Main Road, Devasandra Industrial Estate, Bengaluru, Karnataka 560048",
+      "lat": 12.9973786, "lng": 77.6910719,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/Oasis+Brewery+Bangalore+Marathahalli"]
+    },
+    {
+      "id": "bengaluru-deck-of-brews",
+      "name": "Deck of Brews - Brewery & Kitchen",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Kadubeesanahalli",
+      "address": "Gear School Rd, Kaverappa Layout, Kadubeesanahalli, Bengaluru, Karnataka 560103",
+      "lat": 12.9326524, "lng": 77.6967852,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/Deck+of+Brews+Bangalore"]
+    },
+    {
+      "id": "bengaluru-indian-biere-house",
+      "name": "Indian Biere House",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "JP Nagar",
+      "address": "4&5, 15th Cross, 100 Feet Ring Rd, opposite SBI Bank, 5th Phase, J. P. Nagar, Bengaluru, Karnataka 560078",
+      "lat": 12.9060628, "lng": 77.5895222,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/Indian+Biere+House+Bangalore"]
+    },
+    {
+      "id": "bengaluru-float-brewery",
+      "name": "Float Brewery",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Kalyan Nagar / HRBR Layout",
+      "address": "HRBR Layout 1st Block, HRBR Layout, Kalyan Nagar, Bengaluru, Karnataka 560043",
+      "lat": 13.0225688, "lng": 77.6435164,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/Float+Brewery+Bangalore"]
+    },
+    {
+      "id": "bengaluru-the-palms-brew-and-kitchen",
+      "name": "The Palms Brew and Kitchen",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "JP Nagar 7th Phase",
+      "address": "No. 4/A2, Kothanur Main Road, Puttenahalli, JP Nagar 7th Phase, Bengaluru, Karnataka 560078",
+      "lat": 12.8963113, "lng": 77.5810732,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/The+Palms+Brew+and+Kitchen+Bangalore"]
+    },
+    {
+      "id": "bengaluru-153-biere-street",
+      "name": "153 Biere Street",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Whitefield",
+      "address": "153/1, Hagadur Main Rd, Brooke Bond First Cross, Prestige Ozone, Whitefield, Bengaluru, Karnataka 560066",
+      "lat": 12.9626309, "lng": 77.7507675,
+      "status": "open",
+      "sources": ["https://bierestreet.com/", "https://bierestreet.com/our-brews/", "https://www.google.com/maps/search/The+Biere+Street+Bangalore"]
+    },
+    {
+      "id": "bengaluru-the-bier-library-sarjapur-road",
+      "name": "The Bier Library Brewery & Kitchen",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Sarjapur Road",
+      "address": "138/52, Sarjapur Main Rd, Bengaluru, Karnataka",
+      "lat": 12.9084624, "lng": 77.6885618,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/The+Bier+Library+Bangalore"]
+    },
+    {
+      "id": "bengaluru-the-bier-library-80-feet-road",
+      "name": "The Bier Library",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Domlur / 80 Feet Road",
+      "address": "14, Patel Narayana Reddy Layout, 80 Feet Rd, Bengaluru, Karnataka",
+      "lat": 12.9391229, "lng": 77.6262498,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/The+Bier+Library+Bangalore"]
+    },
+    {
+      "id": "bengaluru-tipsyy-bull-brewhouse-whitefield",
+      "name": "Tipsyy Bull Brewhouse And Kitchen",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Whitefield",
+      "address": "13/4, Hoodi Main Road, Graphite India Main Rd, Whitefield, Bengaluru, Karnataka 560048",
+      "lat": 12.9886154, "lng": 77.7103409,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/Tipsy+Bull+Brewhouse+and+Kitchen+Bangalore"]
+    },
+    {
+      "id": "bengaluru-arena-brewhouse",
+      "name": "Arena Brewhouse",
+      "kind": "brewpub",
+      "city": "Bengaluru",
+      "area": "Indiranagar",
+      "address": "48, 100 Feet Rd, Defence Colony, Indiranagar, Bengaluru, Karnataka 560038",
+      "lat": 12.9767881, "lng": 77.6412263,
+      "status": "open",
+      "sources": ["https://www.google.com/maps/search/Arena+Brewhouse+Bangalore"]
+    }
+  ],
+  "beers": [
+    { "id": "wanderers-cauvery-bliss", "name": "Cauvery Bliss", "style": "Lager", "venues": ["bengaluru-wanderers-craft-brewery"], "source": "https://wanderers.beer/beer/" },
+    { "id": "wanderers-fruit-infused-beer", "name": "Fruit Infused Beer (FIB)", "style": "Lager", "venues": ["bengaluru-wanderers-craft-brewery"], "source": "https://wanderers.beer/beer/" },
+    { "id": "wanderers-wanweiss", "name": "WANWEISS", "style": "Hefeweizen", "venues": ["bengaluru-wanderers-craft-brewery"], "source": "https://wanderers.beer/beer/" },
+    { "id": "wanderers-the-indus", "name": "The Indus", "style": "IPA", "venues": ["bengaluru-wanderers-craft-brewery"], "source": "https://wanderers.beer/beer/" },
+    { "id": "wanderers-la-trappe", "name": "La Trappe", "style": "Belgian Ale", "venues": ["bengaluru-wanderers-craft-brewery"], "source": "https://wanderers.beer/beer/" },
+    { "id": "wanderers-hipster", "name": "Hipster", "style": "Stout", "venues": ["bengaluru-wanderers-craft-brewery"], "source": "https://wanderers.beer/beer/" },
+    { "id": "153-biere-street-wheat", "name": "Wheat", "style": "Hefeweizen", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/" },
+    { "id": "153-biere-street-lager", "name": "Lager", "style": "Lager", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/" },
+    { "id": "153-biere-street-ale", "name": "Ale", "style": "Pale Ale", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/" },
+    { "id": "153-biere-street-club-special", "name": "Club Special", "style": "Strong Lager", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/" },
+    { "id": "153-biere-street-ipa", "name": "IPA", "style": "IPA", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/" },
+    { "id": "153-biere-street-specialty", "name": "Specialty", "style": "Belgian Ale", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/" },
+    { "id": "153-biere-street-nitro-stout", "name": "Nitro Stout", "style": "Stout", "venues": ["bengaluru-153-biere-street"], "source": "https://bierestreet.com/our-brews/" }
+  ],
+  "closed": [
+    { "name": "The Druid Garden", "city": "Bengaluru", "note": "permanently closed", "source": "https://www.google.com/maps/search/The+Druid+Garden+Bangalore+brewery" },
+    { "name": "Brew Kings", "city": "Bengaluru", "note": "permanently closed", "source": "https://www.google.com/maps/search/Brew+Kings+Bangalore" },
+    { "name": "Botany Brew and Kitchen", "city": "Bengaluru", "note": "temporarily closed", "source": "https://www.google.com/maps/search/Botany+Brew+and+Kitchen+Bangalore" },
+    { "name": "PrimeGolf Brewing and Golfing", "city": "Bengaluru", "note": "temporarily closed", "source": "https://www.google.com/maps/search/PrimeGolf+Brewing+and+Golfing+Bangalore" },
+    { "name": "The Weekly Brewhouse and Kitchen", "city": "Bengaluru", "note": "permanently closed", "source": "https://www.google.com/maps/search/The+Weekly+Brewhouse+and+Kitchen+Bangalore" },
+    { "name": "The Merak Brewhouse", "city": "Bengaluru", "note": "temporarily closed (JW Marriott, Vittal Mallya Rd)", "source": "https://www.google.com/maps/search/The+Merak+Brewhouse+Bangalore" },
+    { "name": "Backstreet Brewery", "city": "Bengaluru", "note": "permanently closed", "source": "https://www.google.com/maps/search/Backstreet+Brewery+Bangalore+Panathur" },
+    { "name": "La Casa Brews + Kitchen - Bel Road", "city": "Bengaluru", "note": "permanently closed", "source": "https://www.google.com/maps/search/La+Casa+Brew+and+Kitchen+Bangalore" }
+  ]
+}

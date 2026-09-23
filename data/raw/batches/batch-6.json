@@ -1,0 +1,537 @@
+[
+ {
+  "id": "hyderabad-pier33-jubilee-hills",
+  "name": "Pier 33",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills",
+  "address": "Jubilee Hills, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "pier33-craft-lager",
+    "name": "Craft Lager",
+    "style": "Lager"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-prost-jubilee-hills",
+  "name": "Prost Brew Pub",
+  "kind": "brewpub",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills",
+  "address": "1026, Road Number 45, CBI Colony, Jubilee Hills / Madhapur, Hyderabad, Telangana 500033",
+  "cities": null,
+  "sources": [
+   "https://www.prost.in/hyderabad.html",
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "prost-belgian-wit",
+    "name": "Belgian Wit",
+    "style": "Belgian Wit"
+   },
+   {
+    "id": "prost-schmaltz-special-red-rice-ale",
+    "name": "Schmaltz Special Red Rice Ale",
+    "style": "Belgian Ale"
+   },
+   {
+    "id": "prost-vanilla-stout",
+    "name": "Vanilla Stout",
+    "style": "Stout"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-redrhino-madhapur",
+  "name": "Red Rhino Craft Brewery",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Madhapur / HITEC City",
+  "address": "HITEC City, Madhapur, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries",
+   "https://beerasia.net/craft-beer-guides/hyderabad-craft-beer-guide/"
+  ],
+  "current_beers": [
+   {
+    "id": "redrhino-raspberry-pale-ale",
+    "name": "Raspberry Pale Ale",
+    "style": "Pale Ale"
+   },
+   {
+    "id": "redrhino-english-pale-ale",
+    "name": "English Pale Ale",
+    "style": "Pale Ale"
+   },
+   {
+    "id": "redrhino-neipa",
+    "name": "New England IPA",
+    "style": "IPA"
+   },
+   {
+    "id": "redrhino-apple-cider",
+    "name": "Apple Cider",
+    "style": "Sour"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-redrhino-taproom-financial-district",
+  "name": "Red Rhino Taproom",
+  "kind": "taproom",
+  "city": "Hyderabad",
+  "area": "Financial District",
+  "address": "Financial District, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "redrhino-neipa",
+    "name": "New England IPA",
+    "style": "IPA"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-beercartel-raidurgam",
+  "name": "The Beer Cartel",
+  "kind": "brewpub",
+  "city": "Hyderabad",
+  "area": "Raidurgam / HITEC City",
+  "address": "Raidurgam, HITEC City, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://beerasia.net/craft-beer-guides/hyderabad-craft-beer-guide/",
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "beercartel-belgian-blonde",
+    "name": "Belgian Blonde",
+    "style": "Blonde Ale"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-hoppery-jubilee-hills",
+  "name": "The Hoppery",
+  "kind": "brewpub",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills (Durgam Cheruvu)",
+  "address": "Durgam Cheruvu, Jubilee Hills, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://beerasia.net/craft-beer-guides/hyderabad-craft-beer-guide/",
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "hoppery-ipa",
+    "name": "IPA",
+    "style": "IPA"
+   },
+   {
+    "id": "hoppery-cinnamon-ale",
+    "name": "Cinnamon Ale",
+    "style": "Belgian Ale"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-vault-brewery-jubilee-hills",
+  "name": "Vault Brewery",
+  "kind": "brewpub",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills",
+  "address": "Jubilee Hills, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "vault-hyd-house-wheat-beer",
+    "name": "House Wheat Beer",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "vault-hyd-nipa",
+    "name": "NIPA",
+    "style": "IPA"
+   },
+   {
+    "id": "vault-hyd-bock",
+    "name": "Bock",
+    "style": "Strong Lager"
+   },
+   {
+    "id": "vault-hyd-cranberry-seltzer",
+    "name": "Cranberry Seltzer",
+    "style": "Sour"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-xena-jubilee-hills",
+  "name": "Xena",
+  "kind": "brewpub",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills",
+  "address": "Jubilee Hills, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "xena-wheat",
+    "name": "Xena Wheat",
+    "style": "Hefeweizen"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-zero40-jubilee-hills",
+  "name": "Zero40 Brewing",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills",
+  "address": "Road No 10, Jubilee Hills, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries",
+   "https://www.tripadvisor.in/Restaurant_Review-g297586-d12841967-Reviews-Zero40_Brewing-Hyderabad_Hyderabad_District_Telangana.html"
+  ],
+  "current_beers": [
+   {
+    "id": "zero40-old-timer-witbier",
+    "name": "Old Timer Witbier",
+    "style": "Belgian Wit"
+   },
+   {
+    "id": "zero40-blue-camel-hefeweizen",
+    "name": "Blue Camel Hefeweizen",
+    "style": "Hefeweizen"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-zero40-financial-district",
+  "name": "Zero40 Financial District",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Financial District",
+  "address": "Prism Road, Financial District, Hyderabad, Telangana 500107",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "zero40-old-timer-witbier",
+    "name": "Old Timer Witbier",
+    "style": "Belgian Wit"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-zythum-jubilee-hills",
+  "name": "Zythum Brewing Co.",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills",
+  "address": "Jubilee Hills, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://beerasia.net/craft-beer-guides/hyderabad-craft-beer-guide/",
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "zythum-belgian-witbier",
+    "name": "Belgian Witbier",
+    "style": "Belgian Wit"
+   },
+   {
+    "id": "zythum-hefeweizen",
+    "name": "Hefeweizen",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "zythum-chocolate-stout",
+    "name": "Chocolate Stout",
+    "style": "Stout"
+   },
+   {
+    "id": "zythum-czech-pilsner",
+    "name": "Czech Pilsner",
+    "style": "Lager"
+   },
+   {
+    "id": "zythum-west-coast-ipa",
+    "name": "West Coast IPA",
+    "style": "IPA"
+   }
+  ]
+ },
+ {
+  "id": "jaipur-downtown-diner",
+  "name": "Downtown Diner and Fresh Beer Cafe",
+  "kind": "brewpub",
+  "city": "Jaipur",
+  "area": null,
+  "address": "Jaipur, Rajasthan",
+  "cities": null,
+  "sources": [
+   "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "jaipur-lighthouse",
+  "name": "Lighthouse",
+  "kind": "brewpub",
+  "city": "Jaipur",
+  "area": null,
+  "address": "Jaipur, Rajasthan",
+  "cities": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/11507/best-jaipur-breweries-and-craft-beer"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "jaipur-retreat",
+  "name": "Retreat",
+  "kind": "brewpub",
+  "city": "Jaipur",
+  "area": null,
+  "address": "Jaipur, Rajasthan",
+  "cities": null,
+  "sources": [
+   "https://wanderlog.com/list/geoCategory/11507/best-jaipur-breweries-and-craft-beer"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "jaipur-soul-brewing-co",
+  "name": "Soul Brewing Co.",
+  "kind": "brewpub",
+  "city": "Jaipur",
+  "area": "M.I. Road",
+  "address": "M.I. Road, Jaipur, Rajasthan",
+  "cities": null,
+  "sources": [
+   "https://soulbrewing.in/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "jaipur-tippsy-camel-brewers",
+  "name": "Tippsy Camel Brewers",
+  "kind": "brewpub",
+  "city": "Jaipur",
+  "area": null,
+  "address": "Jaipur, Rajasthan",
+  "cities": null,
+  "sources": [
+   "https://www.tippsycamel.com/",
+   "https://www.tippsycamel.com/beers"
+  ],
+  "current_beers": [
+   {
+    "id": "tippsy-camel-seedho-sadho",
+    "name": "Seedho Sadho Pilsner",
+    "style": "Lager"
+   },
+   {
+    "id": "tippsy-camel-rasilo-wheat",
+    "name": "Rasilo Wheat",
+    "style": "Belgian Wit"
+   },
+   {
+    "id": "tippsy-camel-rajasthani-pale-ale",
+    "name": "Rajasthani Pale Ale",
+    "style": "Pale Ale"
+   },
+   {
+    "id": "tippsy-camel-gorgeous-guava",
+    "name": "Gorgeous Guava",
+    "style": "Lager"
+   }
+  ]
+ },
+ {
+  "id": "kolkata-beer-republic-kankurgachi",
+  "name": "Beer Republic",
+  "kind": "brewpub",
+  "city": "Kolkata",
+  "area": "Kankurgachi (Phool Bagan)",
+  "address": "Inox Building, Kankurgachi, Kolkata, West Bengal",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Kolkata/Phool-Bagan/Restaurant/Beer-Republic/store/1a00c9/",
+   "https://www.zomato.com/kolkata/beer-republic-beliaghata",
+   "https://www.eazydiner.com/food-trends/kolkatas-booming-craft-beer-culture-6-microbreweries-you-cant-miss"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "kolkata-country-roads-new-town",
+  "name": "Country Roads Micro Brewery and Restaurant",
+  "kind": "brewpub",
+  "city": "Kolkata",
+  "area": "New Town, Rajarhat",
+  "address": "2nd Floor, The Galleria, BG Block, Action Area I, New Town, Rajarhat, Kolkata, West Bengal 700163",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/kolkata/country-roads-new-town",
+   "https://www.justdial.com/Kolkata/Country-Roads-Microbrewery-Restaurant-Near-Home-Town-New-Town/033PXX33-XX33-160304071558-T2K4_BZDET",
+   "https://www.tripadvisor.in/Restaurant_Review-g304558-d10034906-Reviews-Country_Roads-Kolkata_Calcutta_Kolkata_District_West_Bengal.html"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "kolkata-double-down-brewpub-sarat-bose-road",
+  "name": "Double Down Brewpub and Cafe",
+  "kind": "brewpub",
+  "city": "Kolkata",
+  "area": "Bhawanipore",
+  "address": "Ground Floor, 111, Ideal Plaza, Sarat Bose Road, Sreepally Bhawanipore, Kolkata, West Bengal 700020",
+  "cities": null,
+  "sources": [
+   "https://www.tripadvisor.com/Restaurant_Review-g304558-d27661355-Reviews-Double_Down_Brewpub_Cafe-Kolkata_Calcutta_Kolkata_District_West_Bengal.html",
+   "https://www.eazydiner.com/kolkata/double-down-sarat-bose-road-kolkata-672135/menu",
+   "https://www.zomato.com/kolkata/double-down-elgin"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "kolkata-motorworks-brewing-company-sector-v",
+  "name": "Motorworks & Brewing Company",
+  "kind": "brewpub",
+  "city": "Kolkata",
+  "area": "Sector V, Salt Lake",
+  "address": "Sector V, Salt Lake, Kolkata, West Bengal",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/kolkata/motor-works-brewing-company-sector-5-salt-lake",
+   "https://lbb.in/kolkata/motor-works-brewing-co-new-bar/",
+   "https://www.justdial.com/Kolkata/Motor-Works-Brewing-Company-Near-Webel-More-Salt-Lake-City-Sector-5/033PXX33-XX33-180518110522-R9G9_BZDET"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "kolkata-the-brewhive-sector-v",
+  "name": "The Brewhive",
+  "kind": "brewpub",
+  "city": "Kolkata",
+  "area": "Sector V, Bidhannagar",
+  "address": "PS Srijan Corporate Park, Tower 1, Retail 3, Street Number 25, Sector V, Bidhannagar, Kolkata, West Bengal 700091",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Kolkata/Sector-5,-Salt-Lake/Restaurant/The-Brewhive/store/312050/menu/",
+   "https://www.zomato.com/kolkata/the-brewhive-sector-5-salt-lake"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "kolkata-the-grid-topsia",
+  "name": "The GRID",
+  "kind": "brewpub",
+  "city": "Kolkata",
+  "area": "Topsia",
+  "address": "86A Topsia Road South, Haute Street Corporate Park, Kolkata 700046",
+  "cities": null,
+  "sources": [
+   "https://www.jointhegrid.in/",
+   "https://www.jointhegrid.in/brewery/",
+   "https://www.zomato.com/kolkata/the-grid-topsia"
+  ],
+  "current_beers": [
+   {
+    "id": "the-grid-estuary",
+    "name": "Estuary",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "the-grid-piedmont",
+    "name": "Piedmont",
+    "style": "Porter"
+   },
+   {
+    "id": "the-grid-caldera",
+    "name": "Caldera",
+    "style": "IPA"
+   },
+   {
+    "id": "the-grid-tombolo",
+    "name": "Tombolo",
+    "style": "Blonde Ale"
+   }
+  ]
+ },
+ {
+  "id": "lucknow-black-brewhouse",
+  "name": "Black Brewhouse",
+  "kind": "brewpub",
+  "city": "Lucknow",
+  "area": null,
+  "address": "Lucknow, Uttar Pradesh",
+  "cities": null,
+  "sources": [
+   "https://www.facebook.com/blackbrewhouse/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "lucknow-ministry-of-beer-gomti-nagar",
+  "name": "Ministry of Beer",
+  "kind": "brewpub",
+  "city": "Lucknow",
+  "area": "Gomti Nagar",
+  "address": "3rd Floor, CP 143, Viraj Khand-4, Gomti Nagar, Lucknow, Uttar Pradesh",
+  "cities": null,
+  "sources": [
+   "https://www.knocksense.com/lucknow/lucknow-say-cheers-delhis-first-microbrewery-ministry-of-beer-is-now-in-gomti-nagar/",
+   "https://www.zomato.com/lucknow/ministry-of-beer-gomti-nagar"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "lucknow-sky-glass-brewing-co",
+  "name": "Sky Glass Brewing Co.",
+  "kind": "brewpub",
+  "city": "Lucknow",
+  "area": null,
+  "address": "Lucknow, Uttar Pradesh",
+  "cities": null,
+  "sources": [
+   "https://www.facebook.com/skyglassbrewingco/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "ludhiana-brew-estate-sarabha-nagar",
+  "name": "The Brew Estate",
+  "kind": "brewpub",
+  "city": "Ludhiana",
+  "area": "Sarabha Nagar",
+  "address": "Sarabha Nagar, Malhar Road, Ludhiana, Punjab",
+  "cities": null,
+  "sources": [
+   "https://www.brewestate.in/the-brew-estate-sarabha-nagar-ludhiana.php"
+  ],
+  "current_beers": []
+ }
+]

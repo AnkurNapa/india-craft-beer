@@ -1,0 +1,410 @@
+[
+ {
+  "id": "amritsar-brewmaster-microbrewery",
+  "name": "The BrewMaster Amritsar MicroBrewery",
+  "kind": "brewpub",
+  "city": "Amritsar",
+  "area": null,
+  "address": "Amritsar, Punjab",
+  "cities": null,
+  "sources": [
+   "https://wanderlog.com/place/details/1392906/the-brewmaster-amritsar-microbrewery",
+   "https://yappe.in/punjab/amritsar/the-brewmaster-amritsar-microbrewery/85402"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-33-and-brew-brookefield",
+  "name": "33&Brew",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Brookefield",
+  "address": "Prestige Technostar, Brookefield, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.brewer-world.com/bengaluru-gets-its-first-vinyl-microbrewery-with-33brew/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-abv-artisanal-bier-village-whitefield",
+  "name": "ABV - Artisanal Bier Village",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Whitefield",
+  "address": "Whitefield Village, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://highape.com/bangalore/venues/abv---artisanal-bier-village"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-alchemy-residency-road",
+  "name": "Alchemy",
+  "kind": "taproom",
+  "city": "Bengaluru",
+  "area": "Residency Road",
+  "address": "Residency Road, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.tripadvisor.com/Restaurant_Review-g297628-d18453033-Reviews-Alchemy-Bengaluru_Bangalore_District_Karnataka.html"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-arbor-brewing-mg-road",
+  "name": "Arbor Brewing Company",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "MG Road / Ashok Nagar",
+  "address": "8, Allied Grande Plaza, Ashok Nagar, MG Road, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.arborbrewing.in/",
+   "https://www.tripadvisor.in/Restaurant_Review-g297628-d4009567-Reviews-Arbor_Brewing_Company_Brewpub_Eatery-Bengaluru_Bangalore_District_Karnataka.html"
+  ],
+  "current_beers": [
+   {
+    "id": "arbor-bangalore-bliss",
+    "name": "Bangalore Bliss",
+    "style": "Blonde Ale"
+   },
+   {
+    "id": "arbor-no-parking-pilsner",
+    "name": "No Parking Pilsner",
+    "style": "Lager"
+   },
+   {
+    "id": "arbor-beach-shack-ipa",
+    "name": "Beach Shack IPA",
+    "style": "IPA"
+   },
+   {
+    "id": "arbor-smooth-criminal",
+    "name": "Smooth Criminal",
+    "style": "Belgian Ale"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-atlantis-hsr",
+  "name": "Atlantis Brewery",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "HSR Layout",
+  "address": "SY NO 38/5, Sarjapur Road, Agara Village, HSR Layout, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://bengaluruatlantis.com/about/"
+  ],
+  "current_beers": [
+   {
+    "id": "atlantis-belgian-witbier",
+    "name": "Belgian Witbier",
+    "style": "Belgian Wit"
+   },
+   {
+    "id": "atlantis-german-wheat-beer",
+    "name": "German Wheat Beer",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "atlantis-american-ipa",
+    "name": "American IPA",
+    "style": "IPA"
+   },
+   {
+    "id": "atlantis-belgian-ale",
+    "name": "Belgian Ale",
+    "style": "Belgian Ale"
+   },
+   {
+    "id": "atlantis-pilsner",
+    "name": "Pilsner",
+    "style": "Lager"
+   },
+   {
+    "id": "atlantis-nitro-stout",
+    "name": "Nitro Stout",
+    "style": "Stout"
+   },
+   {
+    "id": "atlantis-bohemian-lager",
+    "name": "Bohemian Lager",
+    "style": "Lager"
+   },
+   {
+    "id": "atlantis-pilsner-basmatic-blonde",
+    "name": "Pilsner Basmatic Blonde",
+    "style": "Blonde Ale"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-aurum-brew-works-sarjapur",
+  "name": "Aurum Brew Works",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Sarjapur Road / Doddakannalli",
+  "address": "822, 3rd Floor, Gold Sand, Doddakannalli, Sarjapur Road, Bengaluru 560035",
+  "cities": null,
+  "sources": [
+   "https://aurumbrew.works/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-blr-brewing-co-kanakapura-road",
+  "name": "BLR Brewing Co.",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Kanakapura Road",
+  "address": "Kanakapura Road, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.tripadvisor.in/Restaurant_Review-g297628-d23609012-Reviews-BLR_Brewing_Co_Kanakapura_Road-Bengaluru_Bangalore_District_Karnataka.html"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-blr-brewing-co-whitefield",
+  "name": "BLR Brewing Co.",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Whitefield",
+  "address": "Whitefield, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.eazydiner.com/bengaluru/blr-brewing-co-whitefield-east-bengaluru-692877"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-blr-brewing-co-bellandur",
+  "name": "BLR Brewing Co.",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Bellandur",
+  "address": "Bellandur, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/blr-brewing-co-2-sarjapur-road-bangalore"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-brew-works-residency-road",
+  "name": "Bangalore Brew Works",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Residency Road / Domlur",
+  "address": "39/28, Off Intermediate Ring Road, Domlur, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://lbb.in/bangalore/bangalore-brew-works/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-bier-loft-brewing-electronic-city",
+  "name": "Bier Loft Brewing Co",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Electronic City",
+  "address": "Electronic City Phase 1, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/bier-loft-brewing-co-electronic-city-bangalore"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-biergarten-whitefield",
+  "name": "Biergarten Brewery & Kitchen",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Whitefield",
+  "address": "Whitefield, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://biergarten.co.in/whitefield/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-biergarten-koramangala",
+  "name": "Biergarten Brewery & Kitchen",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Koramangala",
+  "address": "Koramangala, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://biergarten.co.in/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-biergarten-nagawara",
+  "name": "Biergarten Brewery & Kitchen",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Nagawara / Hennur",
+  "address": "Nagawara, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://biergarten.co.in/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-biergarten-bellandur",
+  "name": "Biergarten Brewery & Kitchen",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Bellandur",
+  "address": "Bellandur, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://biergarten.co.in/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-big-barrel-brewpub-rr-nagar",
+  "name": "Big Barrel BrewPub",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Rajarajeshwari Nagar",
+  "address": "199/20/1/A, Dr. Vishnuvardhan Road, Rajarajeshwari Nagar, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/big-barrel-brewpub-rajarajeshwari-nagar-bangalore"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-brahma-brews-jp-nagar",
+  "name": "Brahma Brews",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "JP Nagar",
+  "address": "Opposite Brigade Palm Springs, JP Nagar, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/brahma-brews-jp-nagar-bangalore"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-brahma-brews-varthur",
+  "name": "Brahma Brews",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Varthur / Whitefield",
+  "address": "Varthur, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.instagram.com/brahmabrewsbengaluru/?hl=en"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-brew-meister-jayanagar",
+  "name": "Brew Meister",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Jayanagar",
+  "address": "33rd Main Road, Jayanagar, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://lbb.in/bangalore/brew-meister-craft-brewery-jayanagar/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-brooks-and-bonds-koramangala",
+  "name": "Brooks and Bonds Brewery",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Koramangala",
+  "address": "4, 100 Feet Road, Koramangala 5th Block, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Bangalore/Koramangala/Restaurant/Brooks-And-Bonds-Brewery/store/c369c/menu"
+  ],
+  "current_beers": [
+   {
+    "id": "brooks-and-bonds-cryo-ipa",
+    "name": "Cryo IPA",
+    "style": "IPA"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-brother-barley-hsr",
+  "name": "Brother Barley Brewing Company",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "HSR Layout",
+  "address": "9, 17th Cross Road, Sector 7, HSR Layout, Bengaluru 560102",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Bangalore/Hsr/Restaurant/Brother-Barley-Brewing-Company/store/320400"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-bumblebee-brauhaus-indiranagar",
+  "name": "Bumblebee Brauhaus",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Indiranagar",
+  "address": "Indiranagar, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.justdial.com/Bangalore/Bumblebee-Brauhaus-Indiranagar/080PXX80-XX80-190924220147-C2F4_BZDET"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-byg-brewski-sarjapur",
+  "name": "Byg Brewski Brewing Company",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Sarjapur Road / Kaikondrahalli",
+  "address": "10/62/2A/2 & 3, Sarjapur Main Rd, Kaikondrahalli, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Bangalore/Sarjapur-Road/Restaurant/Byg-Brewski-Brewing-Company/store/6c76/menu/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-candles-brewhouse-hebbal",
+  "name": "Candles Brewhouse",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Hebbal",
+  "address": "Hebbal, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://lbb.in/bangalore/candles-brewhouse-hebbal/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-chin-lung-brewery-indiranagar",
+  "name": "Chin Lung Brewery",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Indiranagar",
+  "address": "No 1135, 100 Feet Road, HAL 2nd Stage, Indiranagar, Bengaluru 560008",
+  "cities": null,
+  "sources": [
+   "https://chinlung.co.in/"
+  ],
+  "current_beers": []
+ }
+]

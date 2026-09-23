@@ -4,77 +4,99 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>Tap List India</title>
-<meta name="description" content="Find the best craft beer near you in India: top beers this week, month, year and five years, what to eat with them, every brewery on a map, and the story of Indian craft beer.">
-<meta name="theme-color" content="#f7f1e6" media="(prefers-color-scheme: light)">
-<meta name="theme-color" content="#17110d" media="(prefers-color-scheme: dark)">
+<meta name="description" content="Find the best craft beer near you in India: 200+ breweries and taprooms, every beer with an Indian food pairing, a map, your tried list and the story of Indian craft beer.">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#121212" media="(prefers-color-scheme: dark)">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,600;9..144,800&family=Public+Sans:wght@400;600&display=swap" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,700;9..144,800&family=Plus+Jakarta+Sans:wght@400;500;700;800&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" integrity="sha384-c6Rcwz4e4CITMbu/NBmnNS8yN2sC3cUElMEMfP3vqqKFp7GOYaaBBCqmaWBjmkjb" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.css" integrity="sha384-pmjIAcz2bAn0xukfxADbZIb3t8oRT9Sv0rvO+BR5Csr6Dhqq+nZs59P0pPKQJkEV" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet.markercluster/1.5.3/MarkerCluster.Default.css" integrity="sha384-wgw+aLYNQ7dlhK47ZPK7FRACiq7ROZwgFNg0m04avm4CaXS+Z9Y7nMu8yNjBKYC+" crossorigin="anonymous">
 <link rel="stylesheet" href="style.css">
 </head>
-<body data-tab="top">
-<div class="chrome">
-  <header class="topbar">
-    <a class="brand" href="#tab=top">Tap List <span>India</span></a>
-    <label class="city"><span class="visually-hidden">City</span><select id="city"></select></label>
-    <button type="button" class="btn near" id="near-me" aria-label="Near me">
-      <svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="7"/><circle cx="12" cy="12" r="2"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></svg>
-      <span>Near me</span>
+<body data-tab="home">
+
+<svg class="sprite" aria-hidden="true">
+  <!-- A pint of beer: the colour comes from --beer on each use -->
+  <symbol id="i-glass" viewBox="0 0 40 56">
+    <path d="M6 10h28l-3.2 42.4a3 3 0 0 1-3 2.6H12.2a3 3 0 0 1-3-2.6z" fill="#fff" fill-opacity=".5" stroke="#000" stroke-opacity=".12"/>
+    <path d="M7.1 18h25.8l-2.6 34.2a1.8 1.8 0 0 1-1.8 1.7H11.5a1.8 1.8 0 0 1-1.8-1.7z" fill="var(--beer)"/>
+    <path d="M5 13.5c-.3-3.6 2.8-6 6-5.2 1.4-3 6.2-4.2 9-2 2.8-2.2 7.6-1.4 8.8 1.8 3-.4 6.4 1.6 6.2 5.4l-.2 5H5.4z" fill="#fffaf0"/>
+    <path d="M12.5 23v25" stroke="#fff" stroke-opacity=".4" stroke-width="2.4" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="i-bottle" viewBox="0 0 40 56">
+    <path d="M16 2h8v10.5c0 3 7 5.5 7 12.5v27a3 3 0 0 1-3 3H12a3 3 0 0 1-3-3V25c0-7 7-9.5 7-12.5z" fill="var(--beer)" stroke="#000" stroke-opacity=".15"/>
+    <rect x="11" y="30" width="18" height="13" rx="2" fill="#fffaf0"/>
+    <path d="M13.5 20v6M13.5 46v4" stroke="#fff" stroke-opacity=".45" stroke-width="2.2" stroke-linecap="round"/>
+  </symbol>
+  <symbol id="i-pin" viewBox="0 0 24 24"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></symbol>
+  <symbol id="i-chev" viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></symbol>
+  <symbol id="i-search" viewBox="0 0 24 24"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.5-3.5"/></symbol>
+  <symbol id="i-mug" viewBox="0 0 24 24"><path d="M5 6h11v13a2 2 0 0 1-2 2H7a2 2 0 0 1-2-2z"/><path d="M16 9h2a2 2 0 0 1 2 2v3a2 2 0 0 1-2 2h-2M5 10h11M9 13v4M12 13v4"/></symbol>
+  <symbol id="i-home" viewBox="0 0 24 24"><path d="M4 11l8-7 8 7v8a2 2 0 0 1-2 2h-3v-6H9v6H6a2 2 0 0 1-2-2z"/></symbol>
+  <symbol id="i-grid" viewBox="0 0 24 24"><rect x="4" y="4" width="7" height="7" rx="2"/><rect x="13" y="4" width="7" height="7" rx="2"/><rect x="4" y="13" width="7" height="7" rx="2"/><rect x="13" y="13" width="7" height="7" rx="2"/></symbol>
+  <symbol id="i-map" viewBox="0 0 24 24"><path d="M9 4L3 6v14l6-2 6 2 6-2V4l-6 2z"/><path d="M9 4v14M15 6v14"/></symbol>
+  <symbol id="i-clock" viewBox="0 0 24 24"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></symbol>
+  <symbol id="i-locate" viewBox="0 0 24 24"><circle cx="12" cy="12" r="7"/><circle cx="12" cy="12" r="2"/><path d="M12 2v3M12 19v3M2 12h3M19 12h3"/></symbol>
+  <symbol id="i-sort" viewBox="0 0 24 24"><path d="M7 4v16M7 20l-3-3M7 20l3-3M17 20V4M17 4l-3 3M17 4l3 3"/></symbol>
+  <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></symbol>
+  <symbol id="i-check" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5"/></symbol>
+  <symbol id="i-plus" viewBox="0 0 24 24"><path d="M12 5v14M5 12h14"/></symbol>
+  <symbol id="i-star" viewBox="0 0 24 24"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/></symbol>
+  <symbol id="i-share" viewBox="0 0 24 24"><path d="M12 3v12M7 8l5-5 5 5M5 13v6a2 2 0 0 0 2 2h10a2 2 0 0 0 2-2v-6"/></symbol>
+  <symbol id="i-route" viewBox="0 0 24 24"><path d="M12 2l9 10-9 10-9-10z"/><path d="M9 14v-3h5M12 8.5L14.5 11 12 13.5"/></symbol>
+  <symbol id="i-bag" viewBox="0 0 24 24"><path d="M5 8h14l-1 13H6z"/><path d="M9 8V6a3 3 0 0 1 6 0v2"/></symbol>
+</svg>
+
+<div class="chrome" id="chrome">
+  <header class="appbar">
+    <button type="button" class="loc" id="loc-btn" aria-label="Change city">
+      <svg class="ic pin" aria-hidden="true" viewBox="0 0 24 24"><use href="#i-pin"/></svg>
+      <span class="loc-text">
+        <span class="loc-city"><span id="loc-city">All India</span><svg class="ic chev" aria-hidden="true" viewBox="0 0 24 24"><use href="#i-chev"/></svg></span>
+        <span class="loc-sub" id="loc-sub"></span>
+      </span>
+    </button>
+    <a class="brand" href="#tab=home">Tap List <span>India</span></a>
+    <button type="button" class="tried-btn" id="tried-btn" aria-label="Your tried list">
+      <svg class="ic" aria-hidden="true" viewBox="0 0 24 24"><use href="#i-mug"/></svg>
+      <span class="badge" id="tried-badge" hidden>0</span>
     </button>
   </header>
-
-  <div class="filters">
-    <div class="window" id="window" role="radiogroup" aria-label="Time window">
-      <label><input type="radio" name="window" value="week"><span>Week</span></label>
-      <label><input type="radio" name="window" value="month"><span>Month</span></label>
-      <label><input type="radio" name="window" value="year"><span>Year</span></label>
-      <label><input type="radio" name="window" value="5y"><span>5 years</span></label>
-    </div>
-    <label class="search"><span class="visually-hidden">Search beers and breweries</span>
-      <input id="search" type="search" placeholder="Search a beer, brewery or area" autocomplete="off" enterkeyhint="search">
-    </label>
-    <div class="chips" id="styles" role="group" aria-label="Beer style"></div>
-  </div>
+  <label class="searchbar">
+    <svg class="ic" aria-hidden="true" viewBox="0 0 24 24"><use href="#i-search"/></svg>
+    <span class="visually-hidden">Search</span>
+    <input id="search" type="search" placeholder="Search &quot;hazy IPA&quot;, &quot;Toit&quot; or &quot;Koramangala&quot;" autocomplete="off" enterkeyhint="search">
+  </label>
   <p class="status" id="status" role="status"></p>
-
-  <nav class="tabbar" aria-label="Sections">
-    <button type="button" data-tab="top"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3l2.7 5.6 6.1.9-4.4 4.3 1 6.1L12 17l-5.4 2.9 1-6.1-4.4-4.3 6.1-.9z"/></svg>Top beers</button>
-    <button type="button" data-tab="breweries"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6 3h12l-1.5 17a1 1 0 0 1-1 1h-7a1 1 0 0 1-1-1z"/><path d="M6.5 8h11"/></svg>Breweries</button>
-    <button type="button" data-tab="map" class="map-tab"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 21s-7-6.2-7-11a7 7 0 0 1 14 0c0 4.8-7 11-7 11z"/><circle cx="12" cy="10" r="2.5"/></svg>Map</button>
-    <button type="button" data-tab="tried"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M8 12.5l2.5 2.5L16 9.5"/></svg>Tried</button>
-    <button type="button" data-tab="history"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M12 7v5l3 2"/></svg>History</button>
-  </nav>
 </div>
 
 <main>
-  <section class="view" id="view-top" aria-labelledby="top-h">
-    <h1 id="top-h" class="view-title">Best craft beer <span id="top-where">in India</span></h1>
-    <p class="sample" id="sample" hidden>Sample ratings for now. Real rankings grow as you rate.</p>
-    <ol class="cards" id="top-list"></ol>
+  <section class="filters" aria-label="Filters">
+    <h2 class="section-h">What's your mood?</h2>
+    <div class="moods" id="moods" role="group" aria-label="Beer style"></div>
+    <div class="chips" id="chips" role="group" aria-label="Sort and filter"></div>
   </section>
 
-  <section class="view" id="view-breweries" aria-labelledby="brew-h">
-    <h1 id="brew-h" class="view-title">Where to drink</h1>
-    <p class="lede" id="brewery-count"></p>
-    <ol class="cards" id="brewery-list"></ol>
+  <section class="view" id="view-home" aria-labelledby="home-count">
+    <div id="collections-wrap">
+      <h2 class="section-h">Collections</h2>
+      <ul class="collections" id="collections"></ul>
+    </div>
+    <h2 class="section-h" id="home-count">Places</h2>
+    <ul class="venues" id="venue-list"></ul>
   </section>
 
-  <section class="view" id="view-tried" aria-labelledby="tried-h">
-    <h1 id="tried-h" class="view-title">Your beer journey</h1>
-    <p class="big-count"><strong id="tried-count">0</strong> <span id="tried-of"></span></p>
-    <h2 class="section-h">Try next</h2>
-    <ol class="cards" id="try-next"></ol>
-    <h2 class="section-h">Beers you've tried</h2>
-    <ol class="cards" id="tried-list"></ol>
-    <p class="fine">Your list stays on this phone. Nothing is sent anywhere.</p>
+  <section class="view" id="view-beers" aria-labelledby="beer-count">
+    <h2 class="section-h" id="beer-count">Beers</h2>
+    <p class="muted" id="beer-note"></p>
+    <ul class="grid" id="beer-grid"></ul>
   </section>
 
   <section class="view" id="view-history" aria-labelledby="hist-h">
-    <h1 id="hist-h" class="view-title">How India learned to brew small</h1>
-    <p class="lede">From a colonial brewery in the hills to hundreds of brewpubs pouring fresh beer across the country. Every milestone links to its source.</p>
+    <h1 id="hist-h" class="hist-title">How India learned to brew small</h1>
+    <p class="muted">From a colonial brewery in the hills to hundreds of brewpubs pouring fresh beer across the country. Every milestone links to its source.</p>
     <ol class="timeline" id="timeline"></ol>
   </section>
 
@@ -82,13 +104,22 @@
 
   <footer class="fine">
     Drink responsibly. The legal drinking age differs by state, from 18 to 25.
-    Venues and beers last checked September 2026. Taps rotate, so check before you go.
+    Venues and beers checked September 2026; taps rotate, so check before you go.
     <a href="https://github.com/AnkurNapa/india-craft-beer">Add or correct a brewery</a>.
   </footer>
 </main>
 
+<nav class="tabbar" aria-label="Sections">
+  <button type="button" data-tab="home"><svg class="ic" aria-hidden="true" viewBox="0 0 24 24"><use href="#i-home"/></svg>Home</button>
+  <button type="button" data-tab="beers"><svg class="ic" aria-hidden="true" viewBox="0 0 24 24"><use href="#i-grid"/></svg>Beers</button>
+  <button type="button" data-tab="map"><svg class="ic" aria-hidden="true" viewBox="0 0 24 24"><use href="#i-map"/></svg>Map</button>
+  <button type="button" data-tab="history"><svg class="ic" aria-hidden="true" viewBox="0 0 24 24"><use href="#i-clock"/></svg>History</button>
+</nav>
+
 <dialog id="sheet" aria-labelledby="sheet-title">
-  <div class="sheet-head"><span class="grab" aria-hidden="true"></span><button type="button" class="btn" id="sheet-close">Close</button></div>
+  <div class="sheet-head"><span class="grab" aria-hidden="true"></span>
+    <button type="button" class="icon-btn" id="sheet-close" aria-label="Close"><svg class="ic" aria-hidden="true" viewBox="0 0 24 24"><use href="#i-close"/></svg></button>
+  </div>
   <div class="sheet-body" id="sheet-body"></div>
 </dialog>
 

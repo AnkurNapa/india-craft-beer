@@ -1,0 +1,458 @@
+[
+ {
+  "id": "bengaluru-three-monkeys-brewpub-old-madras-road",
+  "name": "Three Monkeys Brewpub",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Old Madras Road / Indiranagar",
+  "address": "Gopalan Signature Mall, Swamy Vivekananda Rd, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://threemonkeys.pub/about/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-tiger-tiger-brewhouse-sarjapur",
+  "name": "Tiger Tiger Brewhouse",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Sarjapur Road",
+  "address": "82/4B, Sarjapur Main Road, Dodda Kanneli, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Bangalore/Sarjapur-Road/Restaurant/Tiger-Tiger-Brewhouse/store/612cb2/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-toit-indiranagar",
+  "name": "Toit",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Indiranagar",
+  "address": "298, 100 Feet Rd, Indiranagar, Bengaluru 560038",
+  "cities": null,
+  "sources": [
+   "https://toit.in/beer/",
+   "https://toit.in/restaurant/toit-bangalore/"
+  ],
+  "current_beers": [
+   {
+    "id": "toit-tint-in-wit",
+    "name": "Tint-In-Wit",
+    "style": "Belgian Wit"
+   },
+   {
+    "id": "toit-nitro-stout",
+    "name": "Nitro Stout",
+    "style": "Stout"
+   },
+   {
+    "id": "toit-banger-lager",
+    "name": "Banger Lager",
+    "style": "Lager"
+   },
+   {
+    "id": "toit-basmati-blonde",
+    "name": "Basmati Blonde",
+    "style": "Blonde Ale"
+   },
+   {
+    "id": "toit-hefeweizen",
+    "name": "Hefeweizen",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "toit-red-ale",
+    "name": "Red Ale",
+    "style": "Pale Ale"
+   },
+   {
+    "id": "toit-indian-pale-ale",
+    "name": "Indian Pale Ale",
+    "style": "IPA"
+   },
+   {
+    "id": "toit-porter",
+    "name": "Porter",
+    "style": "Porter"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-toit-orr-east",
+  "name": "Toit ORR East",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Mahadevapura / ORR East",
+  "address": "Bagmane Constellation Business Park, Mahadevapura, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://toit.in/restaurant/toit-bangalore-orr-east/"
+  ],
+  "current_beers": [
+   {
+    "id": "toit-tint-in-wit",
+    "name": "Tint-In-Wit",
+    "style": "Belgian Wit"
+   },
+   {
+    "id": "toit-nitro-stout",
+    "name": "Nitro Stout",
+    "style": "Stout"
+   },
+   {
+    "id": "toit-banger-lager",
+    "name": "Banger Lager",
+    "style": "Lager"
+   },
+   {
+    "id": "toit-basmati-blonde",
+    "name": "Basmati Blonde",
+    "style": "Blonde Ale"
+   },
+   {
+    "id": "toit-hefeweizen",
+    "name": "Hefeweizen",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "toit-red-ale",
+    "name": "Red Ale",
+    "style": "Pale Ale"
+   },
+   {
+    "id": "toit-indian-pale-ale",
+    "name": "Indian Pale Ale",
+    "style": "IPA"
+   },
+   {
+    "id": "toit-porter",
+    "name": "Porter",
+    "style": "Porter"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-toro-brew-house-hebbal",
+  "name": "Toro Brew House & Kitchen (Zozo)",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Sanjaynagar / Hebbal",
+  "address": "Sanjaynagar, Hebbal, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://highape.com/bangalore/venues/toro-brew-house--kitchen-zozo"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-tropika-brewing-marathahalli",
+  "name": "Tropika Brewing Co",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Marathahalli / Panathur",
+  "address": "Plot No. 37-1, Outer Ring Road, Panathur, Marathahalli, Bengaluru 560103",
+  "cities": null,
+  "sources": [
+   "https://www.indiaretailing.com/dining-and-craft-brewery-destination-tropika-debuts-in-bengaluru"
+  ],
+  "current_beers": [
+   {
+    "id": "tropika-coconut-cream-ale",
+    "name": "Coconut Cream Ale",
+    "style": "Blonde Ale"
+   },
+   {
+    "id": "tropika-chocolate-stout",
+    "name": "Chocolate Stout",
+    "style": "Stout"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-vapour-sarjapur-road",
+  "name": "Vapour Brewpub and Diner",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Sarjapur Road / Marathahalli",
+  "address": "Floor 7, Bren Mercury, Kaikondrahalli Junction, Marathahalli Rd, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/vapour-brewpub-and-diner-sarjapur-road"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-vapour-indiranagar",
+  "name": "Vapour Pub and Brewery",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Indiranagar",
+  "address": "100 Feet Road, HAL 2nd Stage, Indiranagar, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Bangalore/Indiranagar/Restaurant/Vapour-Pub-and-Brewery/store/5c30/menu"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-windmills-craftworks-whitefield",
+  "name": "Windmills Craftworks",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Whitefield",
+  "address": "6th Floor, Craftworks, ITPL Main Rd, Whitefield, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.swiggy.com/restaurants/bangalore/whitefield/windmills-craftworks-788418/dineout"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-xoox-brewmill-koramangala",
+  "name": "XOOX Brewmill",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Koramangala",
+  "address": "80 Feet Road, Koramangala 7th Block, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Bangalore/Koramangala-7Th-Block/Restaurant/Xoox-Brewmill/store/276ba9/menu"
+  ],
+  "current_beers": [
+   {
+    "id": "xoox-red-velvet",
+    "name": "Red-Velvet",
+    "style": "Stout"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-yellow-submarine-bannerghatta-road",
+  "name": "Yellow Submarine",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Bannerghatta Road",
+  "address": "Opposite IIM Bangalore, Bannerghatta Road, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://lbb.in/bangalore/yellow-submarine-bannerghatta-road/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bhubaneswar-kegs-and-barrels-brewing-co-patia",
+  "name": "Kegs and Barrels Brewing Co. (KGB)",
+  "kind": "brewpub",
+  "city": "Bhubaneswar",
+  "area": "Patia",
+  "address": "Plot No 435/2170, Prakriti Tower, Bajrang Vihar, Patia, Bhubaneswar, Odisha 751024",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Bhubaneswar/Patia/Restaurant/Kegs-And-Barrels-Brewing-Co./store/1551993",
+   "https://www.zomato.com/bhubaneswar/kegs-and-barrels-brewing-co-1-patia-bhubaneshwar",
+   "https://yappe.in/odisha/bhubaneswar/kegs-and-barrels-brewing-co-kgb/812401"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bhubaneswar-madmule-the-brew-club",
+  "name": "MadMule, The Brew Club",
+  "kind": "brewpub",
+  "city": "Bhubaneswar",
+  "area": "Kharvela Nagar",
+  "address": "One Janpath, 2nd Floor, Kharvela Nagar, Bhubaneswar, Odisha",
+  "cities": null,
+  "sources": [
+   "https://www.facebook.com/MadMuleBrewClub/",
+   "https://www.tripadvisor.in/Restaurant_Review-g297661-d15560953-Reviews-MadMule_The_Brew_Club-Bhubaneswar_Khurda_District_Odisha.html",
+   "https://www.eazydiner.com/bhubaneswar/madmule-the-brew-club-kharvela-nagar-bhubaneswar-700534"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "panchkula-adda-microbrewery-sector-9",
+  "name": "Adda Microbrewery & Kitchen",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 9",
+  "address": "Sector 9, Panchkula, Haryana",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/microbrewery-in-panchkula/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "mohali-brew-bros-sector-80",
+  "name": "Brew Bros MicroBrewery",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 80",
+  "address": "Sector 80, Mohali, Punjab",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/best-microbreweries-in-chandigarh/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "chandigarh-culture-brew-exchange-sector-26",
+  "name": "Culture Brew Exchange",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 26",
+  "address": "Sector 26, Chandigarh",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/best-microbreweries-in-chandigarh/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "chandigarh-curry-and-hops",
+  "name": "Curry and Hops Brewing",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 41",
+  "address": "SCO 41-42, Chandigarh",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/best-microbreweries-in-chandigarh/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "panchkula-hops-n-grains-sector-9",
+  "name": "Hops n Grains",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 9",
+  "address": "SCO 358, Sector 9, Panchkula, Haryana",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/microbrewery-in-panchkula/"
+  ],
+  "current_beers": [
+   {
+    "id": "hops-grains-panchkula-dunkel-dark",
+    "name": "Dunkel Dark",
+    "style": "Lager"
+   },
+   {
+    "id": "hops-grains-panchkula-premium-lager",
+    "name": "Premium Lager",
+    "style": "Lager"
+   }
+  ]
+ },
+ {
+  "id": "chandigarh-hops-n-grains-sector-8",
+  "name": "Hops n Grains Kitchen & Brewery",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 8",
+  "address": "Sector 8, Chandigarh",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/best-microbreweries-in-chandigarh/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "mohali-hops-n-grains-sector-67",
+  "name": "Hops n Grains Kitchen & Microbrewery",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 67",
+  "address": "Sector 67, Mohali, Punjab",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/best-microbreweries-in-chandigarh/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "chandigarh-qizo-sector-26",
+  "name": "Qizo",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 26",
+  "address": "SCO 43, Sector 26, Chandigarh",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/best-microbreweries-in-chandigarh/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "chandigarh-brew-barrels-sector-59",
+  "name": "The Brew Barrels",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 59",
+  "address": "Sector 59, Chandigarh",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/best-microbreweries-in-chandigarh/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "chandigarh-brew-estate-sector-26",
+  "name": "The Brew Estate",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 26",
+  "address": "SCO 25, Madhya Marg, Sector 26, Chandigarh",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/best-microbreweries-in-chandigarh/",
+   "https://www.brewestate.in/the-brew-estate-sector-26-chandigarh.php"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "mohali-brew-estate-sector-80",
+  "name": "The Brew Estate",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 80",
+  "address": "SCO 4 & 5, Sector 80, Mohali, Punjab",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/best-microbreweries-in-chandigarh/",
+   "https://www.brewestate.in/the-brew-estate-sector-80-mohali.php"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "panchkula-brew-estate-sector-9",
+  "name": "The Brew Estate",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 9",
+  "address": "SCO 351, Sector 9, Panchkula, Haryana",
+  "cities": null,
+  "sources": [
+   "https://www.brewestate.in/the-brew-estate-sector-9-panchkula.php",
+   "https://chdlife.com/microbrewery-in-panchkula/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "chandigarh-brew-nest-sector-70",
+  "name": "The Brew Nest Microbrewery",
+  "kind": "brewpub",
+  "city": "Chandigarh",
+  "area": "Sector 70",
+  "address": "Sector 70, Chandigarh",
+  "cities": null,
+  "sources": [
+   "https://chdlife.com/best-microbreweries-in-chandigarh/"
+  ],
+  "current_beers": []
+ }
+]

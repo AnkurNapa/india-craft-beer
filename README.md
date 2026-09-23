@@ -6,13 +6,17 @@ Live at **https://ankurnapa.github.io/india-craft-beer/**
 
 ## What's in it
 
-- **Top beers:** ranked by city and time window, with an Indian food pairing for every style.
-- **Breweries:** every brewpub, microbrewery and taproom we could verify, plus bottled and canned brands. Tap **Near me** to sort by distance; your location never leaves your phone.
-- **Map:** every pinned venue, grouped into clusters until you zoom in.
-- **Tried:** tick off beers as you drink them and get suggestions for what to try next. Saved on your phone only.
-- **History:** Indian beer from the Kasauli brewery of 1830 to today, every milestone linked to its source.
+It works like a food delivery app, for beer:
 
-It is a static site with no build step, hosted free on GitHub Pages.
+- **Home:** pick your city (or tap *Use my current location*), choose a mood from the style circles, filter with chips, browse collections like *Wheat and wit* or *Dark and roasty*, and scroll brewery cards.
+- **Beers:** every beer as a tile, with a **Tried +** button. Sort by top rated this week, month, year or five years, nearest, or A to Z.
+- **Venue pages** read like a restaurant menu: the tap list grouped by style, each beer with what to eat with it.
+- **Tried:** the mug in the header is your list, with suggestions for what to try next. Saved on your phone only.
+- **Map** and **History**, the story of Indian brewing from 1830 to today with every milestone sourced.
+
+There are no photos. Each beer is drawn as a glass in its style's real colour, from its typical SRM through the standard SRM-to-RGB table.
+
+It is a static site with no build step, hosted free on GitHub Pages. Code is split by job: `ctx.js` (data and state), `ui.js` (DOM builders), `views.js` (Home, Beers, History), `sheets.js` (venue and beer pages, city, sort, tried), `map.js`, `app.js` (shell).
 
 ## Where the data comes from
 
@@ -21,7 +25,8 @@ It is a static site with no build step, hosted free on GitHub Pages.
 To refresh it, run a new sweep into `data/raw/region-*.json` using the brief in `data/raw/RESEARCH_BRIEF.md`, then:
 
 ```sh
-python3 scripts/merge_research.py
+python3 scripts/merge_research.py   # merges region-*, then verify-* (overrides), then gaps-* (adds)
+python3 scripts/test_merge.py
 ```
 
 The merge only lets through open venues with a source, beers with a known style, and pins inside India.

@@ -1,0 +1,417 @@
+[
+ {
+  "id": "bengaluru-communiti-residency-road",
+  "name": "Communiti",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Residency Road",
+  "address": "Residency Road, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://communitiindia.com/our-craft-beers.php"
+  ],
+  "current_beers": [
+   {
+    "id": "communiti-belgian-wheat",
+    "name": "Belgian Wheat",
+    "style": "Belgian Wit"
+   },
+   {
+    "id": "communiti-golden-lager",
+    "name": "Golden Lager",
+    "style": "Lager"
+   },
+   {
+    "id": "communiti-hefeweizen",
+    "name": "Hefeweizen",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "communiti-irish-ale",
+    "name": "Irish Ale",
+    "style": "Pale Ale"
+   },
+   {
+    "id": "communiti-honey-ale",
+    "name": "Honey Ale",
+    "style": "Blonde Ale"
+   },
+   {
+    "id": "communiti-imperial-stout",
+    "name": "Imperial Stout",
+    "style": "Stout"
+   },
+   {
+    "id": "communiti-indian-pale-ale",
+    "name": "Indian Pale Ale",
+    "style": "IPA"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-district-6-yeshwanthpur",
+  "name": "District 6",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Yeshwanthpur / Rajajinagar",
+  "address": "Vaishnavi Sapphire Centre, Tumkur Rd, Yeshwanthpur Industrial Area, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://district6.in/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-geist-brewing-hennur",
+  "name": "Geist Brewing Co. Hennur",
+  "kind": "taproom",
+  "city": "Bengaluru",
+  "area": "Hennur / Thanisandra",
+  "address": "04 & 05, UG Floor, Bhartiya Mall of Bengaluru, Thanisandra, Bengaluru 560064",
+  "cities": null,
+  "sources": [
+   "https://www.geist.in/locations"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-geist-brewing-omr",
+  "name": "Geist Brewing Co. OMR",
+  "kind": "microbrewery",
+  "city": "Bengaluru",
+  "area": "Old Madras Road",
+  "address": "Old Madras Road, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.geist.in/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-geist-brewing-taproom-rajajinagar",
+  "name": "Geist Brewing Taproom",
+  "kind": "taproom",
+  "city": "Bengaluru",
+  "area": "Rajajinagar",
+  "address": "Rajajinagar, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.geist.in/locations"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-gold-rush-brews-kr-puram",
+  "name": "Gold Rush Brews",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "KR Puram",
+  "address": "KR Puram, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/gold-rush-brews-kr-puram-bangalore"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-high-brew-jp-nagar",
+  "name": "High Brew",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "JP Nagar",
+  "address": "JP Nagar, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://highbrew.co.in/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-icb-indian-craft-brewery-nagawara",
+  "name": "ICB Indian Craft Brewery",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Nagawara",
+  "address": "Manyata Tech Park, Nagawara, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://icb.beer/",
+   "https://www.brewer-world.com/indian-craft-brewery-icb-bengalurus-newest-cultural-microbrewery/"
+  ],
+  "current_beers": [
+   {
+    "id": "icb-nandi-nectar",
+    "name": "Nandi Nectar",
+    "style": "Blonde Ale"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-iron-hill-marathahalli",
+  "name": "Ironhill Bengaluru",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Marathahalli",
+  "address": "Sy no 90, 7 & 90/8, Outer Ring Rd, Radisson Blu, Marathahalli Village, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://ironhillindia.com/bengaluru/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-iron-hill-whitefield",
+  "name": "Ironhill Bengaluru",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Whitefield",
+  "address": "Whitefield, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://ironhillindia.com/bengaluru/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-iron-hill-banashankari",
+  "name": "Ironhill Bengaluru",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Banashankari / Kanakapura Road",
+  "address": "Kanakapura Road area, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://ironhillindia.com/bengaluru/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-jamming-goat-jp-nagar",
+  "name": "Jamming Goat 3.0",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "JP Nagar",
+  "address": "JP Nagar 5th Phase, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Bangalore/Jp-Nagar-5th-Phase/Restaurant/Jamming-Goat-3.0/store/1676374"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-kling-brewery-church-street",
+  "name": "Kling Brewery",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Church Street",
+  "address": "Church Street, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.klingbangalore.com/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-long-boat-brewing-marathahalli",
+  "name": "Long Boat Brewing Co.",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Marathahalli",
+  "address": "1st Main, MSR Layout, Chandra Layout, Marathahalli, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.longboatbrewing.com/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-macs-brew-house-indiranagar",
+  "name": "Mac's Brew House",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Indiranagar",
+  "address": "Indiranagar 1st Stage, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.venuebookingz.com/bangalore/indiranagar/banquet-hall/macs-brew-house/27353/new-year-party"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-mannheim-craft-brewery-whitefield",
+  "name": "Mannheim Craft Brewery",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Whitefield",
+  "address": "Whitefield, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.tripadvisor.in/Attraction_Review-g297628-d28034187-Reviews-Mannheim_Craft_Brewery_Whitefield-Bengaluru_Bangalore_District_Karnataka.html"
+  ],
+  "current_beers": [
+   {
+    "id": "mannheim-millet-lager",
+    "name": "Millet Lager",
+    "style": "Lager"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-mannheim-craft-brewery-bellandur",
+  "name": "Mannheim Craft Brewery",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Bellandur / Ecoworld",
+  "address": "Bellandur, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/mannheim-craft-brewery-2-bellandur-bangalore"
+  ],
+  "current_beers": [
+   {
+    "id": "mannheim-millet-lager",
+    "name": "Millet Lager",
+    "style": "Lager"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-murphys-brewhouse-domlur",
+  "name": "Murphy's Brewhouse",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Domlur",
+  "address": "139/28, 5th floor, The Paul Bangalore, off Intermediate Ring Road, Domlur, Bengaluru 560071",
+  "cities": null,
+  "sources": [
+   "https://www.thepaulbangalore.in/murphys-brewhouse.php"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-old-mill-brewing-varthur",
+  "name": "Old Mill Brewing Co.",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Varthur / Whitefield",
+  "address": "Varthur Main Road, Whitefield, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/old-mill-brewing-co-varthur-main-road-whitefield-bangalore"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-peepai-kitchen-brewery-hebbal",
+  "name": "Peepai Kitchen & Brewery",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Hebbal / Byatarayanapura",
+  "address": "102/1 & 102/2, GM Arcade, Bellary Road, Hebbal, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Bangalore/Byatarayanapura/Restaurant/Peepai-Kitchen-and-Brewery/store/b7a842"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-prost-brew-pub-koramangala",
+  "name": "Prost Brew Pub",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Koramangala",
+  "address": "749, 10th Main, 80 Feet Road, Koramangala 4th Block, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/prost-brew-pub-koramangala-4th-block"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-7-rivers-brewing-mg-road",
+  "name": "Seven Rivers Brewing Co.",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "MG Road",
+  "address": "Taj MG Road, Yellappa Garden, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.tajhotels.com/en-in/hotels/taj-mg-road-bangalore/restaurants/7rivers-brewing-co"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-shakesbierre-brigade-road",
+  "name": "ShakesBierre",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Brigade Road / MG Road",
+  "address": "EVA Mall, Brigade Road, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.shakesbierre.com/"
+  ],
+  "current_beers": [
+   {
+    "id": "shakesbierre-ale-othello-ipa",
+    "name": "Ale Othello IPA",
+    "style": "IPA"
+   },
+   {
+    "id": "shakesbierre-brisky-brutus-american-stout",
+    "name": "Brisky Brutus American Stout",
+    "style": "Stout"
+   },
+   {
+    "id": "shakesbierre-taming-of-the-brew",
+    "name": "Taming of the Brew Blueberry Vanilla Cream Ale",
+    "style": "Blonde Ale"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-she-brews-electronic-city",
+  "name": "She Brews",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Electronic City",
+  "address": "No. 20, 3rd Floor, Concorde Silicon Valley, Doddathogur Village, Electronic City, Bengaluru 560100",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/she-brews-electronic-city/reviews"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "bengaluru-biere-club-lavelle-road",
+  "name": "The Biere Club",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Lavelle Road / MG Road",
+  "address": "20/2 Vittal Mallya Rd, Ashok Nagar, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.tripadvisor.in/Restaurant_Review-g297628-d8593419-Reviews-The_Biere_Club-Bengaluru_Bangalore_District_Karnataka.html"
+  ],
+  "current_beers": [
+   {
+    "id": "biere-club-dark-knight-stout",
+    "name": "Dark Knight Stout",
+    "style": "Stout"
+   }
+  ]
+ },
+ {
+  "id": "bengaluru-brew-factory-sahakara-nagar",
+  "name": "The Brew Factory",
+  "kind": "brewpub",
+  "city": "Bengaluru",
+  "area": "Sahakara Nagar",
+  "address": "Sahakara Nagar, Bengaluru",
+  "cities": null,
+  "sources": [
+   "https://www.zomato.com/bangalore/the-food-factory-@-brew-factory-sahakara-nagar-bangalore"
+  ],
+  "current_beers": []
+ }
+]

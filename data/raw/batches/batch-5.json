@@ -1,0 +1,565 @@
+[
+ {
+  "id": "gurugram-effingut-golf-course-road",
+  "name": "Effingut",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Golf Course Road, Sector 42",
+  "address": "2nd Floor, Golf Avenue 42, Near Global Foyer Mall, Golf Course Road, Sector 42, Gurugram, Haryana 122009",
+  "cities": null,
+  "sources": [
+   "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+  ],
+  "current_beers": [
+   {
+    "id": "effingut-gurugram-bavarian-wheat",
+    "name": "Bavarian Wheat Beer",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "effingut-gurugram-strong-boozy-lager",
+    "name": "Strong Boozy Lager",
+    "style": "Strong Lager"
+   }
+  ]
+ },
+ {
+  "id": "gurugram-factory-by-sutra-sector-29",
+  "name": "Factory by Sutra",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Sector 29",
+  "address": "SCO 23, Main Market, Sector 29, Gurugram, Haryana",
+  "cities": null,
+  "sources": [
+   "https://www.facebook.com/factorybysutra/",
+   "https://lbb.in/delhi/fresh-brewed-beer-gurgaon/"
+  ],
+  "current_beers": [
+   {
+    "id": "factory-sutra-belgian-red-ale",
+    "name": "Belgian Red Ale",
+    "style": "Belgian Ale"
+   },
+   {
+    "id": "factory-sutra-german-lager",
+    "name": "German Lager",
+    "style": "Lager"
+   }
+  ]
+ },
+ {
+  "id": "gurugram-hops-n-brew-sector-29",
+  "name": "Hops n Brew",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Sector 29",
+  "address": "Sector 29, Gurugram, Haryana",
+  "cities": null,
+  "sources": [
+   "https://www.tripadvisor.in/Restaurant_Review-g297615-d4355244-Reviews-Hops_n_Brew_The_Microbrewery-Gurugram_Gurgaon_Gurgaon_District_Haryana.html"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "gurugram-howzatt-sector-15",
+  "name": "Howzatt",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Sector 15",
+  "address": "The Galaxy Hotel, Sector 15, Gurugram, Haryana",
+  "cities": null,
+  "sources": [
+   "https://www.treebo.com/blog/breweries-in-delhi/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "gurugram-lagom-kitchen-brewery",
+  "name": "Lagom Kitchen and Brewery",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Sohna Road",
+  "address": "Unit P 4 & 5, JMD Megapolis, Sohna Road, Gurugram, Haryana",
+  "cities": null,
+  "sources": [
+   "https://www.treebo.com/blog/breweries-in-delhi/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "gurugram-manhattan-craft-brewery",
+  "name": "Manhattan Bar & Brewery",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Golf Course Road, Sector 43",
+  "address": "1st Floor, Global Foyer Mall, Golf Course Road, Sector 43, Gurugram, Haryana",
+  "cities": null,
+  "sources": [
+   "https://www.treebo.com/blog/breweries-in-delhi/",
+   "https://magicpin.in/Gurgaon/Global-Foyer-Mall,-Golf-Course-Road/Restaurant/Manhattan-Bar-Exchange-and-Brewery/store/4532/"
+  ],
+  "current_beers": [
+   {
+    "id": "manhattan-german-wheat",
+    "name": "German Wheat Beer",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "manhattan-hefeweizen",
+    "name": "Hefe Weizen",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "manhattan-belgian-wheat",
+    "name": "Belgian Wheat",
+    "style": "Belgian Wit"
+   },
+   {
+    "id": "manhattan-lager",
+    "name": "Lager",
+    "style": "Lager"
+   },
+   {
+    "id": "manhattan-dark-lager",
+    "name": "Dark Lager",
+    "style": "Strong Lager"
+   }
+  ]
+ },
+ {
+  "id": "gurugram-open-tap-sohna-road",
+  "name": "Open Tap",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Sohna Road, Sector 49",
+  "address": "Vatika Business Park, Sector 49, Sohna Road, Gurugram, Haryana 122018",
+  "cities": null,
+  "sources": [
+   "https://www.treebo.com/blog/breweries-in-delhi/",
+   "https://www.zomato.com/ncr/open-tap-sohna-road-sector-49-gurgaon"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "gurugram-quaff-brewing-cyber-hub",
+  "name": "Quaff Brewing Co",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Cyber Hub",
+  "address": "Building No. 10-B, Ground Floor, DLF Cyber Hub, DLF Cyber City, Gurugram, Haryana 122002",
+  "cities": null,
+  "sources": [
+   "https://www.theestablished.com/culture/living/microbreweries-in-delhi-ncr-12048280"
+  ],
+  "current_beers": [
+   {
+    "id": "quaff-ipa",
+    "name": "Indian Pale Ale",
+    "style": "IPA"
+   },
+   {
+    "id": "quaff-german-wheat",
+    "name": "German Wheat Beer",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "quaff-session-blonde",
+    "name": "Session Blonde Ale",
+    "style": "Blonde Ale"
+   },
+   {
+    "id": "quaff-belgian-dibble",
+    "name": "Belgian Dibble",
+    "style": "Belgian Ale"
+   }
+  ]
+ },
+ {
+  "id": "gurugram-soi-7-pub-brewery",
+  "name": "Soi 7 Pub & Brewery",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Cyber Hub",
+  "address": "205-208 & 209-A, DLF Cyber City, Cyber Hub, Gurugram, Haryana",
+  "cities": null,
+  "sources": [
+   "https://lbb.in/delhi/fresh-brewed-beer-gurgaon/",
+   "https://www.zomato.com/ncr/soi-7-pub-brewery-dlf-cyber-city"
+  ],
+  "current_beers": [
+   {
+    "id": "soi7-upper-cut",
+    "name": "Upper Cut",
+    "style": "IPA"
+   },
+   {
+    "id": "soi7-straight-jab",
+    "name": "Straight Jab",
+    "style": "Pale Ale"
+   }
+  ]
+ },
+ {
+  "id": "gurugram-striker-pub-brewery",
+  "name": "Striker Pub and Brewery",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Golf Course Road, Sector 43",
+  "address": "23, 1st Floor, Global Foyer Mall, Sector 43, Golf Course Road, Gurugram, Haryana",
+  "cities": null,
+  "sources": [
+   "https://www.treebo.com/blog/breweries-in-delhi/"
+  ],
+  "current_beers": [
+   {
+    "id": "striker-corn-beer",
+    "name": "Corn Beer",
+    "style": "Lager"
+   }
+  ]
+ },
+ {
+  "id": "gurugram-uptown-dlf-phase-4",
+  "name": "Uptown Fresh Beer Cafe",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "DLF Phase 4",
+  "address": "106, DLF Galleria, DLF Phase 4, Gurugram, Haryana",
+  "cities": null,
+  "sources": [
+   "https://www.treebo.com/blog/breweries-in-delhi/",
+   "https://lbb.in/delhi/fresh-brewed-beer-gurgaon/"
+  ],
+  "current_beers": [
+   {
+    "id": "uptown-german-wheat",
+    "name": "German Wheat",
+    "style": "Hefeweizen"
+   }
+  ]
+ },
+ {
+  "id": "gurugram-vapour-bar-exchange",
+  "name": "Vapour Bar Exchange",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "Sector 29",
+  "address": "Plot No. 13-15, 2nd Floor, Main Market, Sector 29, Gurugram, Haryana",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Gurgaon/Sector-29/Restaurant/Vapour-Bar-Exchange/store/7068/",
+   "https://vapourbargurgaon.com/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "gurugram-vapour-pub-brewery-mg-road",
+  "name": "Vapour Pub & Brewery",
+  "kind": "brewpub",
+  "city": "Gurugram",
+  "area": "MG Road",
+  "address": "2nd Floor, MGF Mega City Mall, MG Road, Gurugram, Haryana",
+  "cities": null,
+  "sources": [
+   "https://www.treebo.com/blog/breweries-in-delhi/"
+  ],
+  "current_beers": []
+ },
+ {
+  "id": "guwahati-freemasons-brewworks-ganeshguri",
+  "name": "Freemason's Brew Works",
+  "kind": "brewpub",
+  "city": "Guwahati",
+  "area": "Ganeshguri",
+  "address": "5th Floor, City Centre, GS Road, Ganeshguri, Guwahati, Assam 781005",
+  "cities": null,
+  "sources": [
+   "https://magicpin.in/Guwahati/Ganeshguri/Restaurant/FreemasonS-Brewworks/store/3a2008/photos/?img=Store-Images",
+   "https://www.eazydiner.com/guwahati/freemasons-brewworks-ganeshguri-guwahati-709483",
+   "https://untappd.com/FreemasonsBrewworks"
+  ],
+  "current_beers": [
+   {
+    "id": "freemasons-cappuccino-stout",
+    "name": "Cappuccino Stout",
+    "style": "Stout"
+   },
+   {
+    "id": "freemasons-international-lager",
+    "name": "International Lager",
+    "style": "Lager"
+   },
+   {
+    "id": "freemasons-ragi-beer",
+    "name": "Ragi Beer",
+    "style": "Strong Lager"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-36downtown-jubilee-hills",
+  "name": "36 Downtown Brew Pub",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills",
+  "address": "Jubilee Hills, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "downtown36-wheat-beer",
+    "name": "Wheat Beer",
+    "style": "Hefeweizen"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-babylon-nanakramguda",
+  "name": "Babylon Brewery and Club",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Nanakramguda",
+  "address": "Nanakramguda, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "babylon-house-wheat-beer",
+    "name": "House Wheat Beer",
+    "style": "Hefeweizen"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-beerhouse-hitec-city",
+  "name": "Beer House",
+  "kind": "brewpub",
+  "city": "Hyderabad",
+  "area": "HITEC City",
+  "address": "HITEC City, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "beerhouse-house-hefeweizen",
+    "name": "House Hefeweizen",
+    "style": "Hefeweizen"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-broadway-jubilee-hills",
+  "name": "Broadway - The Brewery",
+  "kind": "brewpub",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills",
+  "address": "Jubilee Hills, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://beerasia.net/craft-beer-guides/hyderabad-craft-beer-guide/",
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "broadway-wit",
+    "name": "Wit",
+    "style": "Belgian Wit"
+   },
+   {
+    "id": "broadway-hefeweizen",
+    "name": "Hefeweizen",
+    "style": "Hefeweizen"
+   },
+   {
+    "id": "broadway-chocolate-vanilla-stout",
+    "name": "Chocolate Vanilla Stout",
+    "style": "Stout"
+   },
+   {
+    "id": "broadway-winter-ale",
+    "name": "Winter Ale",
+    "style": "Belgian Ale"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-cu2-brewhouse-kokapet",
+  "name": "Cu2 Brewhouse",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Kokapet",
+  "address": "Kokapet, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "cu2-kolsch",
+    "name": "Kolsch",
+    "style": "Kölsch"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-forge-jubilee-hills",
+  "name": "Forge Breu-Hous",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills (CBI Colony)",
+  "address": "CBI Colony, Jubilee Hills, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://beerasia.net/craft-beer-guides/hyderabad-craft-beer-guide/",
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "forge-pineapple-sour",
+    "name": "Pineapple Sour",
+    "style": "Sour"
+   },
+   {
+    "id": "forge-blueberry-seltzer",
+    "name": "Blueberry Seltzer",
+    "style": "Sour"
+   },
+   {
+    "id": "forge-strawberry-cider",
+    "name": "Strawberry Cider",
+    "style": "Sour"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-hopefloats-jubilee-hills",
+  "name": "Hope Floats",
+  "kind": "brewpub",
+  "city": "Hyderabad",
+  "area": "Jubilee Hills",
+  "address": "Jubilee Hills, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "hopefloats-house-wheat-beer",
+    "name": "House Wheat Beer",
+    "style": "Hefeweizen"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-ironhill-kukatpally",
+  "name": "Ironhill Hyderabad",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Kukatpally",
+  "address": "Kukatpally, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://beerasia.net/craft-beer-guides/hyderabad-craft-beer-guide/",
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "ironhill-afterlife-ale",
+    "name": "Afterlife Ale",
+    "style": "Pale Ale"
+   },
+   {
+    "id": "ironhill-lost-lager",
+    "name": "L.O.S.T. Lager",
+    "style": "Lager"
+   },
+   {
+    "id": "ironhill-sinnerman-stout",
+    "name": "Sinnerman Stout",
+    "style": "Stout"
+   },
+   {
+    "id": "ironhill-wonderland-wheat",
+    "name": "Wonderland Wheat",
+    "style": "Hefeweizen"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-lionsgate-kukatpally",
+  "name": "Lionsgate Breweries",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Kukatpally",
+  "address": "Kukatpally, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "lionsgate-house-lager",
+    "name": "House Lager",
+    "style": "Lager"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-mythus-narsingi",
+  "name": "Mythus Brewpub",
+  "kind": "brewpub",
+  "city": "Hyderabad",
+  "area": "Narsingi",
+  "address": "Narsingi, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "mythus-wheat-ale",
+    "name": "Mythus Wheat Ale",
+    "style": "Hefeweizen"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-onegolf-nanakramguda",
+  "name": "Onegolf Brewery",
+  "kind": "brewpub",
+  "city": "Hyderabad",
+  "area": "Nanakramguda",
+  "address": "Nanakramguda, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": [
+   {
+    "id": "onegolf-hefeweizen",
+    "name": "Hefeweizen",
+    "style": "Hefeweizen"
+   }
+  ]
+ },
+ {
+  "id": "hyderabad-overthemoon-gachibowli",
+  "name": "Over The Moon",
+  "kind": "microbrewery",
+  "city": "Hyderabad",
+  "area": "Gachibowli",
+  "address": "Gachibowli, Hyderabad, Telangana",
+  "cities": null,
+  "sources": [
+   "https://explorehyd.com/breweries"
+  ],
+  "current_beers": []
+ }
+]

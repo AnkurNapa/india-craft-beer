@@ -1,0 +1,717 @@
+{
+  "venues": [
+    {
+      "id": "mumbai-doolally-andheri",
+      "name": "Doolally Taproom",
+      "kind": "microbrewery",
+      "city": "Mumbai",
+      "area": "Andheri West",
+      "address": "C18-21, Dalia Industrial Estate, Near Fun Republic Mall, Off New Link Road, Andheri West, Mumbai 400053",
+      "lat": 19.1360688,
+      "lng": 72.8331996,
+      "status": "open",
+      "sources": [
+        "https://doolally.in/web/venues",
+        "https://www.tripadvisor.in/Restaurant_Review-g304554-d9581593-Reviews-Doolally_Taproom_Andheri-Mumbai_Maharashtra.html",
+        "https://www.facebook.com/godoolallyandheri/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "mumbai-doolally-khar",
+      "name": "Doolally Taproom",
+      "kind": "microbrewery",
+      "city": "Mumbai",
+      "area": "Khar West",
+      "address": "10 A Rajkutir, E854, 3rd Road, Khar West, Ram Krishna Nagar, Mumbai 400052",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://doolally.in/web/venues",
+        "https://unsobered.com/5-microbreweries-in-mumbai-that-offer-great-craft-beers"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "mumbai-doolally-kemps-corner",
+      "name": "Doolally Taproom",
+      "kind": "microbrewery",
+      "city": "Mumbai",
+      "area": "Kemps Corner",
+      "address": "1st Floor, 135 Kwality House, August Kranti Marg, Kemps Corner, Mumbai",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://doolally.in/web/venues",
+        "https://www.justdial.com/Mumbai/Doolally-Taproom-Restaurant-in-Kemps-Corner/nct-12144041"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "navi-mumbai-doolally-palm-beach-road",
+      "name": "Doolally Taproom",
+      "kind": "microbrewery",
+      "city": "Mumbai",
+      "area": "Sanpada, Palm Beach Road",
+      "address": "Palm Beach Road, Sanpada, Sector 17, Navi Mumbai",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://doolally.in/web/venues",
+        "https://unsobered.com/doolally-taproom-mumbai-reopens"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "thane-doolally-hiranandani-estate",
+      "name": "Doolally Taproom",
+      "kind": "microbrewery",
+      "city": "Mumbai",
+      "area": "Hiranandani Estate, Thane West",
+      "address": "Shop 1019 & 1020, The Walk, First Floor, B Wing, Ghodbunder Road, Hiranandani Estate, Thane West, Thane",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://www.zomato.com/mumbai/doolally-taproom-hiranandani-estate-thane-west-thane",
+        "https://www.tripadvisor.com/Restaurant_Review-g660976-d32893957-Reviews-Doolally_Taproom_Thane-Thane_Thane_District_Maharashtra.html"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "mumbai-effingut-colaba",
+      "name": "Effingut",
+      "kind": "brewpub",
+      "city": "Mumbai",
+      "area": "Colaba",
+      "address": "Dhanraj Mahal, Next to The Bently Showroom, Colaba, Mumbai 400005",
+      "lat": 18.9243344,
+      "lng": 72.8337228,
+      "status": "open",
+      "sources": [
+        "https://effingut.com/effingut-in-colaba/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "mumbai-gateway-taproom-bkc",
+      "name": "Gateway Taproom (Gateway Brewing Co.)",
+      "kind": "brewpub",
+      "city": "Mumbai",
+      "area": "Bandra Kurla Complex",
+      "address": "Ground Floor, 3, Jet Airways Godrej BKC, Plot No. C-68, G Block, Bandra Kurla Complex, Bandra East, Mumbai 400051",
+      "lat": 19.0592716,
+      "lng": 72.8651694,
+      "status": "open",
+      "sources": [
+        "https://www.gatewaybrewery.com/",
+        "https://www.tripadvisor.com/Restaurant_Review-g304554-d12802186-Reviews-Gateway_Taproom_BKC-Mumbai_Maharashtra.html",
+        "https://lbb.in/mumbai/new-taproom-bkc/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "mumbai-independence-brewing-versova",
+      "name": "Independence Brewing Company",
+      "kind": "microbrewery",
+      "city": "Mumbai",
+      "area": "Seven Bunglows, Andheri West (Versova)",
+      "address": "Shop 1, 2, 3 Akshay Villa, Jayaprakash Narayan Road, Seven Bunglow, Andheri West, Mumbai 400053",
+      "lat": 19.1289427,
+      "lng": 72.8190702,
+      "status": "open",
+      "sources": [
+        "https://www.independencebrewco.com/contact-us.html",
+        "https://www.facebook.com/IBCAndheri/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "mumbai-independence-brewing-powai",
+      "name": "Independence Brewing Company",
+      "kind": "microbrewery",
+      "city": "Mumbai",
+      "area": "Powai",
+      "address": "Unit 1, Ground Floor, Ventura Building, Central Avenue, Hiranandani Gardens, Powai, Mumbai 400076",
+      "lat": 19.1162038,
+      "lng": 72.9090668,
+      "status": "open",
+      "sources": [
+        "https://www.independencebrewco.com/contact-us.html",
+        "https://www.zomato.com/mumbai/independence-brewing-company-powai"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "mumbai-woodside-inn-colaba",
+      "name": "Woodside Inn",
+      "kind": "taproom",
+      "city": "Mumbai",
+      "area": "Colaba",
+      "address": "Indian Mercantile Mansion, Wodehouse Road, Colaba Causeway, Mumbai",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://www.tripadvisor.com/Restaurant_Review-g304554-d11911692-Reviews-Woodside_Inn-Mumbai_Maharashtra.html",
+        "https://www.zomato.com/mumbai/woodside-inn-colaba"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "mumbai-woodside-inn-bandra",
+      "name": "Woodside Inn",
+      "kind": "taproom",
+      "city": "Mumbai",
+      "area": "Pali Hill, Bandra West",
+      "address": "3/4, Dheeraj Pali Arcade, Dr Ambedkar Road, Pali Naka, Pali Hill, Bandra West, Mumbai 400050",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://lbb.in/mumbai/woodside-inn-bandra/",
+        "https://www.zomato.com/mumbai/woodside-inn-pali-hill-bandra-west"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "mysuru-double-barrel-brewpub",
+      "name": "Double Barrel Brewpub",
+      "kind": "brewpub",
+      "city": "Mysuru",
+      "area": "Mysuru",
+      "address": "Mysuru, Karnataka",
+      "lat": 12.3041464,
+      "lng": 76.6529521,
+      "status": "open",
+      "sources": [
+        "https://www.facebook.com/DoubleBarrelMysore/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "mysuru-the-barge",
+      "name": "The Barge",
+      "kind": "brewpub",
+      "city": "Mysuru",
+      "area": "Hebbal Industrial Area",
+      "address": "440-A, Near Shubodini Convention Centre, Hebbal Industrial Area, Mysuru, Karnataka",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://lbb.in/bangalore/the-barge-microbrewery-mysore/",
+        "https://www.facebook.com/TheBargeBrew/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "nagpur-drifters-tap-station",
+      "name": "Drifters Tap Station (Drifters Brewing Company)",
+      "kind": "brewpub",
+      "city": "Nagpur",
+      "area": "Ramdaspeth / Shankar Nagar",
+      "address": "Plot no. 1, 1st Floor, Sameep Tower, 11, E High Ct Rd, Shankar Nagar, Ramdaspeth, Nagpur 440010",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://driftersbrews.com/nagpur-menu/",
+        "https://getthedrift.in/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "nashik-topchi-brewing-vilholi",
+      "name": "Topchi Brewing",
+      "kind": "microbrewery",
+      "city": "Nashik",
+      "area": "Vilholi",
+      "address": "57/12/1, Ambe Bahula, Gaulane Road, Vilholi, Nashik 422010",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://topchi.in/find-topchi",
+        "https://topchi.in/about-topchi"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "nashik-topchi-outpost",
+      "name": "Topchi Brewing Outpost",
+      "kind": "taproom",
+      "city": "Nashik",
+      "area": "Trambakeshwar Road",
+      "address": "Ground Floor, Royal Arc Avenue, Trambakeshwar Rd, Near ABB Signal, Nashik 422007",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://topchi.in/topchi-brewing-outpost",
+        "https://topchi.in/find-topchi"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "noida-cad-tech-bar-sector-94",
+      "name": "CAD Tech Bar and Craft Kitchen & Brewery",
+      "kind": "brewpub",
+      "city": "Noida",
+      "area": "Sector 94",
+      "address": "Ground Floor, Plot No. 2B, Tower 1, BPTP Capital City, Sector 94, Noida",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://cadtechbar.in/best-microbrewery-in-noida/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "noida-noidawery-sector-63",
+      "name": "Noidawery",
+      "kind": "brewpub",
+      "city": "Noida",
+      "area": "Sector 63",
+      "address": "Yellow Chilli, Sector 63, Noida, Uttar Pradesh",
+      "lat": 28.6120749,
+      "lng": 77.3778122,
+      "status": "open",
+      "sources": [
+        "https://indifoodbev.com/food-ingredients/noidawery-brewery-hub/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "puducherry-catamaran-brewing",
+      "name": "Catamaran Brewing Company",
+      "kind": "brewpub",
+      "city": "Puducherry",
+      "area": "Anna Salai",
+      "address": "3rd floor, 35, Anna Salai, Muthu Mariamman Kovil Street Junction (Above Westside), Puducherry - 605001",
+      "lat": 11.9404127,
+      "lng": 79.8273114,
+      "status": "open",
+      "sources": [
+        "https://www.catamaranbrewing.com/about-catamaran-brewing.html",
+        "https://www.tripadvisor.in/Restaurant_Review-g659792-d23846510-Reviews-Catamaran_Brewing_Company-Pondicherry_Union_Territory_of_Pondicherry.html"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "puducherry-essence-brew",
+      "name": "Essence Brew",
+      "kind": "brewpub",
+      "city": "Puducherry",
+      "area": "Ellaipillaichavady",
+      "address": "No. 1, Thilagar Nagar, Ellaipillaichavady, Aruthra Nagar, Puducherry - 605009 (Accord Puducherry hotel)",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://www.theaccordhotels.com/puducherry/dining/essence-brew"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "pune-doolally-koregaon-park-annexe",
+      "name": "Doolally Taproom",
+      "kind": "microbrewery",
+      "city": "Pune",
+      "area": "Koregaon Park Annexe, Ghorpadi",
+      "address": "2nd Floor, KOPA Mall, Mundhwa Rd, Koregaon Park Annexe, Ghorpadi, Pune 411001",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://www.explorepune.in/breweries/doolally-taproom-kopa-mall/menu",
+        "https://www.zomato.com/pune/doolally-taproom-ghorpadi"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "pune-effingut-koregaon-park",
+      "name": "Effingut Brewerkz",
+      "kind": "brewpub",
+      "city": "Pune",
+      "area": "Koregaon Park",
+      "address": "Plot No. 389, Serene Bay, No. 21/A, Lane No. 6, Ashok Chakra Society, Meera Nagar, Koregaon Park, Pune",
+      "lat": 18.5340315,
+      "lng": 73.8985036,
+      "status": "open",
+      "sources": [
+        "https://effingut.com/kp-brewpub-pune/",
+        "https://www.zomato.com/pune/effingut-brewerkz-koregaon-park"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "pune-great-state-dive-koregaon-park",
+      "name": "Great State Dive (Great State Aleworks)",
+      "kind": "microbrewery",
+      "city": "Pune",
+      "area": "Koregaon Park",
+      "address": "Power Plaza, Lane No. 7, Koregaon Park, Pune 411001",
+      "geo": "missing",
+      "status": "open",
+      "sources": [
+        "https://www.greatstatealeworks.com/taproom",
+        "https://www.zomato.com/pune/great-state-dive-koregaon-park",
+        "https://lbb.in/pune/great-state-aleworks-9cd5fe/"
+      ],
+      "checked": "2026-09-23"
+    },
+    {
+      "id": "pune-independence-brewing-balewadi",
+      "name": "Independence Brewing Company",
+      "kind": "microbrewery",
+      "city": "Pune",
+      "area": "Balewadi",
+      "address": "Park Grandeur, Shop No.14 & 15, S. No.19, Balewadi High Street, Balewadi, Pune 411045",
+      "lat": 18.5711254,
+      "lng": 73.775001,
+      "status": "open",
+      "sources": [
+        "https://www.independencebrewco.com/contact-us.html"
+      ],
+      "checked": "2026-09-23"
+    }
+  ],
+  "beers": [
+    {
+      "id": "doolally-belgian-witbier",
+      "name": "Belgian Witbier",
+      "style": "Belgian Wit",
+      "venues": [
+        "mumbai-doolally-andheri",
+        "mumbai-doolally-khar",
+        "mumbai-doolally-kemps-corner",
+        "navi-mumbai-doolally-palm-beach-road",
+        "thane-doolally-hiranandani-estate",
+        "pune-doolally-koregaon-park-annexe"
+      ],
+      "source": "https://doolally.in/web/venues"
+    },
+    {
+      "id": "doolally-oatmeal-stout",
+      "name": "Oatmeal Stout",
+      "style": "Stout",
+      "venues": [
+        "mumbai-doolally-andheri",
+        "mumbai-doolally-khar",
+        "mumbai-doolally-kemps-corner",
+        "navi-mumbai-doolally-palm-beach-road",
+        "thane-doolally-hiranandani-estate",
+        "pune-doolally-koregaon-park-annexe"
+      ],
+      "source": "https://doolally.in/web/venues"
+    },
+    {
+      "id": "doolally-rauch-bier",
+      "name": "Rauch Bier",
+      "style": "Strong Lager",
+      "venues": [
+        "mumbai-doolally-andheri",
+        "mumbai-doolally-khar",
+        "mumbai-doolally-kemps-corner",
+        "navi-mumbai-doolally-palm-beach-road",
+        "thane-doolally-hiranandani-estate",
+        "pune-doolally-koregaon-park-annexe"
+      ],
+      "source": "https://doolally.in/web/venues"
+    },
+    {
+      "id": "doolally-bohemian-pilsner",
+      "name": "Bohemian Pilsner",
+      "style": "Lager",
+      "venues": [
+        "mumbai-doolally-andheri",
+        "mumbai-doolally-khar",
+        "mumbai-doolally-kemps-corner",
+        "navi-mumbai-doolally-palm-beach-road",
+        "thane-doolally-hiranandani-estate",
+        "pune-doolally-koregaon-park-annexe"
+      ],
+      "source": "https://doolally.in/web/venues"
+    },
+    {
+      "id": "gateway-doppelganger",
+      "name": "Doppelganger",
+      "style": "Hefeweizen",
+      "venues": [
+        "mumbai-gateway-taproom-bkc"
+      ],
+      "source": "https://www.gatewaybrewery.com/"
+    },
+    {
+      "id": "gateway-white-zen",
+      "name": "White Zen",
+      "style": "Hefeweizen",
+      "venues": [
+        "mumbai-gateway-taproom-bkc"
+      ],
+      "source": "https://www.gatewaybrewery.com/"
+    },
+    {
+      "id": "gateway-mosaic-ipa",
+      "name": "Mosaic IPA",
+      "style": "IPA",
+      "venues": [
+        "mumbai-gateway-taproom-bkc"
+      ],
+      "source": "https://www.gatewaybrewery.com/"
+    },
+    {
+      "id": "gateway-zini-lager",
+      "name": "Zini Lager",
+      "style": "Lager",
+      "venues": [
+        "mumbai-gateway-taproom-bkc"
+      ],
+      "source": "https://www.gatewaybrewery.com/"
+    },
+    {
+      "id": "gateway-sidecar-cider",
+      "name": "Sidecar",
+      "style": "Sour",
+      "venues": [
+        "mumbai-gateway-taproom-bkc"
+      ],
+      "source": "https://www.gatewaybrewery.com/"
+    },
+    {
+      "id": "ibc-band-wit",
+      "name": "Band Wit",
+      "style": "Belgian Wit",
+      "venues": [
+        "mumbai-independence-brewing-versova",
+        "mumbai-independence-brewing-powai",
+        "pune-independence-brewing-balewadi"
+      ],
+      "source": "https://www.independencebrewco.com/contact-us.html"
+    },
+    {
+      "id": "ibc-weissbier",
+      "name": "German Weissbier",
+      "style": "Hefeweizen",
+      "venues": [
+        "mumbai-independence-brewing-versova",
+        "mumbai-independence-brewing-powai",
+        "pune-independence-brewing-balewadi"
+      ],
+      "source": "https://www.independencebrewco.com/contact-us.html"
+    },
+    {
+      "id": "ibc-nitro-stout",
+      "name": "Nitro Stout",
+      "style": "Stout",
+      "venues": [
+        "mumbai-independence-brewing-versova",
+        "mumbai-independence-brewing-powai",
+        "pune-independence-brewing-balewadi"
+      ],
+      "source": "https://www.independencebrewco.com/contact-us.html"
+    },
+    {
+      "id": "woodside-heady-freddie",
+      "name": "Heady Freddie",
+      "style": "IPA",
+      "venues": [
+        "mumbai-woodside-inn-colaba",
+        "mumbai-woodside-inn-bandra"
+      ],
+      "source": "https://www.tripadvisor.com/Restaurant_Review-g304554-d11911692-Reviews-Woodside_Inn-Mumbai_Maharashtra.html"
+    },
+    {
+      "id": "barge-wheat-beer",
+      "name": "Wheat Beer",
+      "style": "Hefeweizen",
+      "venues": [
+        "mysuru-the-barge"
+      ],
+      "source": "https://lbb.in/bangalore/the-barge-microbrewery-mysore/"
+    },
+    {
+      "id": "drifters-sunshine",
+      "name": "Sunshine",
+      "style": "Belgian Wit",
+      "venues": [
+        "nagpur-drifters-tap-station"
+      ],
+      "source": "https://driftersbrews.com/nagpur-menu/"
+    },
+    {
+      "id": "drifters-sunny-bavaria",
+      "name": "Sunny Bavaria",
+      "style": "Hefeweizen",
+      "venues": [
+        "nagpur-drifters-tap-station"
+      ],
+      "source": "https://driftersbrews.com/nagpur-menu/"
+    },
+    {
+      "id": "drifters-hit-lager",
+      "name": "Hit-Lager",
+      "style": "Lager",
+      "venues": [
+        "nagpur-drifters-tap-station"
+      ],
+      "source": "https://driftersbrews.com/nagpur-menu/"
+    },
+    {
+      "id": "drifters-charles-de-pils",
+      "name": "Charles de Pils",
+      "style": "Lager",
+      "venues": [
+        "nagpur-drifters-tap-station"
+      ],
+      "source": "https://driftersbrews.com/nagpur-menu/"
+    },
+    {
+      "id": "drifters-irish-craic",
+      "name": "Irish Craic",
+      "style": "Pale Ale",
+      "venues": [
+        "nagpur-drifters-tap-station"
+      ],
+      "source": "https://driftersbrews.com/nagpur-menu/"
+    },
+    {
+      "id": "drifters-mozarts-magic",
+      "name": "Mozart's Magic",
+      "style": "Strong Lager",
+      "venues": [
+        "nagpur-drifters-tap-station"
+      ],
+      "source": "https://driftersbrews.com/nagpur-menu/"
+    },
+    {
+      "id": "drifters-hop-stop-ipa",
+      "name": "Hop Stop IPA",
+      "style": "IPA",
+      "venues": [
+        "nagpur-drifters-tap-station"
+      ],
+      "source": "https://driftersbrews.com/nagpur-menu/"
+    },
+    {
+      "id": "drifters-yellow-belly",
+      "name": "Yellow Belly",
+      "style": "Blonde Ale",
+      "venues": [
+        "nagpur-drifters-tap-station"
+      ],
+      "source": "https://driftersbrews.com/nagpur-menu/"
+    },
+    {
+      "id": "drifters-milky-way",
+      "name": "Milky Way",
+      "style": "Stout",
+      "venues": [
+        "nagpur-drifters-tap-station"
+      ],
+      "source": "https://driftersbrews.com/nagpur-menu/"
+    },
+    {
+      "id": "cadtech-weizenbock",
+      "name": "WeizenBock",
+      "style": "Hefeweizen",
+      "venues": [
+        "noida-cad-tech-bar-sector-94"
+      ],
+      "source": "https://cadtechbar.in/best-microbrewery-in-noida/"
+    },
+    {
+      "id": "cadtech-vanilla-porter",
+      "name": "Vanilla Porter",
+      "style": "Porter",
+      "venues": [
+        "noida-cad-tech-bar-sector-94"
+      ],
+      "source": "https://cadtechbar.in/best-microbrewery-in-noida/"
+    },
+    {
+      "id": "cadtech-witbier",
+      "name": "Witbier",
+      "style": "Belgian Wit",
+      "venues": [
+        "noida-cad-tech-bar-sector-94"
+      ],
+      "source": "https://cadtechbar.in/best-microbrewery-in-noida/"
+    },
+    {
+      "id": "cadtech-dark-lager",
+      "name": "Dark Lager",
+      "style": "Lager",
+      "venues": [
+        "noida-cad-tech-bar-sector-94"
+      ],
+      "source": "https://cadtechbar.in/best-microbrewery-in-noida/"
+    },
+    {
+      "id": "noidawery-german-lager",
+      "name": "German Lager",
+      "style": "Lager",
+      "venues": [
+        "noida-noidawery-sector-63"
+      ],
+      "source": "https://indifoodbev.com/food-ingredients/noidawery-brewery-hub/"
+    },
+    {
+      "id": "noidawery-belgian-wheat",
+      "name": "Belgian Wheat",
+      "style": "Belgian Wit",
+      "venues": [
+        "noida-noidawery-sector-63"
+      ],
+      "source": "https://indifoodbev.com/food-ingredients/noidawery-brewery-hub/"
+    },
+    {
+      "id": "catamaran-pondy-pils",
+      "name": "Pondy Pils",
+      "style": "Lager",
+      "venues": [
+        "puducherry-catamaran-brewing"
+      ],
+      "source": "https://www.catamaranbrewing.com/about-catamaran-brewing.html"
+    },
+    {
+      "id": "essencebrew-belgian-tripel",
+      "name": "Belgian Tripel",
+      "style": "Belgian Ale",
+      "venues": [
+        "puducherry-essence-brew"
+      ],
+      "source": "https://www.theaccordhotels.com/puducherry/dining/essence-brew"
+    },
+    {
+      "id": "essencebrew-german-pilsner",
+      "name": "German Pilsner",
+      "style": "Lager",
+      "venues": [
+        "puducherry-essence-brew"
+      ],
+      "source": "https://www.theaccordhotels.com/puducherry/dining/essence-brew"
+    },
+    {
+      "id": "great-state-neighborhood-classic-gose",
+      "name": "Neighborhood Classic Gose",
+      "style": "Sour",
+      "venues": [
+        "pune-great-state-dive-koregaon-park"
+      ],
+      "source": "https://www.greatstatealeworks.com/taproom"
+    },
+    {
+      "id": "great-state-third-act-neipa",
+      "name": "Third Act NEIPA",
+      "style": "IPA",
+      "venues": [
+        "pune-great-state-dive-koregaon-park"
+      ],
+      "source": "https://www.greatstatealeworks.com/taproom"
+    }
+  ],
+  "closed": [],
+  "unverifiable": [
+    {
+      "id": "mangaluru-spindrift",
+      "reason": "Own site unreachable; only 2018 Tripadvisor reviews found despite repeated attempts (Tripadvisor, Zomato, Dineout) — no 2025/2026 evidence of current trading."
+    },
+    {
+      "id": "mumbai-hapi-beer-co-bandra",
+      "reason": "Official site (hapibeer.com) is an unfilled placeholder template with no real address or menu; Instagram, Facebook, Zomato and Dineout fetches all failed within budget — could not confirm current status."
+    }
+  ]
+}

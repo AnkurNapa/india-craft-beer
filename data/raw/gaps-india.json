@@ -1,0 +1,130 @@
+{
+  "region": "gaps-outside-karnataka",
+  "venues": [
+    {
+      "id": "hyderabad-mob-belgian-beer-house",
+      "name": "MOB - Belgian Beer House",
+      "kind": "taproom",
+      "city": "Hyderabad",
+      "area": "Film Nagar",
+      "address": "8-2-293/82/J-III 550-I (above Little Italy), Road No. 92, near Apollo Hospital, Film Nagar, Hyderabad",
+      "lat": 17.4140574, "lng": 78.4105031,
+      "status": "open",
+      "sources": ["https://beerasia.net/craft-beer-guides/hyderabad-craft-beer-guide/"]
+    },
+    {
+      "id": "pune-kimaya-beer-station",
+      "name": "Kimaya Beer Station",
+      "kind": "brewpub",
+      "city": "Pune",
+      "area": "Sheela Vihar Colony",
+      "address": "58, Karve Rd, Jhala Co-Op Housing Society, Sheela Vihar Colony, Pune",
+      "lat": 18.4886644, "lng": 73.8140880,
+      "status": "open",
+      "sources": ["https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"]
+    },
+    {
+      "id": "pune-oi-brewing-company-kalyani-nagar",
+      "name": "Oi Brewing Company",
+      "kind": "taproom",
+      "city": "Pune",
+      "area": "Kalyani Nagar",
+      "address": "Ground Floor, Solitaire, next to Barbeque Nation, Kalyani Nagar, Pune",
+      "lat": 18.5498638, "lng": 73.8973453,
+      "status": "open",
+      "sources": ["https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"]
+    },
+    {
+      "id": "pune-downpour-baner",
+      "name": "Downpour",
+      "kind": "taproom",
+      "city": "Pune",
+      "area": "Baner",
+      "address": "Shop no. 14, Primrose The Mall, Baner, below Clan Fitness Club, Baner, Pune",
+      "lat": 18.5589937, "lng": 73.7845232,
+      "status": "open",
+      "sources": ["https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"]
+    },
+    {
+      "id": "pune-dorf-brewhouse-baner",
+      "name": "Dorf Brewhouse",
+      "kind": "brewpub",
+      "city": "Pune",
+      "area": "Baner",
+      "address": "5th Floor, A Wing, Capital Building, Baner - Pashan Link Rd, Baner, Pune",
+      "lat": 18.5522541, "lng": 73.7975149,
+      "status": "open",
+      "sources": ["https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"]
+    },
+    {
+      "id": "pune-babylon-craft-brewery-erandwane",
+      "name": "Babylon Craft Brewery",
+      "kind": "brewpub",
+      "city": "Pune",
+      "area": "Erandwane",
+      "address": "6th Floor, House Of Nosh, CTS 1365, Gulawani Maharaj Road, Swaroop Society, Vakil Nagar, Erandwane, Pune",
+      "lat": 18.5087486, "lng": 73.8318432,
+      "status": "open",
+      "sources": ["https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"]
+    }
+  ],
+  "beers": [
+    {
+      "id": "pune-kimaya-kairi-sour",
+      "name": "Kairi Sour",
+      "style": "Sour",
+      "venues": ["pune-kimaya-beer-station"],
+      "source": "https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"
+    },
+    {
+      "id": "pune-dorf-morning-light-rice-lager",
+      "name": "Morning Light Rice Lager",
+      "style": "Lager",
+      "venues": ["pune-dorf-brewhouse-baner"],
+      "source": "https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"
+    },
+    {
+      "id": "pune-dorf-hopkin-hoppy-lager",
+      "name": "Hopkin Hoppy Lager",
+      "style": "Lager",
+      "venues": ["pune-dorf-brewhouse-baner"],
+      "source": "https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"
+    },
+    {
+      "id": "pune-dorf-dark-ruby-schwarzbier",
+      "name": "Dark Ruby Schwarzbier",
+      "style": "Lager",
+      "venues": ["pune-dorf-brewhouse-baner"],
+      "source": "https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"
+    },
+    {
+      "id": "pune-babylon-puneri-lager",
+      "name": "Puneri Lager",
+      "style": "Lager",
+      "venues": ["pune-babylon-craft-brewery-erandwane"],
+      "source": "https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"
+    },
+    {
+      "id": "pune-babylon-hefeweizen",
+      "name": "Hefeweizen",
+      "style": "Hefeweizen",
+      "venues": ["pune-babylon-craft-brewery-erandwane"],
+      "source": "https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"
+    },
+    {
+      "id": "pune-babylon-belgian-wit",
+      "name": "Belgian Wit",
+      "style": "Belgian Wit",
+      "venues": ["pune-babylon-craft-brewery-erandwane"],
+      "source": "https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"
+    },
+    {
+      "id": "pune-babylon-oatmeal-stout",
+      "name": "Oatmeal Stout",
+      "style": "Stout",
+      "venues": ["pune-babylon-craft-brewery-erandwane"],
+      "source": "https://beerasia.net/craft-beer-guides/craft-beer-in-pune-city-guide/"
+    }
+  ],
+  "closed": []
+}

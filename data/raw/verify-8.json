@@ -1,0 +1,1000 @@
+{
+ "venues": [
+  {
+   "id": "pune-independence-brewing-kalyani-nagar",
+   "name": "Independence Brewing Company",
+   "kind": "microbrewery",
+   "city": "Pune",
+   "area": "Kalyani Nagar",
+   "address": "16/1, Mulik Palace, Wadgaon Sheri Rd, opposite Trump Towers, Kalyani Nagar, Pune 411014",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://www.zomato.com/pune/independence-brewing-company-kalyani-nagar",
+    "https://untappd.com/IndependenceBrewingCompany"
+   ]
+  },
+  {
+   "id": "pune-pune-beer-farm-growler-kharadi",
+   "name": "Pune Beer Farm - Growler Station",
+   "kind": "taproom",
+   "city": "Pune",
+   "area": "Kharadi",
+   "address": "Shop No.111, Gera Imperium Alpha, Kharadi, Pune",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://magicpin.in/Pune/Kharadi/Restaurant/Pune-Beer-Farm-Growler-Station/store/8988bc/photos/"
+   ]
+  },
+  {
+   "id": "pune-toit-kalyani-nagar",
+   "name": "Toit",
+   "kind": "brewpub",
+   "city": "Pune",
+   "area": "Kalyani Nagar",
+   "address": "Gcorp Pulse Mall, Kalyani Nagar, Pune",
+   "cities": null,
+   "lat": 18.5540074,
+   "lng": 73.9051438,
+   "status": "open",
+   "sources": [
+    "https://toit.in/restaurant/toit-pune/",
+    "https://www.zomato.com/pune/toit-1-kalyani-nagar"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "shillong-the-yeastern-civilization-laitumkhrah",
+   "name": "The Yeastern Civilization",
+   "kind": "brewpub",
+   "city": "Shillong",
+   "area": "Laitumkhrah",
+   "address": "TYC Building, Laitumkhrah, Nongkynrih, Shillong, Meghalaya 793003",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://eastmojo.com/news/2024/02/10/yeastern-civilisation-shillong-gets-its-first-microbrewery/",
+    "https://untappd.com/w/the-yeastern-civilization/562936"
+   ]
+  },
+  {
+   "id": "shimla-brewing-company",
+   "name": "Shimla Brewing Company",
+   "kind": "brewpub",
+   "city": "Shimla",
+   "area": "The Ridge",
+   "address": "Willow Banks Estate, The Ridge, Shimla, Himachal Pradesh 171001",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://www.brewer-world.com/inside-himachals-scenic-microbrewery-shimla-brewing-company/",
+    "https://untappd.com/v/shimla-brewing-company/11064552"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "shimla-brew-estate",
+   "name": "The Brew Estate",
+   "kind": "brewpub",
+   "city": "Shimla",
+   "area": "Lakkar Bazar, The Ridge",
+   "address": "Near Christ Church, The Ridge, Lakkar Bazar, Shimla, Himachal Pradesh 171001",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://www.tripadvisor.in/Restaurant_Review-g304552-d15321108-Reviews-The_Brew_Estate_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html",
+    "https://www.brewestate.in/the-brew-estate-the-ridge-shimla.php"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "udaipur-malibu-the-brewhouse",
+   "name": "Malibu The Brewhouse",
+   "kind": "brewpub",
+   "city": "Udaipur",
+   "area": null,
+   "address": "Udaipur, Rajasthan",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://saurabhbrewtech.com/malibu-the-brewhouse-udaipur/"
+   ]
+  },
+  {
+   "id": "udaipur-rhythm-and-brews",
+   "name": "Rhythm & Brews",
+   "kind": "brewpub",
+   "city": "Udaipur",
+   "area": "Debari",
+   "address": "The Qualia Resort Club & Brewery, 01, Debari, Airport Road, Near Maharaja College, Udaipur 313024",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://www.thequaliaudaipur.com/brewery/rhythm-and-brews.html"
+   ]
+  },
+  {
+   "id": "vijayawada-brunit-labbipet",
+   "name": "Brunit The Brewery",
+   "kind": "microbrewery",
+   "city": "Vijayawada",
+   "area": "Labbipet",
+   "address": "17, MG Road, Labbipet, Vijayawada, Andhra Pradesh",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://untappd.com/w/brunit-the-brewery/582866",
+    "https://www.district.in/dining/vijayawada/brunit-the-brewery-labbipet"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "vijayawada-ironhill",
+   "name": "Ironhill Vijayawada",
+   "kind": "microbrewery",
+   "city": "Vijayawada",
+   "area": "Mogalrajapuram / Labbipet",
+   "address": "40-7-6 Gowriah Street, Mogalrajapuram, Labbipet, Vijayawada, Andhra Pradesh 520010",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://ironhillindia.com/vijayawada/"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "vijayawada-vault-brewery",
+   "name": "Vault Brewery",
+   "kind": "brewpub",
+   "city": "Vijayawada",
+   "area": "Gayatri Nagar",
+   "address": "VSN Mall, Gayatri Nagar, Vijayawada, Andhra Pradesh 520008",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://www.eazydiner.com/vijayawada/vault-brewery-gayatri-nagar-vijayawada-704204",
+    "https://www.zomato.com/vijayawada/vault-brewery-gurunanak-colony"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "visakhapatnam-ironhill",
+   "name": "Ironhill Visakhapatnam",
+   "kind": "microbrewery",
+   "city": "Visakhapatnam",
+   "area": "Siripuram",
+   "address": "1st 25, 9, 30-1, Waltair Main Rd, Above PMJ Jewellers, Siripuram, Visakhapatnam, Andhra Pradesh 530003",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://ironhillindia.com/vizag/"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "visakhapatnam-myz-uno",
+   "name": "MYZ - UNO",
+   "kind": "brewpub",
+   "city": "Visakhapatnam",
+   "area": "Siripuram",
+   "address": "Central Building, 4, VIP Rd, Siripuram, Visakhapatnam, Andhra Pradesh 530013",
+   "cities": null,
+   "status": "open",
+   "sources": [
+    "https://wanderlog.com/place/details/1560235/myz-uno-vizag",
+    "https://www.tripadvisor.com/Restaurant_Review-g297588-d13481019-Reviews-Myz_Uno_Brew_Pub-Visakhapatnam_Visakhapatnam_District_Andhra_Pradesh.html"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "packaged-arbor-brewing-company",
+   "name": "Arbor Brewing Company",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Bengaluru",
+    "Goa"
+   ],
+   "status": "open",
+   "sources": [
+    "https://www.arborbrewing.in/",
+    "https://lbb.in/bangalore/arbor-brewing-company-bangalore/"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "packaged-bira91",
+   "name": "Bira 91",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Delhi",
+    "Uttar Pradesh"
+   ],
+   "status": "open",
+   "sources": [
+    "https://inc42.com/features/inside-the-bitter-collapse-of-bira-91/",
+    "https://www.businesstoday.in/latest/corporate/story/bira-91-makers-move-to-sell-an-asset-as-it-fails-to-clear-salary-pf-dues-report-501165-2025-11-07",
+    "https://agamalaw.in/2025/11/24/bira-91-case-study/"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "packaged-bombay-duck-brewing",
+   "name": "Bombay Duck Brewing",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Mumbai"
+   ],
+   "status": "open",
+   "sources": [
+    "https://homegrown.co.in/homegrown-explore/try-bombay-duck-brewings-handcrafted-artisanal-ale",
+    "https://untappd.com/BombayDuckBrewing"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "packaged-goa-brewing-co",
+   "name": "Goa Brewing Co",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Goa",
+    "Bengaluru"
+   ],
+   "status": "open",
+   "sources": [
+    "https://goabrewing.co/",
+    "https://bottlestoreblr.com/products/goa-brewing-co-lager-beer"
+   ]
+  },
+  {
+   "id": "packaged-great-state-aleworks",
+   "name": "Great State Aleworks",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Pune",
+    "Mumbai",
+    "Goa"
+   ],
+   "status": "open",
+   "sources": [
+    "https://www.greatstatealeworks.com/",
+    "https://iforexplore.com/a-sneak-peek-into-great-state-aleworks-brewery/"
+   ]
+  },
+  {
+   "id": "packaged-kati-patang",
+   "name": "Kati Patang",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Delhi",
+    "Mumbai",
+    "Kolkata",
+    "Bengaluru"
+   ],
+   "status": "open",
+   "sources": [
+    "https://katipatang.com/our-brews",
+    "https://brewsnspirits.in/kati-patang-beer-available-in-bengaluru-and-delhi"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "packaged-maka-di",
+   "name": "Maka di (Latambarcem Brewers)",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Goa",
+    "Bengaluru"
+   ],
+   "status": "open",
+   "sources": [
+    "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm",
+    "https://yourstory.com/2020/11/goa-startup-bharat-craft-beer-startup-maka-di"
+   ]
+  },
+  {
+   "id": "packaged-medusa",
+   "name": "Medusa",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Delhi",
+    "Punjab",
+    "Chandigarh",
+    "Uttar Pradesh",
+    "Himachal Pradesh",
+    "Uttarakhand",
+    "Chhattisgarh",
+    "Goa"
+   ],
+   "status": "open",
+   "sources": [
+    "https://medusabeer.com/",
+    "https://www.mediainfoline.com/foodies/medusa-available-delhi-punjab-chadigarh-up-chattisgarh",
+    "https://brewsnspirits.in/medusa-air-hits-delhi-market"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "packaged-simba",
+   "name": "Simba",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Delhi",
+    "Haryana",
+    "Chandigarh",
+    "Himachal Pradesh",
+    "Punjab",
+    "Uttarakhand",
+    "Assam",
+    "Arunachal Pradesh",
+    "Tripura",
+    "Meghalaya",
+    "Jharkhand",
+    "Chhattisgarh",
+    "Maharashtra",
+    "Karnataka",
+    "Goa"
+   ],
+   "status": "open",
+   "sources": [
+    "https://simbabeer.com/our-beers/",
+    "https://www.brewer-world.com/simba-celebrates-seven-roaring-years-of-brewing-finely-crafted-beer-in-india/",
+    "https://madiraprices.com/simba-beer-price/"
+   ],
+   "checked": "2026-09-23"
+  },
+  {
+   "id": "packaged-white-rhino",
+   "name": "White Rhino",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Delhi"
+   ],
+   "status": "open",
+   "sources": [
+    "https://untappd.com/WhiteRhinoBrewingCo",
+    "https://tracxn.com/d/companies/whiterhinobrewing/__ncyXYTmNbV5pW57QXSZQK-cqHfo9tBGrdTIBMyIUxNo"
+   ]
+  },
+  {
+   "id": "packaged-witlinger",
+   "name": "Witlinger",
+   "kind": "packaged",
+   "city": null,
+   "area": null,
+   "address": null,
+   "cities": [
+    "Delhi",
+    "Mumbai"
+   ],
+   "status": "open",
+   "sources": [
+    "https://www.witlinger.com/",
+    "https://indianfoodfreak.com/2016/04/22/wilinger-beer-launch-india/"
+   ]
+  }
+ ],
+ "beers": [
+  {
+   "id": "ibc-band-wit",
+   "name": "Band Wit",
+   "style": "Belgian Wit",
+   "venues": [
+    "pune-independence-brewing-kalyani-nagar"
+   ],
+   "source": "https://untappd.com/IndependenceBrewingCompany"
+  },
+  {
+   "id": "ibc-weissbier",
+   "name": "German Weissbier",
+   "style": "Hefeweizen",
+   "venues": [
+    "pune-independence-brewing-kalyani-nagar"
+   ],
+   "source": "https://untappd.com/IndependenceBrewingCompany"
+  },
+  {
+   "id": "ibc-nitro-stout",
+   "name": "Nitro Stout",
+   "style": "Stout",
+   "venues": [
+    "pune-independence-brewing-kalyani-nagar"
+   ],
+   "source": "https://untappd.com/IndependenceBrewingCompany"
+  },
+  {
+   "id": "toit-banger-lager",
+   "name": "Banger Lager",
+   "style": "Lager",
+   "venues": [
+    "pune-toit-kalyani-nagar"
+   ],
+   "source": "https://toit.in/restaurant/toit-pune/"
+  },
+  {
+   "id": "toit-tint-in-wit",
+   "name": "Tint-In-Wit",
+   "style": "Belgian Wit",
+   "venues": [
+    "pune-toit-kalyani-nagar"
+   ],
+   "source": "https://toit.in/restaurant/toit-pune/"
+  },
+  {
+   "id": "toit-nitro-stout",
+   "name": "Nitro Stout",
+   "style": "Stout",
+   "venues": [
+    "pune-toit-kalyani-nagar"
+   ],
+   "source": "https://toit.in/restaurant/toit-pune/"
+  },
+  {
+   "id": "toit-basmati-blonde",
+   "name": "Basmati Blonde",
+   "style": "Blonde Ale",
+   "venues": [
+    "pune-toit-kalyani-nagar"
+   ],
+   "source": "https://toit.in/restaurant/toit-pune/"
+  },
+  {
+   "id": "toit-weiss",
+   "name": "Toit Hefeweizen",
+   "style": "Hefeweizen",
+   "venues": [
+    "pune-toit-kalyani-nagar"
+   ],
+   "source": "https://toit.in/restaurant/toit-pune/"
+  },
+  {
+   "id": "toit-red-ale",
+   "name": "Toit Red Ale",
+   "style": "Pale Ale",
+   "venues": [
+    "pune-toit-kalyani-nagar"
+   ],
+   "source": "https://toit.in/restaurant/toit-pune/"
+  },
+  {
+   "id": "toit-ipa",
+   "name": "Toit India Pale Ale",
+   "style": "IPA",
+   "venues": [
+    "pune-toit-kalyani-nagar"
+   ],
+   "source": "https://toit.in/restaurant/toit-pune/"
+  },
+  {
+   "id": "yeastern-civilization-balthazar",
+   "name": "Balthazar",
+   "style": "Belgian Ale",
+   "venues": [
+    "shillong-the-yeastern-civilization-laitumkhrah"
+   ],
+   "source": "https://untappd.com/w/the-yeastern-civilization/562936"
+  },
+  {
+   "id": "yeastern-civilization-tripel",
+   "name": "Tripel",
+   "style": "Belgian Ale",
+   "venues": [
+    "shillong-the-yeastern-civilization-laitumkhrah"
+   ],
+   "source": "https://untappd.com/w/the-yeastern-civilization/562936"
+  },
+  {
+   "id": "shimla-brewing-belgian-wit",
+   "name": "Belgian Wit",
+   "style": "Belgian Wit",
+   "venues": [
+    "shimla-brewing-company"
+   ],
+   "source": "https://www.brewer-world.com/inside-himachals-scenic-microbrewery-shimla-brewing-company/"
+  },
+  {
+   "id": "shimla-brewing-blonde-ale",
+   "name": "Blonde",
+   "style": "Blonde Ale",
+   "venues": [
+    "shimla-brewing-company"
+   ],
+   "source": "https://www.brewer-world.com/inside-himachals-scenic-microbrewery-shimla-brewing-company/"
+  },
+  {
+   "id": "shimla-brewing-dark-ale",
+   "name": "Dark Ale",
+   "style": "Porter",
+   "venues": [
+    "shimla-brewing-company"
+   ],
+   "source": "https://www.brewer-world.com/inside-himachals-scenic-microbrewery-shimla-brewing-company/"
+  },
+  {
+   "id": "shimla-brewing-belgian-strong-ale",
+   "name": "Belgian Strong Ale",
+   "style": "Belgian Ale",
+   "venues": [
+    "shimla-brewing-company"
+   ],
+   "source": "https://www.brewer-world.com/inside-himachals-scenic-microbrewery-shimla-brewing-company/"
+  },
+  {
+   "id": "shimla-brewing-old-monk-ale",
+   "name": "Old Monk Ale",
+   "style": "Belgian Ale",
+   "venues": [
+    "shimla-brewing-company"
+   ],
+   "source": "https://www.brewer-world.com/inside-himachals-scenic-microbrewery-shimla-brewing-company/"
+  },
+  {
+   "id": "brew-estate-strawberry-ale",
+   "name": "Strawberry Ale",
+   "style": "Belgian Ale",
+   "venues": [
+    "shimla-brew-estate"
+   ],
+   "source": "https://www.tripadvisor.in/Restaurant_Review-g304552-d15321108-Reviews-The_Brew_Estate_Shimla-Shimla_Shimla_District_Himachal_Pradesh.html"
+  },
+  {
+   "id": "ironhill-wonderland-wheat",
+   "name": "Wonderland & Wheat",
+   "style": "Hefeweizen",
+   "venues": [
+    "vijayawada-ironhill",
+    "visakhapatnam-ironhill"
+   ],
+   "source": "https://ironhillindia.com/vijayawada/"
+  },
+  {
+   "id": "ironhill-sinnerman-stout",
+   "name": "Sinnerman Stout",
+   "style": "Stout",
+   "venues": [
+    "vijayawada-ironhill",
+    "visakhapatnam-ironhill"
+   ],
+   "source": "https://ironhillindia.com/vijayawada/"
+  },
+  {
+   "id": "ironhill-lost-lager",
+   "name": "L.O.S.T. Lager",
+   "style": "Lager",
+   "venues": [
+    "vijayawada-ironhill",
+    "visakhapatnam-ironhill"
+   ],
+   "source": "https://ironhillindia.com/vijayawada/"
+  },
+  {
+   "id": "ironhill-afterlife-ale",
+   "name": "Afterlife Ale",
+   "style": "Pale Ale",
+   "venues": [
+    "vijayawada-ironhill",
+    "visakhapatnam-ironhill"
+   ],
+   "source": "https://ironhillindia.com/vijayawada/"
+  },
+  {
+   "id": "brunit-midnight-pour",
+   "name": "Midnight Pour",
+   "style": "Belgian Ale",
+   "venues": [
+    "vijayawada-brunit-labbipet"
+   ],
+   "source": "https://untappd.com/w/brunit-the-brewery/582866"
+  },
+  {
+   "id": "brunit-red-ripple",
+   "name": "Red Ripple",
+   "style": "Pale Ale",
+   "venues": [
+    "vijayawada-brunit-labbipet"
+   ],
+   "source": "https://untappd.com/w/brunit-the-brewery/582866"
+  },
+  {
+   "id": "brunit-time-traveller",
+   "name": "Time Traveller",
+   "style": "Lager",
+   "venues": [
+    "vijayawada-brunit-labbipet"
+   ],
+   "source": "https://untappd.com/w/brunit-the-brewery/582866"
+  },
+  {
+   "id": "vault-vja-bezawiser",
+   "name": "Bezawiser",
+   "style": "Lager",
+   "venues": [
+    "vijayawada-vault-brewery"
+   ],
+   "source": "https://www.eazydiner.com/vijayawada/vault-brewery-gayatri-nagar-vijayawada-704204"
+  },
+  {
+   "id": "vault-vja-bit-weet",
+   "name": "Bit-Weet",
+   "style": "Hefeweizen",
+   "venues": [
+    "vijayawada-vault-brewery"
+   ],
+   "source": "https://www.eazydiner.com/vijayawada/vault-brewery-gayatri-nagar-vijayawada-704204"
+  },
+  {
+   "id": "vault-vja-brewers-blend",
+   "name": "Brewers Blend",
+   "style": "Porter",
+   "venues": [
+    "vijayawada-vault-brewery"
+   ],
+   "source": "https://www.eazydiner.com/vijayawada/vault-brewery-gayatri-nagar-vijayawada-704204"
+  },
+  {
+   "id": "arbor-bollywood-blonde",
+   "name": "Bollywood Blonde",
+   "style": "Blonde Ale",
+   "venues": [
+    "packaged-arbor-brewing-company"
+   ],
+   "source": "https://www.arborbrewing.in/"
+  },
+  {
+   "id": "arbor-raging-elephant-ipa",
+   "name": "Raging Elephant IPA",
+   "style": "IPA",
+   "venues": [
+    "packaged-arbor-brewing-company"
+   ],
+   "source": "https://www.arborbrewing.in/"
+  },
+  {
+   "id": "arbor-idaho-7-lager",
+   "name": "Idaho 7 Lager",
+   "style": "Lager",
+   "venues": [
+    "packaged-arbor-brewing-company"
+   ],
+   "source": "https://www.arborbrewing.in/"
+  },
+  {
+   "id": "arbor-bangalore-bliss-hefeweizen",
+   "name": "Bangalore Bliss Hefeweizen",
+   "style": "Hefeweizen",
+   "venues": [
+    "packaged-arbor-brewing-company"
+   ],
+   "source": "https://www.arborbrewing.in/"
+  },
+  {
+   "id": "arbor-michael-faricy-stout",
+   "name": "Michael Faricy Stout",
+   "style": "Stout",
+   "venues": [
+    "packaged-arbor-brewing-company"
+   ],
+   "source": "https://www.arborbrewing.in/"
+  },
+  {
+   "id": "arbor-beach-shack-ipa",
+   "name": "Beach Shack IPA",
+   "style": "IPA",
+   "venues": [
+    "packaged-arbor-brewing-company"
+   ],
+   "source": "https://www.arborbrewing.in/"
+  },
+  {
+   "id": "arbor-mango-maibock",
+   "name": "Mango Maibock",
+   "style": "Lager",
+   "venues": [
+    "packaged-arbor-brewing-company"
+   ],
+   "source": "https://www.arborbrewing.in/"
+  },
+  {
+   "id": "bira91-white",
+   "name": "Bira 91 White",
+   "style": "Belgian Wit",
+   "venues": [
+    "packaged-bira91"
+   ],
+   "source": "https://inc42.com/features/inside-the-bitter-collapse-of-bira-91/"
+  },
+  {
+   "id": "bira91-blonde",
+   "name": "Bira 91 Blonde",
+   "style": "Lager",
+   "venues": [
+    "packaged-bira91"
+   ],
+   "source": "https://inc42.com/features/inside-the-bitter-collapse-of-bira-91/"
+  },
+  {
+   "id": "bira91-ipa",
+   "name": "Bira 91 IPA",
+   "style": "IPA",
+   "venues": [
+    "packaged-bira91"
+   ],
+   "source": "https://inc42.com/features/inside-the-bitter-collapse-of-bira-91/"
+  },
+  {
+   "id": "bira91-strong",
+   "name": "Bira 91 Strong",
+   "style": "Strong Lager",
+   "venues": [
+    "packaged-bira91"
+   ],
+   "source": "https://inc42.com/features/inside-the-bitter-collapse-of-bira-91/"
+  },
+  {
+   "id": "bombay-duck-bombae",
+   "name": "Bombae",
+   "style": "Lager",
+   "venues": [
+    "packaged-bombay-duck-brewing"
+   ],
+   "source": "https://homegrown.co.in/homegrown-explore/try-bombay-duck-brewings-handcrafted-artisanal-ale"
+  },
+  {
+   "id": "bombay-duck-rice-and-shine",
+   "name": "Rice & Shine",
+   "style": "Saison",
+   "venues": [
+    "packaged-bombay-duck-brewing"
+   ],
+   "source": "https://homegrown.co.in/homegrown-explore/try-bombay-duck-brewings-handcrafted-artisanal-ale"
+  },
+  {
+   "id": "bombay-duck-sunset",
+   "name": "Sunset",
+   "style": "Belgian Wit",
+   "venues": [
+    "packaged-bombay-duck-brewing"
+   ],
+   "source": "https://homegrown.co.in/homegrown-explore/try-bombay-duck-brewings-handcrafted-artisanal-ale"
+  },
+  {
+   "id": "bombay-duck-thirst-trap",
+   "name": "Thirst Trap",
+   "style": "IPA",
+   "venues": [
+    "packaged-bombay-duck-brewing"
+   ],
+   "source": "https://homegrown.co.in/homegrown-explore/try-bombay-duck-brewings-handcrafted-artisanal-ale"
+  },
+  {
+   "id": "goa-brewing-co-lager",
+   "name": "Goa Brewing Co. Lager",
+   "style": "Lager",
+   "venues": [
+    "packaged-goa-brewing-co"
+   ],
+   "source": "https://bottlestoreblr.com/products/goa-brewing-co-lager-beer"
+  },
+  {
+   "id": "kati-patang-zesty-amber-ale",
+   "name": "Zesty Amber",
+   "style": "Pale Ale",
+   "venues": [
+    "packaged-kati-patang"
+   ],
+   "source": "https://katipatang.com/our-brews"
+  },
+  {
+   "id": "kati-patang-snappy-wheat",
+   "name": "Snappy Wheat",
+   "style": "Hefeweizen",
+   "venues": [
+    "packaged-kati-patang"
+   ],
+   "source": "https://katipatang.com/our-brews"
+  },
+  {
+   "id": "kati-patang-saffron-lager",
+   "name": "Saffron Lager",
+   "style": "Lager",
+   "venues": [
+    "packaged-kati-patang"
+   ],
+   "source": "https://katipatang.com/our-brews"
+  },
+  {
+   "id": "kati-patang-freedom-lager",
+   "name": "Freedom Lager",
+   "style": "Lager",
+   "venues": [
+    "packaged-kati-patang"
+   ],
+   "source": "https://katipatang.com/our-brews"
+  },
+  {
+   "id": "kati-patang-bareilly-bold",
+   "name": "Bareilly Bold",
+   "style": "Strong Lager",
+   "venues": [
+    "packaged-kati-patang"
+   ],
+   "source": "https://katipatang.com/our-brews"
+  },
+  {
+   "id": "maka-di-belgian-blanche",
+   "name": "Maka di Belgian Blanche",
+   "style": "Belgian Wit",
+   "venues": [
+    "packaged-maka-di"
+   ],
+   "source": "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm"
+  },
+  {
+   "id": "maka-di-american-lager",
+   "name": "Maka di American Lager",
+   "style": "Lager",
+   "venues": [
+    "packaged-maka-di"
+   ],
+   "source": "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm"
+  },
+  {
+   "id": "maka-di-belgian-triple",
+   "name": "Maka di Belgian Triple",
+   "style": "Belgian Ale",
+   "venues": [
+    "packaged-maka-di"
+   ],
+   "source": "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm"
+  },
+  {
+   "id": "maka-di-honey-ale",
+   "name": "Maka di Honey Ale",
+   "style": "Belgian Ale",
+   "venues": [
+    "packaged-maka-di"
+   ],
+   "source": "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm"
+  },
+  {
+   "id": "maka-di-bavarian-keller",
+   "name": "Maka di Bavarian Keller",
+   "style": "Lager",
+   "venues": [
+    "packaged-maka-di"
+   ],
+   "source": "https://beveragetradenetwork.com/en/brands/beer-4/india-105/maka-di-honey-ale-11164.htm"
+  },
+  {
+   "id": "medusa-premium-strong",
+   "name": "Medusa Premium Strong Beer",
+   "style": "Strong Lager",
+   "venues": [
+    "packaged-medusa"
+   ],
+   "source": "https://medusabeer.com/"
+  },
+  {
+   "id": "medusa-air",
+   "name": "Medusa Air",
+   "style": "Lager",
+   "venues": [
+    "packaged-medusa"
+   ],
+   "source": "https://medusabeer.com/"
+  },
+  {
+   "id": "simba-wit",
+   "name": "Simba Wit",
+   "style": "Belgian Wit",
+   "venues": [
+    "packaged-simba"
+   ],
+   "source": "https://simbabeer.com/our-beers/"
+  },
+  {
+   "id": "simba-stout",
+   "name": "Simba Stout",
+   "style": "Stout",
+   "venues": [
+    "packaged-simba"
+   ],
+   "source": "https://simbabeer.com/our-beers/"
+  },
+  {
+   "id": "simba-lager",
+   "name": "Simba Lager",
+   "style": "Lager",
+   "venues": [
+    "packaged-simba"
+   ],
+   "source": "https://simbabeer.com/our-beers/"
+  },
+  {
+   "id": "simba-strong",
+   "name": "Simba Strong",
+   "style": "Strong Lager",
+   "venues": [
+    "packaged-simba"
+   ],
+   "source": "https://simbabeer.com/our-beers/"
+  },
+  {
+   "id": "white-rhino-lager",
+   "name": "White Rhino Lager",
+   "style": "Lager",
+   "venues": [
+    "packaged-white-rhino"
+   ],
+   "source": "https://untappd.com/WhiteRhinoBrewingCo"
+  },
+  {
+   "id": "white-rhino-ipa",
+   "name": "White Rhino IPA",
+   "style": "IPA",
+   "venues": [
+    "packaged-white-rhino"
+   ],
+   "source": "https://untappd.com/WhiteRhinoBrewingCo"
+  },
+  {
+   "id": "white-rhino-pale-ale",
+   "name": "White Rhino Pale Ale",
+   "style": "Pale Ale",
+   "venues": [
+    "packaged-white-rhino"
+   ],
+   "source": "https://untappd.com/WhiteRhinoBrewingCo"
+  },
+  {
+   "id": "witlinger-wheat-ale",
+   "name": "Witlinger Wheat Ale",
+   "style": "Belgian Wit",
+   "venues": [
+    "packaged-witlinger"
+   ],
+   "source": "https://www.witlinger.com/"
+  },
+  {
+   "id": "witlinger-premium-lager",
+   "name": "Witlinger Premium Lager",
+   "style": "Lager",
+   "venues": [
+    "packaged-witlinger"
+   ],
+   "source": "https://www.witlinger.com/"
+  }
+ ],
+ "closed": [],
+ "unverifiable": []
+}
